@@ -90,4 +90,37 @@ def graph_analysis(data):
     return values
 
 
+def productSpecification(spec):
+    if(spec == 0):
+        Butterfly_Cooker = pd.read_csv(
+            'ProductsDatasetFile/ProductSpecifications/Butterfly_Cooker.csv')
+        return {i: j for i, j in zip(Butterfly_Cooker.columns.values, Butterfly_Cooker.values[0][0:])}
+
+    elif(spec == 1):
+        Butterfly_Kettle = pd.read_csv(
+            'ProductsDatasetFile/ProductSpecifications/Butterfly_Kettle.csv')
+        return {i: j for i, j in zip(Butterfly_Kettle.columns.values, Butterfly_Kettle.values[0][0:])}
+    elif(spec == 2):
+        ButterFly_Mixer = pd.read_csv(
+            'ProductsDatasetFile/ProductSpecifications/ButterFly_Mixer.csv')
+        return {i: j for i, j in zip(ButterFly_Mixer.columns.values, ButterFly_Mixer.values[0][0:])}
+    elif(spec == 3):
+        Butterfly_Stove = pd.read_csv(
+            'ProductsDatasetFile/ProductSpecifications/Butterfly_Stove.csv')
+        return {i: j for i, j in zip(Butterfly_Stove.columns.values, Butterfly_Stove.values[0][0:])}
+    elif(spec == 4):
+        RapidJarJuicerMixerGrinderReviews = pd.read_csv(
+            'ProductsDatasetFile/ProductSpecifications/RapidJarJuicerMixerGrinderReviews.csv')
+        return {i: j for i, j in zip(RapidJarJuicerMixerGrinderReviews.columns.values, RapidJarJuicerMixerGrinderReviews.values[0][0:])}
+    elif(spec == 5):
+        TawaReview = pd.read_csv(
+            'ProductsDatasetFile/ProductSpecifications/TawaReview.csv')
+        return {i: j for i, j in zip(TawaReview.columns.values, TawaReview.values[0][0:])}
+    else:
+        return {}
+
+
+#m = productSpecification(2)
+# print(m)
+
 # graph_analysis(data)

@@ -75,6 +75,7 @@ def combiningAllProduct():
     allReviews.reset_index(inplace=True, drop=True)
     return allReviews
 
+
 # ----------------------------  Home Page ----------------------------------
 @app.route("/")
 def homePage():
@@ -108,7 +109,7 @@ def conclusion():
     elif(selection == 6):
         productName = 'Combine all product '
         graphData = pds.graph_analysis(combiningAllProduct())
-    return render_template('conclusion.html', data=graphData, productPics=productPics, imgVal=selection, productName=productName)
+    return render_template('conclusion.html', data=graphData, productPics=productPics, imgVal=selection, productName=productName, specs=pds.productSpecification(selection))
 
 
 if __name__ == '__main__':
