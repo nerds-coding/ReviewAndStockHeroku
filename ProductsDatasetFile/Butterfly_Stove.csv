@@ -1,0 +1,651 @@
+User Rating,User Review,User Name,Review Date,DateOfReview,FinalText,FinalTextSentimentNegative,FinalTextSentimentPositive,FinalTextSentimentNeutral,FinalTextSentimentCompound,FinalTextSentiment,UserReviewSentimentNegative,UserReviewSentimentPositive,UserReviewSentimentNeutral,UserReviewSentimentCompound,UserReviewSentiment
+5.0,"Good product worth the money, its a small one compared to my old stove but its perfect in my space. It got a cute looks and works well, got delivered very fast, wishing it works well in future too. I have order for lighter too but its getting later to get delivered so now adjusting it with matchstick..",muhammed m rasheed,"Jun, 2019",2019-06-04,Good product worth money small one compare old stove perfect space It get cute look work well got deliver fast wish work well future I order light get later get deliver adjust matchstick,0.0,0.414,0.586,0.9468,pos,0.0,0.287,0.713,0.9613,pos
+5.0,Thank you so much am very happy.....  What I seen in image I received the same and good quality. Thank you flipkart.......,Flipkart Customer,5months ago,2020-03-04,Thank much happy What I see image I receive good quality Thank flipkart,0.0,0.563,0.437,0.891,pos,0.0,0.398,0.602,0.8977,pos
+5.0,it was really great looking has  nice  .... but I am not used today I am going to use ..... thank you flipkart,Flipkart Customer,"Feb, 2019",2019-02-04,really great look nice I use today I go use thank flipkart,0.0,0.525,0.475,0.8737,pos,0.0,0.282,0.718,0.7812,pos
+4.0,nice and awesome good product rate from very wortheble product really awesome,Muralidharan  Indhumathi,7months ago,2020-01-04,nice awesome good product rate wortheble product really awesome,0.0,0.739,0.261,0.9348,pos,0.0,0.64,0.36,0.9348,pos
+5.0,"excellent product , top brand, slim and speak design, durable , worth for this price...working fantastic...",Vivek Sankar,7months ago,2020-01-04,excellent product top brand slim speak design durable worth price work fantastic,0.0,0.579,0.421,0.875,pos,0.0,0.478,0.522,0.875,pos
+5.0,Moved this product. Completely Justifying its value. Usage less space comparison to old Gas Stoves. Very easy to clean. Burner quality is also very good and the stand provided to put utensils for cooking is perfectly provided and giving perfect height. I am completely satisfied with this product at this price.,Vijay Raj Verma,7months ago,2020-01-04,Moved product Completely Justifying value Usage less space comparison old Gas Stoves Very easy clean Burner quality also good stand provide put utensil cooking perfectly provide give perfect height I completely satisfied product price,0.0,0.457,0.543,0.971,pos,0.0,0.371,0.629,0.9761,pos
+5.0,excellent and economic product... just go for it.. keep maintaining the same standard as butterfly keeps as  long as ago... love it and awesome shopping in flipkart.. thanks to one and all for the greatest efforts during big billion days.,Pradeep Pradeep,9months ago,2019-11-04,excellent economic product go keep maintain standard butterfly keep long ago love awesome shopping flipkart thanks one great effort big billion day,0.0,0.528,0.472,0.9638,pos,0.0,0.353,0.647,0.9643,pos
+5.0,"Good Quality, Early delivery . The glass top is beautiful, sleek, easy to clean. It is manual, buy a lighter",Vishnu  Thilakan ,10months ago,2019-10-04,Good Quality Early delivery The glass top beautiful sleek easy clean It manual buy lighter,0.0,0.587,0.413,0.9217,pos,0.0,0.486,0.514,0.9217,pos
+5.0,Liked it. Good built quality. Burns quality a little disappointed. otherwise best product. My mom really liked it. thanks to seller and Ff,Ashik Basheer,11months ago,2019-09-04,Liked Good build quality Burns quality little disappointed otherwise best product My mom really like thank seller Ff,0.088,0.566,0.346,0.9349,pos,0.075,0.498,0.427,0.9421,pos
+5.0,Excellent to product butterfly gas stove perfectly working all function shine glass edge is nice cutting,Velarasan ,11months ago,2019-09-04,Excellent product butterfly gas stove perfectly work function shine glass edge nice cut,0.096,0.491,0.413,0.8625,pos,0.062,0.442,0.496,0.8807,pos
+5.0,"Good product worth the money, its a small one compared to my old stove but its perfect in my space. It got a cute looks and works well, got delivered very fast, wishing it works well in future too. I have order for lighter too but its getting later to get delivered so now adjusting it with matchstick..",muhammed m rasheed,"Jun, 2019",2019-06-04,Good product worth money small one compare old stove perfect space It get cute look work well got deliver fast wish work well future I order light get later get deliver adjust matchstick,0.0,0.414,0.586,0.9468,pos,0.0,0.287,0.713,0.9613,pos
+5.0,Thank you so much am very happy.....  What I seen in image I received the same and good quality. Thank you flipkart.......,Flipkart Customer,5months ago,2020-03-04,Thank much happy What I see image I receive good quality Thank flipkart,0.0,0.563,0.437,0.891,pos,0.0,0.398,0.602,0.8977,pos
+5.0,it was really great looking has  nice  .... but I am not used today I am going to use ..... thank you flipkart,Flipkart Customer,"Feb, 2019",2019-02-04,really great look nice I use today I go use thank flipkart,0.0,0.525,0.475,0.8737,pos,0.0,0.282,0.718,0.7812,pos
+4.0,nice and awesome good product rate from very wortheble product really awesome,Muralidharan  Indhumathi,7months ago,2020-01-04,nice awesome good product rate wortheble product really awesome,0.0,0.739,0.261,0.9348,pos,0.0,0.64,0.36,0.9348,pos
+5.0,"excellent product , top brand, slim and speak design, durable , worth for this price...working fantastic...",Vivek Sankar,7months ago,2020-01-04,excellent product top brand slim speak design durable worth price work fantastic,0.0,0.579,0.421,0.875,pos,0.0,0.478,0.522,0.875,pos
+5.0,Moved this product. Completely Justifying its value. Usage less space comparison to old Gas Stoves. Very easy to clean. Burner quality is also very good and the stand provided to put utensils for cooking is perfectly provided and giving perfect height. I am completely satisfied with this product at this price.,Vijay Raj Verma,7months ago,2020-01-04,Moved product Completely Justifying value Usage less space comparison old Gas Stoves Very easy clean Burner quality also good stand provide put utensil cooking perfectly provide give perfect height I completely satisfied product price,0.0,0.457,0.543,0.971,pos,0.0,0.371,0.629,0.9761,pos
+5.0,excellent and economic product... just go for it.. keep maintaining the same standard as butterfly keeps as  long as ago... love it and awesome shopping in flipkart.. thanks to one and all for the greatest efforts during big billion days.,Pradeep Pradeep,9months ago,2019-11-04,excellent economic product go keep maintain standard butterfly keep long ago love awesome shopping flipkart thanks one great effort big billion day,0.0,0.528,0.472,0.9638,pos,0.0,0.353,0.647,0.9643,pos
+5.0,"Good Quality, Early delivery . The glass top is beautiful, sleek, easy to clean. It is manual, buy a lighter",Vishnu  Thilakan ,10months ago,2019-10-04,Good Quality Early delivery The glass top beautiful sleek easy clean It manual buy lighter,0.0,0.587,0.413,0.9217,pos,0.0,0.486,0.514,0.9217,pos
+5.0,Liked it. Good built quality. Burns quality a little disappointed. otherwise best product. My mom really liked it. thanks to seller and Ff,Ashik Basheer,11months ago,2019-09-04,Liked Good build quality Burns quality little disappointed otherwise best product My mom really like thank seller Ff,0.088,0.566,0.346,0.9349,pos,0.075,0.498,0.427,0.9421,pos
+5.0,Excellent to product butterfly gas stove perfectly working all function shine glass edge is nice cutting,Velarasan ,11months ago,2019-09-04,Excellent product butterfly gas stove perfectly work function shine glass edge nice cut,0.096,0.491,0.413,0.8625,pos,0.062,0.442,0.496,0.8807,pos
+5.0,I am very happy to buy this product   Am very much proud of myself that I took the decision to choose butterfly  I as a user always recommend you all to go for  it without any hesitations           Thanks to flip cart to bring this amazing product to me!!!,Flipkart Customer,6months ago,2020-02-04,I happy buy product Am much proud I take decision choose butterfly I user always recommend go without hesitation Thanks flip cart bring amazing product,0.066,0.411,0.523,0.9101,pos,0.039,0.278,0.683,0.9398,pos
+5.0,look wise soosoo cool I extremely like it best product ever,Flipkart Customer,6months ago,2020-02-04,look wise soosoo cool I extremely like best product ever,0.0,0.679,0.321,0.9131,pos,0.0,0.644,0.356,0.9128,pos
+4.0,"using more than a month , so far it is good value for the money , burner is good with nice flame",Flipkart Customer,6months ago,2020-02-04,use month far good value money burner good nice flame,0.0,0.647,0.353,0.875,pos,0.0,0.379,0.621,0.875,pos
+5.0,one of the best kitchen gadget really enjoyed cooking the flame is little less when compared to other gas stoves but heats up fast and evenly....,Immanuel Gunjanoor,6months ago,2020-02-04,one best kitchen gadget really enjoy cook flame little less compare gas stove heat fast evenly,0.0,0.355,0.645,0.8268,pos,0.0,0.169,0.831,0.5989,pos
+5.0,They are good and affordable. Buy when there is a sale. Design looks elegant . Sound quality and bass are also pretty good.,Thrisha Mirza,6months ago,2020-02-04,They good affordable Buy sale Design look elegant Sound quality bass also pretty good,0.0,0.548,0.452,0.9022,pos,0.0,0.389,0.611,0.9022,pos
+4.0,"Fit and Finish is nice. A bit small compared to image, though its enough for couple. Flame is good but the plate for placing vehicles is high, though some vessels are not heated enough sometimes. Will update more after more usage",Arun Ravi,7months ago,2020-01-04,Fit Finish nice A bit small compare image though enough couple Flame good plate place vehicle high though vessel heat enough sometimes Will update usage,0.0,0.272,0.728,0.802,pos,0.0,0.128,0.872,0.5574,pos
+4.0,I purchased it with Axis back debit card instant discount and got for 1300.this stove is Far Worth for the money...it is toughened glass helps pus to clean easily......I am IMPRESSED BY THIS......UNDER 2K BUDGET ITS A GOOD OPTION...PL DO NOT BUY THE ADD ON REGULATOR WHAT WE GET WITH THIS I WAS FOOLED FOR BUYING THAT BECAUSE I TRIED FITTING REGULATOR TO GAS AFTER RETURN PERIOD WAS OVER....BUY REGULATORD WHERE U PURCHASE YOUR GAS OR CONFIRM COMPANY WITH THEM......THIS REGULATOR WONT FIT...,KIRAN REJI  ABRAHAM,8months ago,2019-12-04,I purchase Axis back debit card instant discount get 1300 stove Far Worth money toughened glass help pus clean easily I IMPRESSED BY THIS UNDER 2K BUDGET ITS A GOOD OPTION PL DO NOT BUY THE ADD ON REGULATOR WHAT WE GET WITH THIS I WAS FOOLED FOR BUYING THAT BECAUSE I TRIED FITTING REGULATOR TO GAS AFTER RETURN PERIOD WAS OVER BUY REGULATORD WHERE U PURCHASE YOUR GAS OR CONFIRM COMPANY WITH THEM THIS REGULATOR WONT FIT,0.064,0.196,0.74,0.8829,pos,0.062,0.163,0.775,0.8308,pos
+5.0,Awesome product  Works so well. Looks so great  Recommended to buy,Siva Sundaram,8months ago,2019-12-04,Awesome product Works well Looks great Recommended buy,0.0,0.752,0.248,0.9022,pos,0.0,0.655,0.345,0.9233,pos
+5.0,this gas stove is very nice & super best price  &  best equality,MOHAMMED  MOIDHEEN,8months ago,2019-12-04,gas stove nice super best price best equality,0.0,0.791,0.209,0.9442,pos,0.0,0.635,0.365,0.949,pos
+5.0,I am very happy to buy this product   Am very much proud of myself that I took the decision to choose butterfly  I as a user always recommend you all to go for  it without any hesitations           Thanks to flip cart to bring this amazing product to me!!!,Flipkart Customer,6months ago,2020-02-04,I happy buy product Am much proud I take decision choose butterfly I user always recommend go without hesitation Thanks flip cart bring amazing product,0.066,0.411,0.523,0.9101,pos,0.039,0.278,0.683,0.9398,pos
+5.0,look wise soosoo cool I extremely like it best product ever,Flipkart Customer,6months ago,2020-02-04,look wise soosoo cool I extremely like best product ever,0.0,0.679,0.321,0.9131,pos,0.0,0.644,0.356,0.9128,pos
+4.0,"using more than a month , so far it is good value for the money , burner is good with nice flame",Flipkart Customer,6months ago,2020-02-04,use month far good value money burner good nice flame,0.0,0.647,0.353,0.875,pos,0.0,0.379,0.621,0.875,pos
+5.0,one of the best kitchen gadget really enjoyed cooking the flame is little less when compared to other gas stoves but heats up fast and evenly....,Immanuel Gunjanoor,6months ago,2020-02-04,one best kitchen gadget really enjoy cook flame little less compare gas stove heat fast evenly,0.0,0.355,0.645,0.8268,pos,0.0,0.169,0.831,0.5989,pos
+5.0,They are good and affordable. Buy when there is a sale. Design looks elegant . Sound quality and bass are also pretty good.,Thrisha Mirza,6months ago,2020-02-04,They good affordable Buy sale Design look elegant Sound quality bass also pretty good,0.0,0.548,0.452,0.9022,pos,0.0,0.389,0.611,0.9022,pos
+4.0,"Fit and Finish is nice. A bit small compared to image, though its enough for couple. Flame is good but the plate for placing vehicles is high, though some vessels are not heated enough sometimes. Will update more after more usage",Arun Ravi,7months ago,2020-01-04,Fit Finish nice A bit small compare image though enough couple Flame good plate place vehicle high though vessel heat enough sometimes Will update usage,0.0,0.272,0.728,0.802,pos,0.0,0.128,0.872,0.5574,pos
+4.0,I purchased it with Axis back debit card instant discount and got for 1300.this stove is Far Worth for the money...it is toughened glass helps pus to clean easily......I am IMPRESSED BY THIS......UNDER 2K BUDGET ITS A GOOD OPTION...PL DO NOT BUY THE ADD ON REGULATOR WHAT WE GET WITH THIS I WAS FOOLED FOR BUYING THAT BECAUSE I TRIED FITTING REGULATOR TO GAS AFTER RETURN PERIOD WAS OVER....BUY REGULATORD WHERE U PURCHASE YOUR GAS OR CONFIRM COMPANY WITH THEM......THIS REGULATOR WONT FIT...,KIRAN REJI  ABRAHAM,8months ago,2019-12-04,I purchase Axis back debit card instant discount get 1300 stove Far Worth money toughened glass help pus clean easily I IMPRESSED BY THIS UNDER 2K BUDGET ITS A GOOD OPTION PL DO NOT BUY THE ADD ON REGULATOR WHAT WE GET WITH THIS I WAS FOOLED FOR BUYING THAT BECAUSE I TRIED FITTING REGULATOR TO GAS AFTER RETURN PERIOD WAS OVER BUY REGULATORD WHERE U PURCHASE YOUR GAS OR CONFIRM COMPANY WITH THEM THIS REGULATOR WONT FIT,0.064,0.196,0.74,0.8829,pos,0.062,0.163,0.775,0.8308,pos
+5.0,Awesome product  Works so well. Looks so great  Recommended to buy,Siva Sundaram,8months ago,2019-12-04,Awesome product Works well Looks great Recommended buy,0.0,0.752,0.248,0.9022,pos,0.0,0.655,0.345,0.9233,pos
+5.0,this gas stove is very nice & super best price  &  best equality,MOHAMMED  MOIDHEEN,8months ago,2019-12-04,gas stove nice super best price best equality,0.0,0.791,0.209,0.9442,pos,0.0,0.635,0.365,0.949,neg
+4.0,it was small in size and mourner quality is not good bout worth for money fast delivery by Flipkart thank you for that,Gowtham  Dhanush ,10months ago,2019-10-04,small size mourner quality good bout worth money fast delivery Flipkart thank,0.145,0.408,0.447,0.5719,pos,0.237,0.089,0.674,-0.4891,pos
+4.0,It's worth the price.. price has slashed again by 500 during big billion... I like it is nice look... burner is good.. My mom is happy altogether,Flipkart Customer,10months ago,2019-10-04,It worth price price slash 500 big billion I like nice look burner good My mom happy altogether,0.075,0.495,0.43,0.8934,pos,0.052,0.376,0.572,0.8979,pos
+5.0,"looks good and worth for the money you pay but it is little smaller than we think but an standard size for small kitchen, burning fire is fast and good",Flipkart Customer,11months ago,2019-09-04,look good worth money pay little small think standard size small kitchen burn fire fast good,0.169,0.342,0.489,0.5994,pos,0.118,0.198,0.684,0.4497,pos
+3.0,burner size is small compare to traditional stainless steel stove . durability is good as of now. even the stove itself is compact .pipe knob at the back .,Arun,11months ago,2019-09-04,burner size small compare traditional stainless steel stove durability good even stove compact pipe knob back,0.0,0.162,0.838,0.4404,pos,0.0,0.094,0.906,0.4404,pos
+5.0,Great one!! Best price and works well  !! Very happy,Flipkart Customer,11months ago,2019-09-04,Great one Best price work well Very happy,0.0,0.783,0.217,0.9371,pos,0.0,0.722,0.278,0.9482,pos
+5.0,Very nice and fantastic product in butterfly company for cheapest price... Thank you butterfly and thank you flipkart for perfect delivery..,Flipkart Customer,11months ago,2019-09-04,Very nice fantastic product butterfly company cheap price Thank butterfly thank flipkart perfect delivery,0.0,0.635,0.365,0.94,pos,0.0,0.495,0.505,0.9399,pos
+5.0,Excellent product at reasonable price I am happy with product and also the delivery by flipkart is excellent as expected. Thank you flipkart,Saurabh Siddhartha,11months ago,2019-09-04,Excellent product reasonable price I happy product also delivery flipkart excellent expect Thank flipkart,0.0,0.576,0.424,0.9274,pos,0.0,0.417,0.583,0.9274,pos
+3.0,Product seems to be good at this price and looks good also the performance is good until now. Hope this is one of the good product offered at lower cost.,Jayavardhan Angaluri,11months ago,2019-09-04,Product seem good price look good also performance good Hope one good product offer low cost,0.079,0.545,0.376,0.9081,pos,0.054,0.356,0.59,0.9062,pos
+5.0,very wonderful product I love it thank you Flipkart very safe delivery,SAYYAD  JABIR ,"Aug, 2019",2019-08-04,wonderful product I love thank Flipkart safe delivery,0.0,0.769,0.231,0.9231,pos,0.0,0.634,0.366,0.9311,pos
+5.0,excellent packing and fast delivery by flipkart. product is very good. worth buying i strongly recommend this product,Suman  Raj,"Jul, 2019",2019-07-04,excellent packing fast delivery flipkart product good worth buy strongly recommend product,0.0,0.652,0.348,0.9022,pos,0.0,0.513,0.487,0.9131,pos
+5.0,so brilliant gas stove looking also super thing also so so awesome am so happy thanks for filpkart,Asangani Naveed Ahmed,"Jul, 2019",2019-07-04,brilliant gas stove look also super thing also awesome happy thanks filpkart,0.0,0.724,0.276,0.9607,pos,0.0,0.615,0.385,0.9711,pos
+5.0,syruper . if you want to byous a Stove byous this it is syruper and I am happy,Aarya Gowda,"Jun, 2019",2019-06-04,syruper want byous Stove byous syruper I happy,0.0,0.455,0.545,0.6124,pos,0.0,0.238,0.762,0.6124,pos
+5.0,good quality and quick delivery. looks exactly as it is in the image. good for a middle.class family. high profile looks. cute product,Flipkart Customer,"Jun, 2019",2019-06-04,good quality quick delivery look exactly image good middle class family high profile look cute product,0.0,0.404,0.596,0.8316,pos,0.0,0.306,0.694,0.8316,pos
+4.0,worth  every penny you spend... good stove... superb packing... and fast delivery... happy about it,Nikhil,"Jun, 2019",2019-06-04,worth every penny spend good stove superb packing fast delivery happy,0.0,0.643,0.357,0.9118,pos,0.0,0.534,0.466,0.9118,pos
+4.0,good looking and nice and easy to cook ....burners are working good,Flipkart Customer,"May, 2019",2019-05-04,good look nice easy cook burner work good,0.0,0.742,0.258,0.8885,pos,0.0,0.59,0.41,0.8885,pos
+5.0,writing thes review after using it for month...seriously i just loved it..in a price of 2399 no one can get better deal than it..it looks so classy and elegant..market am 4100 ok the glass wali 3 gas burner bit torrent its such a deal,Flipkart Customer,"May, 2019",2019-05-04,write thes review use month seriously love price 2399 one get good deal look classy elegant market 4100 ok glass wali 3 gas burner bit torrent deal,0.045,0.403,0.553,0.9274,pos,0.041,0.236,0.723,0.8895,pos
+5.0,This product is really good built quality & look. My wife got very much impressed and happy with this product. This is the best product at such a low price.,Dhananjay Warane,"May, 2019",2019-05-04,This product really good build quality look My wife get much impressed happy product This best product low price,0.069,0.469,0.462,0.92,pos,0.051,0.348,0.601,0.9242,pos
+4.0,Arrived and time. Thumbs up FlipKart. Nicely packaged as well. The stove is sleek and well designed and compact. Both branders are working fiance as expected. Fit and fiendish is very good ... and sharp corianders or protruding edges. Good purchase so far,GN,"Apr, 2019",2019-04-04,Arrived time Thumbs FlipKart Nicely package well The stove sleek well design compact Both branders work fiance expect Fit fiendish good sharp coriander protrude edge Good purchase far,0.0,0.412,0.588,0.9246,pos,0.0,0.298,0.702,0.9286,pos
+5.0,It makes kitchen very beautiful. Very good in color and hard glass-top. Easy to use and install. Reliable and easy to clean in single wipe.,Narayanan v,"Apr, 2019",2019-04-04,It make kitchen beautiful Very good color hard glass top Easy use install Reliable easy clean single wipe,0.055,0.579,0.366,0.9406,pos,0.038,0.442,0.52,0.9408,pos
+4.0,Very nice stoveEverything good ...only one minus point is gap between burner and vessel is little bit more ...so it take more time to cook...Rest all is good,vivek thakkar,"Apr, 2019",2019-04-04,Very nice stoveEverything good one minus point gap burner vessel little bit take time cook Rest good,0.0,0.395,0.605,0.8464,pos,0.0,0.268,0.732,0.8464,pos
+4.0,good product at reasonable price.. but size wise bit smaller.. should have increased size..otherwise perfect gas stove..,Sunil Kumar P,"Apr, 2019",2019-04-04,good product reasonable price size wise bit small increase size otherwise perfect gas stove,0.0,0.545,0.455,0.9001,pos,0.0,0.515,0.485,0.93,pos
+4.0,nice . product is awesome when compared to other products like region or prestige . highly recommend to buy at this price,Kamesh Naidu,"Mar, 2019",2019-03-04,nice product awesome compare product like region prestige highly recommend buy price,0.0,0.604,0.396,0.9041,pos,0.0,0.404,0.596,0.9041,pos
+5.0,very nice cheap  and best gas stove I am 6 month use not any damage nice product I am like it thank you Flipkart,Fuzail Ahmed,"Mar, 2019",2019-03-04,nice cheap best gas stove I 6 month use damage nice product I like thank Flipkart,0.114,0.529,0.357,0.891,pos,0.066,0.423,0.511,0.9116,pos
+4.0,it looks awesome and the Flipkart delivery is nice but it seems some Wat small but it looks good glass metal worth for money ,Nikhil,"Feb, 2019",2019-02-04,look awesome Flipkart delivery nice seem Wat small look good glass metal worth money,0.0,0.539,0.461,0.8934,pos,0.0,0.328,0.672,0.8294,pos
+5.0,very nice looking. good packing and good working. thank you flipkart,Shekar Medida,"Feb, 2019",2019-02-04,nice look good packing good work thank flipkart,0.0,0.735,0.265,0.8779,pos,0.0,0.625,0.375,0.8923,pos
+5.0,quality product. all good well safe. not a single scratch. Very very fast delivery . . thanks flipkart.  i havent used yet.,Pranav Customer,"Feb, 2019",2019-02-04,quality product good well safe single scratch Very fast delivery thanks flipkart havent use yet,0.0,0.501,0.499,0.8768,pos,0.0,0.375,0.625,0.8689,pos
+5.0,looking very nice and looks like very beautiful and luxury product .I liked very much valuable price,Rajkumar Pediredla,"Feb, 2019",2019-02-04,look nice look like beautiful luxury product I like much valuable price,0.0,0.679,0.321,0.93,pos,0.0,0.571,0.429,0.9429,neg
+3.0,packing is not good and flame is also not that much good it is better but not excellent,Akhil Talluri,"Jan, 2019",2019-01-04,packing good flame also much good well excellent,0.0,0.744,0.256,0.891,pos,0.317,0.084,0.599,-0.6655,pos
+5.0,superb product in this price...so Beautiful,Gaurav kumar,"Dec, 2018",2018-12-04,superb product price Beautiful,0.0,0.8,0.2,0.8402,pos,0.0,0.667,0.333,0.8402,pos
+5.0,classic product... Worth for amount... must Buy.,Hari Shan,"Dec, 2018",2018-12-04,classic product Worth amount must Buy,0.0,0.275,0.725,0.2263,pos,0.0,0.241,0.759,0.2263,pos
+5.0,nice product I got it  in Rs1876 only,Moin Rashid,"Apr, 2019",2019-04-04,nice product I get Rs1876,0.0,0.412,0.588,0.4215,pos,0.0,0.286,0.714,0.4215,pos
+5.0,my mother is soosoo happy. Thanks for your flipkart.,Flipkart Customer,"Aug, 2019",2019-08-04,mother soosoo happy Thanks flipkart,0.0,0.688,0.312,0.765,pos,0.0,0.485,0.515,0.765,pos
+5.0,Beautifully designed...class product from butterfly..... Good service from tipcart.,Akash nair S,"Jan, 2019",2019-01-04,Beautifully design class product butterfly Good service tipcart,0.0,0.524,0.476,0.765,pos,0.0,0.485,0.515,0.765,pos
+5.0,superb quality and received d item neatly,KAVITHA P,"Feb, 2019",2019-02-04,superb quality receive item neatly,0.0,0.684,0.316,0.7579,pos,0.0,0.565,0.435,0.7579,pos
+5.0,"product was delivered on very next day of placing order for it. product is pretty decent for the price, hookwise its sleeky and very classic and performancewise i have not explored it yet hopefully it will also be good. i will provide my review on performance after few days.",Chandan Kbc,"Mar, 2019",2019-03-04,product deliver next day place order product pretty decent price hookwise sleeky classic performancewise explore yet hopefully also good provide review performance day,0.0,0.306,0.694,0.8316,pos,0.0,0.161,0.839,0.8316,pos
+5.0,good proper delivery thanks.,Flipkart Customer,"Dec, 2018",2018-12-04,good proper delivery thanks,0.0,0.744,0.256,0.7003,pos,0.0,0.744,0.256,0.7003,pos
+5.0,Thanks to flancard,Flipkart Customer,"Apr, 2019",2019-04-04,Thanks flancard,0.0,0.744,0.256,0.4404,pos,0.0,0.592,0.408,0.4404,pos
+4.0,Really super,Rajesh kumar,"Feb, 2019",2019-02-04,Really super,0.0,0.807,0.193,0.6361,pos,0.0,0.807,0.193,0.6361,pos
+5.0,Nice product Amazing it is really beautiful,Saikam  Vinay,"Jun, 2019",2019-06-04,Nice product Amazing really beautiful,0.0,0.844,0.156,0.8955,pos,0.0,0.73,0.27,0.8955,pos
+4.0,very good product taking is too good l am so happy thank you flip cart ,Flipkart Customer,"Feb, 2019",2019-02-04,good product taking good l happy thank flip cart,0.0,0.789,0.211,0.9325,pos,0.0,0.613,0.387,0.9419,pos
+4.0,Product is good small size but good looking  package is not good....,Muhamed Aslam,5months ago,2020-03-04,Product good small size good look package good,0.0,0.635,0.365,0.8271,pos,0.174,0.324,0.503,0.4001,pos
+5.0,good,Flipkart Customer,"Jan, 2019",2019-01-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,good,Padma Reddy,"Jan, 2019",2019-01-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,must buy thanks to flipkart,seyedali seyedali,"Dec, 2018",2018-12-04,must buy thanks flipkart,0.0,0.492,0.508,0.4404,pos,0.0,0.42,0.58,0.4404,pos
+5.0,worth for money,MURALI.G GUNASEKAREN,"Jan, 2019",2019-01-04,worth money,0.0,0.655,0.345,0.2263,pos,0.0,0.487,0.513,0.2263,pos
+5.0,too good happy with the product,Aman Prakash,"Jul, 2019",2019-07-04,good happy product,0.0,0.868,0.132,0.765,pos,0.0,0.623,0.377,0.765,pos
+3.0,okay,Ravi Seemala  Ravi,"Jul, 2019",2019-07-04,okay,0.0,1.0,0.0,0.2263,pos,0.0,1.0,0.0,0.2263,pos
+5.0,super nice product happy purchase,Kavin,"Feb, 2019",2019-02-04,super nice product happy purchase,0.0,0.839,0.161,0.886,pos,0.0,0.839,0.161,0.886,pos
+5.0,1. simple light weight with good quality.2. value for the money for the given price range 3. will update after using .,mv gupta,"Feb, 2019",2019-02-04,1 simple light weight good quality 2 value money give price range 3 update use,0.0,0.29,0.71,0.6486,neu,0.0,0.209,0.791,0.6486,neu
+4.0,Supper,Flipkart Customer,"Apr, 2019",2019-04-04,Supper,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Nice Product...,Soumen sen,"Mar, 2019",2019-03-04,Nice Product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,super very good quality. i like it,Flipkart Customer,"Mar, 2019",2019-03-04,super good quality like,0.0,0.903,0.097,0.8519,pos,0.0,0.706,0.294,0.8622,pos
+5.0,Nice product I am rating 5.,Chandan Jaiswal,5months ago,2020-03-04,Nice product I rating 5,0.0,0.412,0.588,0.4215,pos,0.0,0.359,0.641,0.4215,pos
+5.0,Good product must buy. No problem at all. Very happy.,Flipkart Customer,7months ago,2020-01-04,Good product must buy No problem Very happy,0.0,0.647,0.353,0.8462,pos,0.0,0.567,0.433,0.8462,pos
+4.0,very good product,Sudhir MOHITE,"Jun, 2019",2019-06-04,good product,0.0,0.744,0.256,0.4404,pos,0.0,0.615,0.385,0.4927,pos
+5.0,Mind blowing purchase thank you Flipkart,Garikapati Naveen,"Feb, 2019",2019-02-04,Mind blow purchase thank Flipkart,0.0,0.385,0.615,0.3612,pos,0.0,0.333,0.667,0.3612,pos
+5.0,very good product,Punitha Baby,"Feb, 2019",2019-02-04,good product,0.0,0.744,0.256,0.4404,neu,0.0,0.615,0.385,0.4927,neu
+3.0,not enough Flame,Radhakrishna Torika,"Mar, 2019",2019-03-04,enough Flame,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,good quality,Chinababu Kondapalli,"Feb, 2019",2019-02-04,good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0, delivery is good  and awesome product thanks flip kart,Bavajan Bavajan,"Feb, 2019",2019-02-04,delivery good awesome product thanks flip kart,0.0,0.712,0.288,0.872,pos,0.0,0.623,0.377,0.872,pos
+4.0,okay worth for money,Flipkart Customer,"Mar, 2019",2019-03-04,okay worth money,0.0,0.792,0.208,0.4215,pos,0.0,0.655,0.345,0.4215,pos
+5.0,Good product,Deepika,"Jan, 2019",2019-01-04,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,I love butterfly good product,Ibrahim she ibrahim,"Jan, 2019",2019-01-04,I love butterfly good product,0.0,0.703,0.297,0.7964,pos,0.0,0.703,0.297,0.7964,pos
+5.0,Super  product,Anish kumar M,"Feb, 2019",2019-02-04,Super product,0.0,0.796,0.204,0.5994,neg,0.0,0.796,0.204,0.5994,neg
+5.0,under the burner fire in the under place,VetriVel  Periyannasamy ,"Jan, 2019",2019-01-04,burner fire place,0.545,0.0,0.455,-0.34,pos,0.255,0.0,0.745,-0.34,neu
+5.0,less  its super.....thanks to flipkart,Flipkart Customer,"Jun, 2019",2019-06-04,le super thanks flipkart,0.0,0.773,0.227,0.7783,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good,Rajula,10months ago,2019-10-04,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,neu
+5.0,super. but low flame..,Bharath Kumar,"Jul, 2019",2019-07-04,super low flame,0.3,0.557,0.143,0.4215,pos,0.373,0.345,0.282,-0.0516,pos
+5.0,awesome.... ,karnan karnan,"Feb, 2019",2019-02-04,awesome,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+4.0,"After 15 days usage giving this review, simply superb..",Srinu Pinninti,"Jul, 2019",2019-07-04,After 15 day usage give review simply superb,0.0,0.369,0.631,0.6249,pos,0.0,0.481,0.519,0.7579,pos
+5.0,Size appears to be bit small.. But look is awesome because of size,Flipkart Customer,"Feb, 2019",2019-02-04,Size appear bit small But look awesome size,0.0,0.447,0.553,0.7684,neg,0.0,0.32,0.68,0.7684,neg
+5.0,Not product thanks flipkart and butterfly,Flipkart Customer,"Feb, 2019",2019-02-04,Not product thanks flipkart butterfly,0.376,0.0,0.624,-0.3412,pos,0.325,0.0,0.675,-0.3412,pos
+5.0,best quality and super fast delivery...must buy,Flipkart Customer,9months ago,2019-11-04,best quality super fast delivery must buy,0.0,0.618,0.382,0.8442,pos,0.0,0.618,0.382,0.8442,pos
+5.0,looking classy and nice I think correct to buy such a product,Srinivas puduru,10months ago,2019-10-04,look classy nice I think correct buy product,0.0,0.487,0.513,0.6908,pos,0.0,0.363,0.637,0.6908,pos
+5.0,Nice product. awesome design..!,George  Varghese,"Mar, 2019",2019-03-04,Nice product awesome design,0.0,0.775,0.225,0.7845,pos,0.0,0.782,0.218,0.8016,pos
+5.0,Good product,THOUSIF MOTU,"Mar, 2019",2019-03-04,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,"Product and packaging are good.Glossy finish on top is more admirable.Not, yet tested.",Karteek Guvvala,"Jan, 2019",2019-01-04,Product packaging good Glossy finish top admirable Not yet test,0.0,0.542,0.458,0.8074,neg,0.0,0.13,0.87,0.2023,neg
+3.0,"I purchased this after lot of research and considering budget. This is lowest  price product compared to many other brands. But in 1st order,  received stand which is usted and returned.  Again ordered,  this time small scratch to glass top and small bend to gas burner is observed. Generally Flipkart packing is too good with air bags. I do not why they have negligence towards this. Disappointed with the service..Review after 6 months: Turners are very low quality and screws are getting us...",Raghavendra Rachamadugu,11months ago,2019-09-04,I purchase lot research consider budget This low price product compare many brand But 1st order receive stand usted return Again order time small scratch glass top small bend gas burner observe Generally Flipkart packing good air bag I negligence towards Disappointed service Review 6 month Turners low quality screw get u,0.162,0.097,0.74,-0.4656,pos,0.129,0.063,0.807,-0.7412,pos
+5.0,Super and extant product.super burner was super.and good product for this prize. Happy for buying,Flipkart Customer,2months ago,2020-06-04,Super extant product super burner super good product prize Happy buy,0.0,0.812,0.188,0.9705,pos,0.0,0.567,0.433,0.9369,pos
+5.0,Go ahead...too good....,Brindha  S,2months ago,2020-06-04,Go ahead good,0.0,0.592,0.408,0.4404,pos,0.0,0.592,0.408,0.4404,pos
+4.0,"value for money , nice product nice packing",Flipkart Customer,7months ago,2020-01-04,value money nice product nice packing,0.0,0.727,0.273,0.7906,pos,0.0,0.615,0.385,0.7906,pos
+3.0,nice,Md Binyamin Shaikh,9months ago,2019-11-04,nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,product is good. but some issues like. 1 it is worked only with cylinders not pipeline gas. so you have to convert it to pig if you want to use with pipeline gas. and on line and have to give extra Rs. 250 for that. also on pipeline gas some time getting extra noise. but service is good and fast.,Flipkart Customer,9months ago,2019-11-04,product good issue like 1 work cylinder pipeline gas convert pig want use pipeline gas line give extra Rs 250 also pipeline gas time get extra noise service good fast,0.0,0.27,0.73,0.8225,neu,0.0,0.158,0.842,0.8591,neu
+3.0,looks premium but flame is bit less when compared to other models and one switch is very tight and another burner goes off if we sim the flame,Remith,9months ago,2019-11-04,look premium flame bit less compare model one switch tight another burner go sim flame,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Just now received the productDelivered in good packaging and the product is working fineOrdererd this as my cousin also using this for couple of monthsThanks flipkart for giving this at such an affordable price of 1899,Jithin  K George,11months ago,2019-09-04,Just receive productDelivered good packaging product work fineOrdererd cousin also use couple monthsThanks flipkart give affordable price 1899,0.0,0.146,0.854,0.4404,pos,0.0,0.135,0.865,0.6486,pos
+5.0,super product original brand i Happy with Flipkart service really Good,Flipkart Customer,"Aug, 2019",2019-08-04,super product original brand Happy Flipkart service really Good,0.0,0.724,0.276,0.92,pos,0.0,0.652,0.348,0.92,pos
+5.0,nice,MD. SARFARAJ,"Jul, 2019",2019-07-04,nice,0.0,1.0,0.0,0.4215,neu,0.0,1.0,0.0,0.4215,neu
+5.0,gas stove very good and then burner quality so weak,Iqbal Iqbal,"Jul, 2019",2019-07-04,gas stave good burner quality weak,0.296,0.296,0.408,0.0,pos,0.251,0.214,0.536,-0.1402,pos
+5.0,good quality..value for money.. delivered on time,Rahul Patil,"Jul, 2019",2019-07-04,good quality value money deliver time,0.0,0.57,0.43,0.6486,pos,0.0,0.326,0.674,0.4404,pos
+4.0,looking good but small in size,Vinod  V,"Jun, 2019",2019-06-04,look good small size,0.0,0.492,0.508,0.4404,pos,0.0,0.281,0.719,0.2382,pos
+4.0,classy look at this price ......am comfortable with this .......,Flipkart Customer,"Jun, 2019",2019-06-04,classy look price comfortable,0.0,0.756,0.244,0.7351,pos,0.0,0.437,0.563,0.7351,pos
+5.0,super  i like it and valuable price,Flipkart Customer,"Jun, 2019",2019-06-04,super like valuable price,0.0,0.905,0.095,0.8591,pos,0.0,0.704,0.296,0.8591,pos
+3.0,okay,elumalai D,"Apr, 2019",2019-04-04,okay,0.0,1.0,0.0,0.2263,neu,0.0,1.0,0.0,0.2263,neu
+4.0,nice but second small burned flame was too low,Flipkart Customer,"Apr, 2019",2019-04-04,nice second small burn flame low,0.236,0.315,0.449,0.1779,pos,0.229,0.165,0.606,-0.1901,pos
+4.0,Good product,Flipchankart Customer,"Mar, 2019",2019-03-04,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Nice products ..,Sam Paul,"Jan, 2019",2019-01-04,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.583,0.417,0.4215,pos
+4.0,"good product, value for money",Divya  Vinu,"Dec, 2018",2018-12-04,good product value money,0.0,0.726,0.274,0.6486,pos,0.0,0.639,0.361,0.6486,pos
+5.0,awesome product,narasimha pagadala,11months ago,2019-09-04,awesome product,0.0,0.804,0.196,0.6249,pos,0.0,0.804,0.196,0.6249,pos
+5.0,nice,Nikhiljith Nikhil,"Feb, 2019",2019-02-04,nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Super,Suresh p  Suresh p ,"Jan, 2019",2019-01-04,Super,0.0,1.0,0.0,0.5994,neu,0.0,1.0,0.0,0.5994,neg
+5.0,good quality but 4 stand available one stand damage.,Raja Mohamed,"Mar, 2019",2019-03-04,good quality 4 stand available one stand damage,0.264,0.24,0.496,-0.0772,pos,0.325,0.147,0.528,-0.5187,pos
+5.0,Nice,Flipkart Customer,"Jan, 2019",2019-01-04,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,It's good stove my mother likes it,Thalapathy  Vijay ,"Mar, 2019",2019-03-04,It good stave mother like,0.0,0.643,0.357,0.6597,neg,0.0,0.533,0.467,0.6908,neg
+4.0,product is also..but the packaging is very poor,shabna vm,"Feb, 2019",2019-02-04,product also packaging poor,0.508,0.0,0.492,-0.4767,pos,0.326,0.0,0.674,-0.5256,pos
+5.0,Awesome product by Butterfly and awesome delivery by Flipkart .Today i have received this gas stove at just Rs 2299 . I do not think so any one can give at this price . I can phalange if any one can give at this price . thanks flipkart .,Vijay Prabhat,"Apr, 2019",2019-04-04,Awesome product Butterfly awesome delivery Flipkart Today receive gas stove Rs 2299 I think one give price I phalange one give price thanks flipkart,0.0,0.346,0.654,0.9022,pos,0.0,0.194,0.806,0.9022,pos
+4.0,Product is good burner flame leakey having left side value for money good product,Nagaraju P,6months ago,2020-02-04,Product good burner flame leakey leave side value money good product,0.073,0.5,0.427,0.7906,pos,0.0,0.427,0.573,0.802,pos
+5.0,such a great deal by flipkart.. got it @1699,Arya krishnan Customer,9months ago,2019-11-04,great deal flipkart get 1699,0.0,0.506,0.494,0.6249,pos,0.0,0.339,0.661,0.6249,pos
+5.0,Nice Quality,sekh Sekh,"Jul, 2019",2019-07-04,Nice Quality,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,very nice super product  thanks Flipkart,Chitra Jai kumar,"Mar, 2019",2019-03-04,nice super product thanks Flipkart,0.0,0.828,0.172,0.8625,pos,0.0,0.772,0.228,0.8799,pos
+5.0,Nice one,Flipkart Customer,"Feb, 2019",2019-02-04,Nice one,0.0,0.737,0.263,0.4215,neu,0.0,0.737,0.263,0.4215,neg
+5.0,good quality but 4 stand available one stand damage.,Raja Mohamed,"Mar, 2019",2019-03-04,good quality 4 stand available one stand damage,0.264,0.24,0.496,-0.0772,pos,0.325,0.147,0.528,-0.5187,pos
+5.0,Nice,Flipkart Customer,"Jan, 2019",2019-01-04,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,It's good stove my mother likes it,Thalapathy  Vijay ,"Mar, 2019",2019-03-04,It good stave mother like,0.0,0.643,0.357,0.6597,neg,0.0,0.533,0.467,0.6908,neg
+4.0,product is also..but the packaging is very poor,shabna vm,"Feb, 2019",2019-02-04,product also packaging poor,0.508,0.0,0.492,-0.4767,pos,0.326,0.0,0.674,-0.5256,pos
+5.0,Awesome product by Butterfly and awesome delivery by Flipkart .Today i have received this gas stove at just Rs 2299 . I do not think so any one can give at this price . I can phalange if any one can give at this price . thanks flipkart .,Vijay Prabhat,"Apr, 2019",2019-04-04,Awesome product Butterfly awesome delivery Flipkart Today receive gas stove Rs 2299 I think one give price I phalange one give price thanks flipkart,0.0,0.346,0.654,0.9022,pos,0.0,0.194,0.806,0.9022,pos
+4.0,Product is good burner flame leakey having left side value for money good product,Nagaraju P,6months ago,2020-02-04,Product good burner flame leakey leave side value money good product,0.073,0.5,0.427,0.7906,pos,0.0,0.427,0.573,0.802,pos
+5.0,such a great deal by flipkart.. got it @1699,Arya krishnan Customer,9months ago,2019-11-04,great deal flipkart get 1699,0.0,0.506,0.494,0.6249,pos,0.0,0.339,0.661,0.6249,pos
+5.0,Nice Quality,sekh Sekh,"Jul, 2019",2019-07-04,Nice Quality,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,very nice super product  thanks Flipkart,Chitra Jai kumar,"Mar, 2019",2019-03-04,nice super product thanks Flipkart,0.0,0.828,0.172,0.8625,pos,0.0,0.772,0.228,0.8799,pos
+5.0,Nice one,Flipkart Customer,"Feb, 2019",2019-02-04,Nice one,0.0,0.737,0.263,0.4215,neg,0.0,0.737,0.263,0.4215,pos
+5.0,Using for one year and no problem at all,binoy joseph,1month ago,2020-07-04,Using one year problem,0.474,0.0,0.526,-0.4019,pos,0.0,0.22,0.78,0.3089,pos
+4.0,super nice protect,Flipkart Customer,4months ago,2020-04-04,super nice protect,0.0,1.0,0.0,0.8519,pos,0.0,1.0,0.0,0.8519,pos
+5.0,Nice product,GHANSHYAM VERMA,5months ago,2020-03-04,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,awesome and very affordable price...must buy...suit to my kitchen,Flipkart Customer,5months ago,2020-03-04,awesome affordable price must buy suit kitchen,0.0,0.406,0.594,0.6249,pos,0.0,0.339,0.661,0.6249,pos
+5.0,Awesome.. really loved more,Preetha A,5months ago,2020-03-04,Awesome really love,0.0,0.896,0.104,0.8622,pos,0.0,0.806,0.194,0.8516,pos
+4.0,Good product,Pavi Paviravi,6months ago,2020-02-04,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Nice product Good value for money,VISHNUPRASAD KAMMAR,6months ago,2020-02-04,Nice product Good value money,0.0,0.802,0.198,0.7964,pos,0.0,0.73,0.27,0.7964,pos
+5.0,Nice and Worth of Cost,SUJIN D,6months ago,2020-02-04,Nice Worth Cost,0.0,0.825,0.175,0.5719,pos,0.0,0.61,0.39,0.5719,pos
+5.0,worth of money,SREEJITH SOMAN,6months ago,2020-02-04,worth money,0.0,0.655,0.345,0.2263,neg,0.0,0.487,0.513,0.2263,pos
+5.0,Using for one year and no problem at all,binoy joseph,1month ago,2020-07-04,Using one year problem,0.474,0.0,0.526,-0.4019,pos,0.0,0.22,0.78,0.3089,pos
+4.0,super nice protect,Flipkart Customer,4months ago,2020-04-04,super nice protect,0.0,1.0,0.0,0.8519,pos,0.0,1.0,0.0,0.8519,pos
+5.0,Nice product,GHANSHYAM VERMA,5months ago,2020-03-04,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,awesome and very affordable price...must buy...suit to my kitchen,Flipkart Customer,5months ago,2020-03-04,awesome affordable price must buy suit kitchen,0.0,0.406,0.594,0.6249,pos,0.0,0.339,0.661,0.6249,pos
+5.0,Awesome.. really loved more,Preetha A,5months ago,2020-03-04,Awesome really love,0.0,0.896,0.104,0.8622,pos,0.0,0.806,0.194,0.8516,pos
+4.0,Good product,Pavi Paviravi,6months ago,2020-02-04,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Nice product Good value for money,VISHNUPRASAD KAMMAR,6months ago,2020-02-04,Nice product Good value money,0.0,0.802,0.198,0.7964,pos,0.0,0.73,0.27,0.7964,pos
+5.0,Nice and Worth of Cost,SUJIN D,6months ago,2020-02-04,Nice Worth Cost,0.0,0.825,0.175,0.5719,pos,0.0,0.61,0.39,0.5719,pos
+5.0,worth of money,SREEJITH SOMAN,6months ago,2020-02-04,worth money,0.0,0.655,0.345,0.2263,pos,0.0,0.487,0.513,0.2263,pos
+5.0,good product..worth of money..best value of money..,mariappan 7904913381,8months ago,2019-12-04,good product worth money best value money,0.0,0.792,0.208,0.886,pos,0.0,0.515,0.485,0.6486,pos
+5.0,Nice,Sk Ataur  Rahaman,8months ago,2019-12-04,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Good product,Jyothis Prakash,9months ago,2019-11-04,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,verry good product,Flipkart Customer,9months ago,2019-11-04,verry good product,0.0,0.592,0.408,0.4404,pos,0.0,0.592,0.408,0.4404,pos
+4.0,nice product at this price range 1759 in basale... look beautiful,Sunil Malhotra,9months ago,2019-11-04,nice product price range 1759 basale look beautiful,0.0,0.528,0.472,0.7717,pos,0.0,0.427,0.573,0.7717,pos
+5.0,Best deal. I got this at 1760. Working perfectly.,Flipkart Customer,9months ago,2019-11-04,Best deal I get 1760 Working perfectly,0.0,0.627,0.373,0.8555,pos,0.0,0.545,0.455,0.8555,pos
+4.0,gas stove is good looking and small burner is getting turned off when I put it on low flame. That needs to be more care on that. otherwise I would have given 5 stars. I am completely satisfied with this amount (Rs. 1529) .,Rajasekar T,9months ago,2019-11-04,gas stove good look small burner get turn I put low flame That need care otherwise I would give 5 star I completely satisfied amount Rs 1529,0.061,0.268,0.671,0.796,pos,0.041,0.184,0.775,0.8119,pos
+5.0,good,Anil,10months ago,2019-10-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,good,Flipkart Customer,11months ago,2019-09-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,very good product my mother is too much happy thanks Flipkart,PRIYANSU  BERA,11months ago,2019-09-04,good product mother much happy thanks Flipkart,0.0,0.704,0.296,0.8591,pos,0.0,0.55,0.45,0.8687,pos
+5.0,nice product,Flipkart Customer,"Jul, 2019",2019-07-04,nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,nice product good condition,Flipkart Customer,"Jul, 2019",2019-07-04,nice product good condition,0.0,0.74,0.26,0.6908,pos,0.0,0.74,0.26,0.6908,pos
+5.0,super,Shameera Imran ,"Jul, 2019",2019-07-04,super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,nice,Flipkart Customer,"Jul, 2019",2019-07-04,nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,nice quality... got at 185,Pankaj Kumar,"Jul, 2019",2019-07-04,nice quality get 185,0.0,0.483,0.517,0.4215,pos,0.0,0.412,0.588,0.4215,pos
+5.0,Nice,santosh ,"May, 2019",2019-05-04,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,super,Jegadish Waran,"May, 2019",2019-05-04,super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,neu
+5.0,"Good product, no issue",D V RAO,"Apr, 2019",2019-04-04,Good product issue,0.0,0.592,0.408,0.4404,pos,0.31,0.408,0.282,0.1779,pos
+5.0,very good product in cheap price thanks Flipkart for very fast deliveryvalue for money,Mahender Bakka,"Apr, 2019",2019-04-04,good product cheap price thanks Flipkart fast deliveryvalue money,0.0,0.453,0.547,0.7003,pos,0.0,0.337,0.663,0.7264,pos
+5.0,good one,Mahesh Deshpande,"Apr, 2019",2019-04-04,good one,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,good,Flipkart Customer,"Apr, 2019",2019-04-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,super,Santosh Kumar  adapa,"Apr, 2019",2019-04-04,super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Super,Saravanan Ramesh,"Apr, 2019",2019-04-04,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,It is really good. Worth the money. Look & quality product.,abhijit paul chowdhury,"Mar, 2019",2019-03-04,It really good Worth money Look quality product,0.0,0.472,0.528,0.6566,pos,0.0,0.374,0.626,0.6566,pos
+4.0,Nice product at price 1800/-,Jibin P B Bharathan,"Mar, 2019",2019-03-04,Nice product price 1800,0.0,0.483,0.517,0.4215,pos,0.0,0.412,0.588,0.4215,neg
+5.0,Very nice look but the flame was very low while using...we again got repaired it for 300 rupees for getting high flame,chaithanya rahul,"Mar, 2019",2019-03-04,Very nice look flame low use get repair 300 rupee get high flame,0.13,0.191,0.679,0.2484,pos,0.123,0.081,0.796,-0.26,pos
+5.0,"design is superb , buareneares are decent .value fare money only drawback is little tiny when compared to others",Bhagath Reddy,"Mar, 2019",2019-03-04,design superb buareneares decent value fare money drawback little tiny compare others,0.0,0.394,0.606,0.7579,pos,0.0,0.277,0.723,0.7579,pos
+5.0,good,Flipkart Customer,"Mar, 2019",2019-03-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,very good best product,Flipkart Customer,"Feb, 2019",2019-02-04,good best product,0.0,0.877,0.123,0.7964,pos,0.0,0.793,0.207,0.8258,pos
+5.0,"good product, love flipkart",baladhandapani muthusamy,"Dec, 2018",2018-12-04,good product love flipkart,0.0,0.78,0.22,0.7964,pos,0.0,0.78,0.22,0.7964,neu
+5.0,nice...must buy,Kalyankumar Haralayya,"May, 2019",2019-05-04,nice must buy,0.0,0.583,0.417,0.4215,pos,0.0,0.0,1.0,0.0,pos
+5.0,good item,N raju,"Feb, 2019",2019-02-04,good item,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Nice value for money,Nitu  Karmakar ,5months ago,2020-03-04,Nice value money,0.0,0.839,0.161,0.6369,neu,0.0,0.722,0.278,0.6369,neu
+4.0,Purchased for rupee 1658 in a big billion day,Flipkart Customer,9months ago,2019-11-04,Purchased rupee 1658 big billion day,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Perfect and excellentDon't think about burners review as 1.7Truly Genuine product....,Prasad Cherukuru,"Jul, 2019",2019-07-04,Perfect excellentDon think burner review 1 7Truly Genuine product,0.0,0.316,0.684,0.5719,pos,0.0,0.27,0.73,0.5719,pos
+4.0,Nice,Flipkart Customer,"Apr, 2019",2019-04-04,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,good product,somu d,"Apr, 2019",2019-04-04,good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Works good,KRISHNAMOORTHY D,"Feb, 2019",2019-02-04,Works good,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,good product awesome,HARSHA B S,"Feb, 2019",2019-02-04,good product awesome,0.0,0.875,0.125,0.7906,pos,0.0,0.875,0.125,0.7906,pos
+5.0,good,Mohan Mohan,"Feb, 2019",2019-02-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,small size....but product was good,anzal CH,"Feb, 2019",2019-02-04,small size product good,0.0,0.492,0.508,0.4404,neu,0.0,0.42,0.58,0.4404,neg
+4.0,"product is good but I am very much disappointed with the delivery, these people does not have the door to door system",Jaseem k,"Feb, 2019",2019-02-04,product good I much disappoint delivery people door door system,0.199,0.213,0.588,0.0516,pos,0.172,0.074,0.754,-0.56,pos
+5.0,I got this in loot at Rs 225 thanks flipkart,KSHAMA Kumari,"Jul, 2019",2019-07-04,I get loot Rs 225 thanks flipkart,0.0,0.326,0.674,0.4404,pos,0.0,0.244,0.756,0.4404,pos
+5.0,Tank flipkart for your safe delivery. Stove was awesome.,Veeramangalam  Gayani priya,"Feb, 2019",2019-02-04,Tank flipkart safe delivery Stove awesome,0.0,0.636,0.364,0.7906,pos,0.0,0.5,0.5,0.7906,pos
+5.0,"very nice product, flipkart delivery timing also good, overall very goos",Mohanasundaram K Goundar,"Feb, 2019",2019-02-04,nice product flipkart delivery timing also good overall goo,0.0,0.449,0.551,0.6908,pos,0.0,0.4,0.6,0.7178,pos
+5.0,nice,Flipkart Customer,"Feb, 2019",2019-02-04,nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Nice product good quality very low price,Sudha.rs,Today,2020-08-04,Nice product good quality low price,0.194,0.528,0.278,0.5574,neg,0.198,0.471,0.331,0.5118,neg
+3.0,ON / OFF BUTTON SOME PROBLEMS.,Flipkart Customer,Today,2020-08-04,ON OFF BUTTON SOME PROBLEMS,0.403,0.0,0.597,-0.4019,pos,0.407,0.0,0.593,-0.5319,pos
+5.0,Super,Flipkart Customer,Today,2020-08-04,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Good,Flipkart Customer,Today,2020-08-04,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good,Eswar Mallipudi,Today,2020-08-04,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,Not bad,Flipkart Customer,Today,2020-08-04,Not bad,0.0,0.74,0.26,0.431,pos,0.0,0.74,0.26,0.431,pos
+5.0,Simply Awesome Must buy very good product . Ankh Band yarke leo,Dattsangram Wasamkar,Today,2020-08-04,Simply Awesome Must buy good product Ankh Band yarke leo,0.0,0.467,0.533,0.7906,pos,0.0,0.422,0.578,0.807,pos
+4.0,Excellent,Flipkart Customer,Today,2020-08-04,Excellent,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+5.0,Nice,Varadaraj Kumar Kv,Today,2020-08-04,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Value for money,Joshwa Kiran,Today,2020-08-04,Value money,0.0,0.706,0.294,0.34,pos,0.0,0.545,0.455,0.34,pos
+4.0,Good,pradeep s,Today,2020-08-04,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Excellent,parmanand jha,Today,2020-08-04,Excellent,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+5.0,Amazing product. Moved it,Flipkart Customer,Today,2020-08-04,Amazing product Moved,0.0,0.655,0.345,0.5859,pos,0.0,0.559,0.441,0.5859,pos
+5.0,Good products ,Ram  Patil,Today,2020-08-04,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Super,Pochaiah Kandula ,Today,2020-08-04,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Super product am satisfaction this item,Flipkart Customer,Today,2020-08-04,Super product satisfaction item,0.0,0.773,0.227,0.7783,pos,0.0,0.63,0.37,0.7783,pos
+5.0,Beautiful,Flipkart Customer,Today,2020-08-04,Beautiful,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Very good product,Flipkart Customer,Today,2020-08-04,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+5.0,Nice product,azar ppt,Today,2020-08-04,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Value for money,Shivashankar M,Today,2020-08-04,Value money,0.0,0.706,0.294,0.34,pos,0.0,0.545,0.455,0.34,pos
+4.0,It's good and as expected,Rasi P,Today,2020-08-04,It good expect,0.0,0.592,0.408,0.4404,pos,0.0,0.42,0.58,0.4404,pos
+5.0,It's good for use and looking also too good,Flipkart Customer,Today,2020-08-04,It good use look also good,0.0,0.592,0.408,0.7003,pos,0.0,0.453,0.547,0.7003,pos
+5.0,Great,Sita  Ram,Today,2020-08-04,Great,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+5.0,Good,Flipkart Customer,Today,2020-08-04,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Satisfied ,Renuka Mondal,Today,2020-08-04,Satisfied,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Super burners,Flipkart Customer,Today,2020-08-04,Super burner,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+5.0,Nice,Upputuri  Srinivasarao,Today,2020-08-04,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,good,Anbukkarasi Sakthivel,Today,2020-08-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Very good stove   and Butterfly is nice product's and all are buy a indian product's,Flipkart Customer,Today,2020-08-04,Very good stove Butterfly nice product buy indian product,0.0,0.461,0.539,0.7178,pos,0.0,0.316,0.684,0.7178,neg
+3.0,Packing was not good,MULLA IMRAN,Today,2020-08-04,Packing good,0.0,0.744,0.256,0.4404,neg,0.445,0.0,0.555,-0.3412,neg
+4.0,"Works as advertised.No issues after 7 days of use.However, may be somewhat inconvenient for those with small kitchen platforms.",Neel Sukhani,1day ago,2020-08-03,Works advertised No issue 7 day use However may somewhat inconvenient small kitchen platform,0.264,0.0,0.736,-0.5118,pos,0.105,0.0,0.895,-0.2748,pos
+5.0,Good...very nice,Arnab Das Baisnab,1day ago,2020-08-03,Good nice,0.0,1.0,0.0,0.6908,pos,0.0,0.737,0.263,0.4215,pos
+4.0,"Nice look , looks great in the kitchen. As per price it is awesome....",Bimalesh Mohanty,1day ago,2020-08-03,Nice look look great kitchen As per price awesome,0.0,0.647,0.353,0.9001,neg,0.0,0.5,0.5,0.9001,neg
+3.0,Having used this three burner for more than two months I can say that the flame intensity is quite low in all three burners.,Swetank  Singh,1day ago,2020-08-03,Having use three burner two month I say flame intensity quite low three burner,0.155,0.0,0.845,-0.3384,neu,0.094,0.0,0.906,-0.3384,neu
+4.0,Height of burner is more.,Flipkart Customer,1day ago,2020-08-03,Height burner,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Nice,Upputuri  Srinivasarao,Today,2020-08-04,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,good,Anbukkarasi Sakthivel,Today,2020-08-04,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Very good stove   and Butterfly is nice product's and all are buy a indian product's,Flipkart Customer,Today,2020-08-04,Very good stove Butterfly nice product buy indian product,0.0,0.461,0.539,0.7178,pos,0.0,0.316,0.684,0.7178,neg
+3.0,Packing was not good,MULLA IMRAN,Today,2020-08-04,Packing good,0.0,0.744,0.256,0.4404,neg,0.445,0.0,0.555,-0.3412,neg
+4.0,"Works as advertised.No issues after 7 days of use.However, may be somewhat inconvenient for those with small kitchen platforms.",Neel Sukhani,1day ago,2020-08-03,Works advertised No issue 7 day use However may somewhat inconvenient small kitchen platform,0.264,0.0,0.736,-0.5118,pos,0.105,0.0,0.895,-0.2748,pos
+5.0,Good...very nice,Arnab Das Baisnab,1day ago,2020-08-03,Good nice,0.0,1.0,0.0,0.6908,pos,0.0,0.737,0.263,0.4215,pos
+4.0,"Nice look , looks great in the kitchen. As per price it is awesome....",Bimalesh Mohanty,1day ago,2020-08-03,Nice look look great kitchen As per price awesome,0.0,0.647,0.353,0.9001,neg,0.0,0.5,0.5,0.9001,neg
+3.0,Having used this three burner for more than two months I can say that the flame intensity is quite low in all three burners.,Swetank  Singh,1day ago,2020-08-03,Having use three burner two month I say flame intensity quite low three burner,0.155,0.0,0.845,-0.3384,neu,0.094,0.0,0.906,-0.3384,neu
+4.0,Height of burner is more.,Flipkart Customer,1day ago,2020-08-03,Height burner,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Good experience,SANTHOSH S,1day ago,2020-08-03,Good experience,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Very nice,Flipkart Customer,1day ago,2020-08-03,Very nice,0.0,0.756,0.244,0.4754,pos,0.0,0.756,0.244,0.4754,pos
+5.0,Super product i liked it ,Flipkart Customer,1day ago,2020-08-03,Super product like,0.0,0.865,0.135,0.7506,pos,0.0,0.691,0.309,0.7717,pos
+5.0,good,Flipkart Customer,1day ago,2020-08-03,good,0.0,1.0,0.0,0.4404,neu,0.0,1.0,0.0,0.4404,neu
+3.0,Burner was not properly sit in a position,Flipkart Customer,1day ago,2020-08-03,Burner properly sit position,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Nice,Abdul hameed Dandoti,1day ago,2020-08-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Good one but small parts are damaged do safe delivery please,Ameer  k,1day ago,2020-08-03,Good one small part damage safe delivery please,0.209,0.529,0.261,0.5994,pos,0.196,0.446,0.357,0.5994,pos
+5.0,Good product.. delivery was in time..,VAMSI KRISHNA,1day ago,2020-08-03,Good product delivery time,0.0,0.492,0.508,0.4404,pos,0.0,0.367,0.633,0.4404,pos
+5.0,Super,Bijil Cr,1day ago,2020-08-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Good experience,SANTHOSH S,1day ago,2020-08-03,Good experience,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Very nice,Flipkart Customer,1day ago,2020-08-03,Very nice,0.0,0.756,0.244,0.4754,pos,0.0,0.756,0.244,0.4754,pos
+5.0,Super product i liked it ,Flipkart Customer,1day ago,2020-08-03,Super product like,0.0,0.865,0.135,0.7506,pos,0.0,0.691,0.309,0.7717,pos
+5.0,good,Flipkart Customer,1day ago,2020-08-03,good,0.0,1.0,0.0,0.4404,neu,0.0,1.0,0.0,0.4404,neu
+3.0,Burner was not properly sit in a position,Flipkart Customer,1day ago,2020-08-03,Burner properly sit position,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Nice,Abdul hameed Dandoti,1day ago,2020-08-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Good one but small parts are damaged do safe delivery please,Ameer  k,1day ago,2020-08-03,Good one small part damage safe delivery please,0.209,0.529,0.261,0.5994,pos,0.196,0.446,0.357,0.5994,pos
+5.0,Good product.. delivery was in time..,VAMSI KRISHNA,1day ago,2020-08-03,Good product delivery time,0.0,0.492,0.508,0.4404,pos,0.0,0.367,0.633,0.4404,pos
+5.0,Super,Bijil Cr,1day ago,2020-08-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Very nice product within affordable price.,Flipkart Customer,2days ago,2020-08-02,Very nice product within affordable price,0.0,0.382,0.618,0.4754,pos,0.0,0.382,0.618,0.4754,neu
+5.0,Nice very woodcut price no very high but little high,sanjay gawai,2days ago,2020-08-02,Nice woodcut price high little high,0.0,0.359,0.641,0.4215,pos,0.149,0.163,0.688,0.0434,pos
+5.0,Excellent  product ,Flipkart Customer,2days ago,2020-08-02,Excellent product,0.0,0.787,0.213,0.5719,pos,0.0,0.787,0.213,0.5719,pos
+5.0,Super quality,Bala Murugan,2days ago,2020-08-02,Super quality,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+5.0,Nice product and thank you.. Keep working ,Flipkart Customer,2days ago,2020-08-02,Nice product thank Keep work,0.0,0.639,0.361,0.6486,pos,0.0,0.515,0.485,0.6486,pos
+4.0,Good,Bharathi Vasanthan,2days ago,2020-08-02,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Super,Flipkart Customer,2days ago,2020-08-02,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Very very good,Flipkart Customer,2days ago,2020-08-02,Very good,0.0,0.762,0.238,0.4927,neg,0.0,0.634,0.366,0.5379,pos
+5.0,"Awesome product. Recommended for all.Don't fear about bad reviews as glass broken .If you handle it good, it will last longer...",Muthu Gowtham,2days ago,2020-08-02,Awesome product Recommended Don fear bad review glass broken If handle good last longer,0.368,0.331,0.301,-0.25,pos,0.096,0.441,0.463,0.8801,pos
+4.0,Good,Flipkart Customer,2days ago,2020-08-02,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,It's good,Flipkart Customer,2days ago,2020-08-02,It good,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Super,GA MANJUNATHA  REDDY,2days ago,2020-08-02,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,It's good product.,Salman Khan,2days ago,2020-08-02,It good product,0.0,0.592,0.408,0.4404,pos,0.0,0.592,0.408,0.4404,pos
+4.0,Good product,Rahul Kumar  Sah,2days ago,2020-08-02,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Nice product and quality,Flipkart Customer,2days ago,2020-08-02,Nice product quality,0.0,0.583,0.417,0.4215,pos,0.0,0.483,0.517,0.4215,pos
+4.0,Good product,B.Bhagavathi  Rao,2days ago,2020-08-02,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Very good,Flipkart Customer,2days ago,2020-08-02,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+5.0,Good product,Nagaraju Vaddi,2days ago,2020-08-02,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Black beauty,Rishi Richie,2days ago,2020-08-02,Black beauty,0.0,0.792,0.208,0.5859,neu,0.0,0.792,0.208,0.5859,neu
+3.0,short,anusha kalluri,2days ago,2020-08-02,short,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Delivery is good serviceProduct is good,Rajesh K,2days ago,2020-08-02,Delivery good serviceProduct good,0.0,0.744,0.256,0.7003,neg,0.0,0.592,0.408,0.7003,neg
+5.0,Not product darling ️,Flipkart Customer,2days ago,2020-08-02,Not product darling,0.606,0.0,0.394,-0.4717,pos,0.506,0.0,0.494,-0.4717,pos
+5.0,Os super ,Flipkart Customer,2days ago,2020-08-02,Os super,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+4.0,Nice product,Rajesh gorinta,2days ago,2020-08-02,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Nice,Sachin Biradar,2days ago,2020-08-02,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Great,Sruthin Kumar,2days ago,2020-08-02,Great,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+4.0,Packing was not so strong. Bout the product has been reached safely. Looking good and easy to youse is the best feature. Definitely you can move on this product without any hesitation,Shamin Salim,2days ago,2020-08-02,Packing strong Bout product reach safely Looking good easy youse best feature Definitely move product without hesitation,0.0,0.711,0.289,0.9644,pos,0.073,0.411,0.516,0.9289,pos
+3.0,Value for money but it is delivery was two late and product was better,Flipkart Customer,2days ago,2020-08-02,Value money delivery two late product well,0.0,0.474,0.526,0.5423,neu,0.0,0.316,0.684,0.6757,neu
+5.0,Gud,Flipkart Customer,2days ago,2020-08-02,Gud,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good quality super Thanks,sarala saralayesu,3days ago,2020-08-01,Good quality super Thanks,0.0,0.907,0.093,0.8658,pos,0.0,0.907,0.093,0.8658,pos
+5.0,It's good Butterfly is always super.. Thank you tipcart.....,Flipkart Customer,3days ago,2020-08-01,It good Butterfly always super Thank tipcart,0.0,0.699,0.301,0.8519,pos,0.0,0.608,0.392,0.8519,pos
+5.0,Good quality,Flipkart Customer,3days ago,2020-08-01,Good quality,0.0,0.744,0.256,0.4404,neu,0.0,0.744,0.256,0.4404,neu
+4.0,"Every is good , I still have a doubt that why the glass is getting heat very fast",Flipkart Customer,3days ago,2020-08-01,Every good I still doubt glass get heat fast,0.202,0.234,0.565,0.1027,pos,0.117,0.136,0.748,0.1027,pos
+5.0,os protect os quality no any defect i love it.,Abhijeet ghosh,3days ago,2020-08-01,o protect os quality defect love,0.197,0.557,0.246,0.6597,neg,0.129,0.519,0.352,0.7674,pos
+3.0,Ok not bad,G.Vishnu Vardhan Reddy Vishnu,3days ago,2020-08-01,Ok bad,0.614,0.386,0.0,-0.3182,pos,0.0,0.835,0.165,0.6187,pos
+5.0,Awesome product,Flipkart Customer,3days ago,2020-08-01,Awesome product,0.0,0.804,0.196,0.6249,pos,0.0,0.804,0.196,0.6249,pos
+5.0,Very good and value of money,Nandini Kumari,3days ago,2020-08-01,Very good value money,0.0,0.746,0.254,0.707,pos,0.0,0.594,0.406,0.7056,neu
+4.0,"Buttons are not good , apart from everything looks good",Flipkart Customer,3days ago,2020-08-01,Buttons good apart everything look good,0.0,0.592,0.408,0.7003,pos,0.181,0.218,0.601,0.1265,pos
+4.0,The product was good but it came without a screw for one stand..and have some issue while switching off,Rihana Anwar,3days ago,2020-08-01,The product good come without screw one stand issue switch,0.0,0.344,0.656,0.4932,pos,0.0,0.166,0.834,0.3387,pos
+5.0,Good quality super Thanks,sarala saralayesu,3days ago,2020-08-01,Good quality super Thanks,0.0,0.907,0.093,0.8658,pos,0.0,0.907,0.093,0.8658,pos
+5.0,It's good Butterfly is always super.. Thank you tipcart.....,Flipkart Customer,3days ago,2020-08-01,It good Butterfly always super Thank tipcart,0.0,0.699,0.301,0.8519,pos,0.0,0.608,0.392,0.8519,pos
+5.0,Good quality,Flipkart Customer,3days ago,2020-08-01,Good quality,0.0,0.744,0.256,0.4404,neu,0.0,0.744,0.256,0.4404,neu
+4.0,"Every is good , I still have a doubt that why the glass is getting heat very fast",Flipkart Customer,3days ago,2020-08-01,Every good I still doubt glass get heat fast,0.202,0.234,0.565,0.1027,pos,0.117,0.136,0.748,0.1027,pos
+5.0,os protect os quality no any defect i love it.,Abhijeet ghosh,3days ago,2020-08-01,o protect os quality defect love,0.197,0.557,0.246,0.6597,neg,0.129,0.519,0.352,0.7674,pos
+3.0,Ok not bad,G.Vishnu Vardhan Reddy Vishnu,3days ago,2020-08-01,Ok bad,0.614,0.386,0.0,-0.3182,pos,0.0,0.835,0.165,0.6187,pos
+5.0,Awesome product,Flipkart Customer,3days ago,2020-08-01,Awesome product,0.0,0.804,0.196,0.6249,pos,0.0,0.804,0.196,0.6249,pos
+5.0,Very good and value of money,Nandini Kumari,3days ago,2020-08-01,Very good value money,0.0,0.746,0.254,0.707,pos,0.0,0.594,0.406,0.7056,neu
+4.0,"Buttons are not good , apart from everything looks good",Flipkart Customer,3days ago,2020-08-01,Buttons good apart everything look good,0.0,0.592,0.408,0.7003,pos,0.181,0.218,0.601,0.1265,pos
+4.0,The product was good but it came without a screw for one stand..and have some issue while switching off,Rihana Anwar,3days ago,2020-08-01,The product good come without screw one stand issue switch,0.0,0.344,0.656,0.4932,pos,0.0,0.166,0.834,0.3387,pos
+5.0,Very good,Santosh ,3days ago,2020-08-01,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+5.0,"Hot product not only in cooking even in looks. Classic design adds beauty to your kitchen.Pros1. Compact and adequate size.2. Turners great quality3. Knobs, glass and every material in it has absolute great quality.4. Clean Blue flame.Cons:If nozzle given in sideway it will be better.Othetthan this nothing else found bad",Venkatesh KondamSetty,3days ago,2020-08-01,Hot product cook even look Classic design add beauty kitchen Pros1 Compact adequate size 2 Turners great quality3 Knobs glass every material absolute great quality 4 Clean Blue flame Cons If nozzle give sideway good Othetthan nothing else find bad,0.0,0.404,0.596,0.9696,neu,0.0,0.307,0.693,0.961,neu
+5.0,Don't miss it..,Flipkart Customer,3days ago,2020-08-01,Don miss,0.615,0.0,0.385,-0.1531,pos,0.0,0.419,0.581,0.1139,pos
+5.0,"This review after 4 month 1. No compromise on quality , quality was good 2. no burning issue 3. My mom using like steel platform the glass good quality no issue still I did not face",kumaran R,3days ago,2020-08-01,This review 4 month 1 No compromise quality quality good 2 burn issue 3 My mom use like steel platform glass good quality issue still I face,0.066,0.248,0.687,0.7269,neu,0.147,0.185,0.668,0.4019,neu
+3.0,Flame was not burning at flow,THIRUPATHI K,3days ago,2020-08-01,Flame burn flow,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Nice product...,Flipkart Customer,3days ago,2020-08-01,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Good quality,chandra yudu,3days ago,2020-08-01,Good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+3.0,Not that bad..instant message happy with it,Flipkart Customer,3days ago,2020-08-01,Not bad instant message happy,0.0,0.686,0.314,0.7615,pos,0.0,0.381,0.619,0.5719,pos
+5.0,Excellent ,JAGANATHAN L,3days ago,2020-08-01,Excellent,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+5.0,Hussar really really love the productThank you Flipkart,Flipkart Customer,3days ago,2020-08-01,Hussar really really love productThank Flipkart,0.0,0.488,0.512,0.6976,pos,0.0,0.405,0.595,0.6976,pos
+4.0,Nice ,Mohan Panchal,3days ago,2020-08-01,Nice,0.0,1.0,0.0,0.4215,neu,0.0,1.0,0.0,0.4215,neu
+4.0,Supper materials,Ganapati poojari  Poojari,3days ago,2020-08-01,Supper material,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Super product,Surya  Teja,3days ago,2020-08-01,Super product,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+5.0,I it is very good product,Siga vengalarao,3days ago,2020-08-01,I good product,0.0,0.592,0.408,0.4404,pos,0.0,0.39,0.61,0.4927,pos
+5.0,Good,Kila Munisekhar,3days ago,2020-08-01,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Really loved by my family ️,Bhanu  Bandaru,3days ago,2020-08-01,Really love family,0.0,0.692,0.308,0.6697,pos,0.0,0.456,0.544,0.6361,pos
+5.0,Best purchased... Fast delivery. Worth money...,Flipkart Customer,3days ago,2020-08-01,Best purchase Fast delivery Worth money,0.0,0.604,0.396,0.7269,pos,0.0,0.604,0.396,0.7269,pos
+5.0,Best at this price range. Gas stove is awesome . Good Delivery by Flipkart.,Md Kaif Tenkasali,3days ago,2020-08-01,Best price range Gas stove awesome Good Delivery Flipkart,0.0,0.651,0.349,0.9042,pos,0.0,0.505,0.495,0.9042,pos
+4.0,Good worth,Flipkart Customer,3days ago,2020-08-01,Good worth,0.0,1.0,0.0,0.5859,pos,0.0,1.0,0.0,0.5859,pos
+5.0,Hussar really really love the productThank you Flipkart,Flipkart Customer,3days ago,2020-08-01,Hussar really really love productThank Flipkart,0.0,0.488,0.512,0.6976,pos,0.0,0.405,0.595,0.6976,pos
+4.0,Nice ,Mohan Panchal,3days ago,2020-08-01,Nice,0.0,1.0,0.0,0.4215,neu,0.0,1.0,0.0,0.4215,neu
+4.0,Supper materials,Ganapati poojari  Poojari,3days ago,2020-08-01,Supper material,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Super product,Surya  Teja,3days ago,2020-08-01,Super product,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+5.0,I it is very good product,Siga vengalarao,3days ago,2020-08-01,I good product,0.0,0.592,0.408,0.4404,pos,0.0,0.39,0.61,0.4927,pos
+5.0,Good,Kila Munisekhar,3days ago,2020-08-01,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Really loved by my family ️,Bhanu  Bandaru,3days ago,2020-08-01,Really love family,0.0,0.692,0.308,0.6697,pos,0.0,0.456,0.544,0.6361,pos
+5.0,Best purchased... Fast delivery. Worth money...,Flipkart Customer,3days ago,2020-08-01,Best purchase Fast delivery Worth money,0.0,0.604,0.396,0.7269,pos,0.0,0.604,0.396,0.7269,pos
+5.0,Best at this price range. Gas stove is awesome . Good Delivery by Flipkart.,Md Kaif Tenkasali,3days ago,2020-08-01,Best price range Gas stove awesome Good Delivery Flipkart,0.0,0.651,0.349,0.9042,pos,0.0,0.505,0.495,0.9042,pos
+4.0,Good worth,Flipkart Customer,3days ago,2020-08-01,Good worth,0.0,1.0,0.0,0.5859,neg,0.0,1.0,0.0,0.5859,neg
+3.0,Quality is averageBurner quality low,Annaso Mali,4days ago,2020-07-31,Quality averageBurner quality low,0.412,0.0,0.588,-0.2732,pos,0.344,0.0,0.656,-0.2732,pos
+4.0,The angry comments disappear when the knob is kept at ScM position. Rest assured. Great look and feel.,Prasad  Mendon,4days ago,2020-07-31,The angry comment disappear knob keep ScM position Rest assure Great look feel,0.251,0.314,0.435,0.3182,pos,0.202,0.256,0.543,0.34,pos
+4.0,Ok,Flipkart Customer,4days ago,2020-07-31,Ok,0.0,1.0,0.0,0.296,pos,0.0,1.0,0.0,0.296,pos
+5.0,Best and better quality products..,Vijay Patil,4days ago,2020-07-31,Best good quality product,0.0,0.78,0.22,0.7964,pos,0.0,0.703,0.297,0.7964,pos
+5.0,Awesome,Yug Chandrawanshi,4days ago,2020-07-31,Awesome,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+5.0,It's awesome from Flipkart. Received perfect now and I am very  happy with Flipkart Care and support,Robinson,4days ago,2020-07-31,It awesome Flipkart Received perfect I happy Flipkart Care support,0.0,0.777,0.223,0.9545,pos,0.0,0.596,0.404,0.9565,pos
+4.0,Good,Shuvam Mondal,4days ago,2020-07-31,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good product.,chandan singh,4days ago,2020-07-31,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Super I like it very much,Flipkart Customer,4days ago,2020-07-31,Super I like much,0.0,0.762,0.238,0.7506,pos,0.0,0.615,0.385,0.7506,pos
+5.0,Good product .... It's valuable product....,Flipkart Customer,4days ago,2020-07-31,Good product It valuable product,0.0,0.667,0.333,0.7184,pos,0.0,0.6,0.4,0.7184,pos
+5.0,Good satisfied,Parveen Parveen,4days ago,2020-07-31,Good satisfy,0.0,1.0,0.0,0.7096,pos,0.0,1.0,0.0,0.6908,pos
+3.0,Nice,Flipkart Customer,4days ago,2020-07-31,Nice,0.0,1.0,0.0,0.4215,neu,0.0,1.0,0.0,0.4215,neu
+3.0,Burner was not working,Mukesh Kumar,4days ago,2020-07-31,Burner work,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Low price and better quality,Surendran R,4days ago,2020-07-31,Low price good quality,0.3,0.414,0.286,0.2023,pos,0.263,0.362,0.375,0.2023,pos
+5.0,Nice product by Flipkart thank you so much ,Puneeth,4days ago,2020-07-31,Nice product Flipkart thank much,0.0,0.639,0.361,0.6486,pos,0.0,0.469,0.531,0.6486,pos
+5.0,Nice,Venu V,4days ago,2020-07-31,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Ogg  super  os,B thirupathaiah,4days ago,2020-07-31,Ogg super o,0.0,0.661,0.339,0.5994,pos,0.0,0.661,0.339,0.5994,pos
+5.0,NICE PRODUCT QUICK DELIVER THANKS FOR FLIPKART ️,PRABAKARAN .P,4days ago,2020-07-31,NICE PRODUCT QUICK DELIVER THANKS FOR FLIPKART,0.0,0.533,0.467,0.6908,neu,0.0,0.544,0.456,0.8001,neu
+4.0,Dovey product,Prakash Punj,4days ago,2020-07-31,Dovey product,0.0,0.0,1.0,0.0,neg,0.0,0.0,1.0,0.0,neg
+3.0,Some damage in the product...,kkrsudhan hari hara sudhan raj,5days ago,2020-07-30,Some damage product,0.615,0.0,0.385,-0.4939,pos,0.444,0.0,0.556,-0.4939,pos
+5.0,Super,Flipkart Customer,5days ago,2020-07-30,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Thanks for flpkarit team,Alex L,5days ago,2020-07-30,Thanks flpkarit team,0.0,0.592,0.408,0.4404,pos,0.0,0.492,0.508,0.4404,pos
+5.0,Very good,Dipankar Bhowmik,5days ago,2020-07-30,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+5.0,Nice  product .. conditions is awesome,Flipkart Customer,5days ago,2020-07-30,Nice product condition awesome,0.0,0.775,0.225,0.7845,pos,0.0,0.633,0.367,0.7845,pos
+5.0,Superb,Flipkart Customer,5days ago,2020-07-30,Superb,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+5.0,Thank you flip kart team the stove is really good working   And we believe on yoyo,Flipkart Customer,5days ago,2020-07-30,Thank flip kart team stove really good working And believe yoyo,0.0,0.47,0.53,0.7264,pos,0.0,0.353,0.647,0.7264,pos
+5.0,Good,Mrinal Upadhayay,5days ago,2020-07-30,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,super,Vudi Ramakrishna ,5days ago,2020-07-30,super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Good,Baba Fakruddin,5days ago,2020-07-30,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good product,CHAKRAVARTHI N,5days ago,2020-07-30,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Super,Flipkart Customer,5days ago,2020-07-30,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Exalted super,VIVEK K,5days ago,2020-07-30,Exalted super,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+5.0,Very nice,Sri mathi,5days ago,2020-07-30,Very nice,0.0,0.756,0.244,0.4754,pos,0.0,0.756,0.244,0.4754,pos
+5.0,Good product,Natraj,5days ago,2020-07-30,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+3.0,Better do not buy 3 burners.Because flame not effective compare the two burners.If this developed in this stove truly awesome in future.,Subbiah ,5days ago,2020-07-30,Better buy 3 burner Because flame effective compare two burner If develop stove truly awesome future,0.0,0.52,0.48,0.9186,pos,0.084,0.325,0.591,0.8098,pos
+5.0,Good product,Flipkart Customer,5days ago,2020-07-30,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good value for money,Flipkart Customer,5days ago,2020-07-30,Good value money,0.0,0.841,0.159,0.6486,pos,0.0,0.726,0.274,0.6486,pos
+4.0,Nice value for  ..,Flipkart Customer,5days ago,2020-07-30,Nice value,0.0,1.0,0.0,0.6369,pos,0.0,0.722,0.278,0.6369,pos
+4.0,Wow superb,Katukuri Praveen,5days ago,2020-07-30,Wow superb,0.0,1.0,0.0,0.836,pos,0.0,1.0,0.0,0.836,pos
+4.0,Nice.i am happy,Flipkart Customer,5days ago,2020-07-30,Nice happy,0.0,1.0,0.0,0.7579,pos,0.0,0.649,0.351,0.5719,pos
+4.0,Good,Vetrivel S,5days ago,2020-07-30,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Great stove but burner is low . Faster delivery . At good condition,Sujit Pradhan,5days ago,2020-07-30,Great stove burner low Faster delivery At good condition,0.139,0.464,0.397,0.7096,pos,0.139,0.336,0.525,0.5789,pos
+5.0,Good quality,Mohammad sadhulla ,5days ago,2020-07-30,Good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+3.0,Nice one,Saranya,5days ago,2020-07-30,Nice one,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+3.0,Good,Flipkart Customer,5days ago,2020-07-30,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good product,Flipkart Customer,5days ago,2020-07-30,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Awesome produced I love thanks Tipcart ,Flipkart Customer,5days ago,2020-07-30,Awesome produce I love thanks Tipcart,0.0,0.789,0.211,0.9042,pos,0.0,0.789,0.211,0.9042,pos
+5.0,Good product,Flipkart Customer,5days ago,2020-07-30,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Nice product,ABHAY JP,5days ago,2020-07-30,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,good product,Adarsh K v,5days ago,2020-07-30,good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Works fine.. no issue for one month use. Value for money for sure.,rohit surve,5days ago,2020-07-30,Works fine issue one month use Value money sure,0.0,0.52,0.48,0.6705,neu,0.124,0.367,0.508,0.5106,neu
+5.0,Awsome product...,Tapan Malakar,5days ago,2020-07-30,Awsome product,0.0,0.0,1.0,0.0,neu,0.0,0.0,1.0,0.0,neu
+5.0,Then you flipkart.....,Flipkart Customer,5days ago,2020-07-30,Then flipkart,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+3.0,Good but another stove is small and touch time,Sachin Sanju,5days ago,2020-07-30,Good another stove small touch time,0.0,0.367,0.633,0.4404,pos,0.0,0.196,0.804,0.2382,pos
+5.0,Very Good Performance Smart Online Shopping One And Only Flipkart,Mohamed Kazzalee,5days ago,2020-07-30,Very Good Performance Smart Online Shopping One And Only Flipkart,0.0,0.435,0.565,0.7316,pos,0.0,0.435,0.565,0.7316,pos
+5.0,This gas stove is very smart and very supper that price is supper,Flipkart Customer,5days ago,2020-07-30,This gas stove smart supper price supper,0.0,0.31,0.69,0.4019,pos,0.0,0.2,0.8,0.4576,pos
+5.0,Nice and perfect ,Aliya Aliya,5days ago,2020-07-30,Nice perfect,0.0,1.0,0.0,0.7579,pos,0.0,0.867,0.133,0.7579,pos
+5.0,Ok,Shanmugam maharajan,5days ago,2020-07-30,Ok,0.0,1.0,0.0,0.296,pos,0.0,1.0,0.0,0.296,pos
+4.0,Good,perumal prithik,5days ago,2020-07-30,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good,Hani Sree,5days ago,2020-07-30,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,Excellent product less efficiency fuel,Flipkart Customer,5days ago,2020-07-30,Excellent product less efficiency fuel,0.0,0.663,0.337,0.7102,pos,0.0,0.663,0.337,0.7102,pos
+5.0,Nice product,ARNAB SARKAR,5days ago,2020-07-30,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Good,kittu hade,6days ago,2020-07-29,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,"Good, but very small....",Siva Kumar,6days ago,2020-07-29,Good small,0.0,0.744,0.256,0.4404,pos,0.0,0.394,0.606,0.2382,pos
+5.0,Nice worth for money good quality ,Flipkart Customer,6days ago,2020-07-29,Nice worth money good quality,0.0,0.792,0.208,0.765,pos,0.0,0.717,0.283,0.765,neu
+4.0,Good products but some screws are not tight,ANEESH C,6days ago,2020-07-29,Good product screw tight,0.222,0.46,0.317,0.3612,pos,0.239,0.187,0.574,-0.1406,pos
+5.0,Nice product,Flipkart Customer,6days ago,2020-07-29,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Quality is good for this price One of the burner was not fixed properly but could see the C passed sticker on the stove.,Shalini P,6days ago,2020-07-29,Quality good price One burner fix properly could see C pass sticker stove,0.0,0.195,0.805,0.4404,pos,0.0,0.078,0.922,0.2382,pos
+3.0,Good,Raju Das,6days ago,2020-07-29,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Every thing is good.. except the pot stand.... it is very weak..rest all okay,Shabanah  Naseer,6days ago,2020-07-29,Every thing good except pot stand weak rest okay,0.212,0.35,0.438,0.2263,pos,0.0,0.297,0.703,0.6204,neg
+4.0,Product  good  but  little  broke,Rajesh maurya,6days ago,2020-07-29,Product good little break,0.0,0.492,0.508,0.4404,pos,0.397,0.238,0.365,-0.3205,pos
+5.0,Good design..,KALPESH PATIL,6days ago,2020-07-29,Good design,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Very good product Awesome,Flipkart Customer,6days ago,2020-07-29,Very good product Awesome,0.0,0.791,0.209,0.8204,pos,0.0,0.791,0.209,0.8204,pos
+3.0,"Good, but very small....",Siva Kumar,6days ago,2020-07-29,Good small,0.0,0.744,0.256,0.4404,pos,0.0,0.394,0.606,0.2382,pos
+5.0,Nice worth for money good quality ,Flipkart Customer,6days ago,2020-07-29,Nice worth money good quality,0.0,0.792,0.208,0.765,pos,0.0,0.717,0.283,0.765,neu
+4.0,Good products but some screws are not tight,ANEESH C,6days ago,2020-07-29,Good product screw tight,0.222,0.46,0.317,0.3612,pos,0.239,0.187,0.574,-0.1406,pos
+5.0,Nice product,Flipkart Customer,6days ago,2020-07-29,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Quality is good for this price One of the burner was not fixed properly but could see the C passed sticker on the stove.,Shalini P,6days ago,2020-07-29,Quality good price One burner fix properly could see C pass sticker stove,0.0,0.195,0.805,0.4404,pos,0.0,0.078,0.922,0.2382,pos
+3.0,Good,Raju Das,6days ago,2020-07-29,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Every thing is good.. except the pot stand.... it is very weak..rest all okay,Shabanah  Naseer,6days ago,2020-07-29,Every thing good except pot stand weak rest okay,0.212,0.35,0.438,0.2263,pos,0.0,0.297,0.703,0.6204,neg
+4.0,Product  good  but  little  broke,Rajesh maurya,6days ago,2020-07-29,Product good little break,0.0,0.492,0.508,0.4404,pos,0.397,0.238,0.365,-0.3205,pos
+5.0,Good design..,KALPESH PATIL,6days ago,2020-07-29,Good design,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Very good product Awesome,Flipkart Customer,6days ago,2020-07-29,Very good product Awesome,0.0,0.791,0.209,0.8204,pos,0.0,0.791,0.209,0.8204,pos
+5.0,Excellent,Ranjeet  Gupta,6days ago,2020-07-29,Excellent,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+3.0,Good,Flipkart Customer,6days ago,2020-07-29,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,"Nice product, value for money After using it for two days, the colour of the warday stand is stared going, its becoming grey from blackOtherwise its very nice, and is perfect for small kitchens",Monisha Nayak,6days ago,2020-07-29,Nice product value money After use two day colour warday stand star go become grey blackOtherwise nice perfect small kitchen,0.0,0.462,0.538,0.8979,pos,0.0,0.313,0.687,0.9041,pos
+5.0,"Working good and the design is great.Thanks to the flipkart,I got it best price ",chenchu,6days ago,2020-07-29,Working good design great Thanks flipkart I get best price,0.0,0.701,0.299,0.9337,pos,0.0,0.372,0.628,0.7964,pos
+5.0,excellent ,Flipkart Customer,6days ago,2020-07-29,excellent,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+5.0,Super product,Flipkart Customer,6days ago,2020-07-29,Super product,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+5.0,Good and smooth working,Flipkart Customer,6days ago,2020-07-29,Good smooth work,0.0,0.592,0.408,0.4404,pos,0.0,0.492,0.508,0.4404,pos
+5.0,"Good quality, worth of money",Flipkart Customer,6days ago,2020-07-29,Good quality worth money,0.0,0.706,0.294,0.5859,pos,0.0,0.615,0.385,0.5859,pos
+4.0,Great. Value for money.,ViJith Nadraj,6days ago,2020-07-29,Great Value money,0.0,0.867,0.133,0.7579,pos,0.0,0.765,0.235,0.7579,pos
+4.0,Nice and good looking,Flipkart Customer,6days ago,2020-07-29,Nice good look,0.0,0.851,0.149,0.6908,pos,0.0,0.74,0.26,0.6908,pos
+4.0,This stove design is very attractive.Smaller than I expected.but packaging is very poor it will have one cardboard box that is a product box we did not get another packaging boxes so it will easily damage the product.some minor issues have I received product but it is okay.overall is a good product,Vibin  Pr,7days ago,2020-07-28,This stove design attractive Smaller I expect packaging poor one cardboard box product box get another packaging box easily damage product minor issue I receive product okay overall good product,0.156,0.25,0.594,0.4215,pos,0.074,0.098,0.828,0.3368,pos
+3.0,It's a good product ..I like it,ravi teja,7days ago,2020-07-28,It good product I like,0.0,0.643,0.357,0.6597,pos,0.0,0.519,0.481,0.6597,pos
+5.0,Nice product,Flipkart Customer,7days ago,2020-07-28,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Good,Flipkart Customer,7days ago,2020-07-28,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good job thanks a lot Flipkart..,Flipkart Customer,7days ago,2020-07-28,Good job thanks lot Flipkart,0.0,0.659,0.341,0.7003,pos,0.0,0.592,0.408,0.7003,pos
+5.0,Nice products..its working good..,Flipkart Customer,7days ago,2020-07-28,Nice product work good,0.0,0.74,0.26,0.6908,pos,0.0,0.74,0.26,0.6908,pos
+5.0,Super,Flipkart Customer,7days ago,2020-07-28,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Value for money this is affordable  product ,Garima Upadhyay,7days ago,2020-07-28,Value money affordable product,0.0,0.444,0.556,0.34,pos,0.0,0.286,0.714,0.34,pos
+5.0,Good product ,SANTHOSH  N,7days ago,2020-07-28,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Superb product,Flipkart Customer,7days ago,2020-07-28,Superb product,0.0,0.804,0.196,0.6249,pos,0.0,0.804,0.196,0.6249,pos
+5.0,Value for money.,Flipkart Customer,7days ago,2020-07-28,Value money,0.0,0.706,0.294,0.34,pos,0.0,0.545,0.455,0.34,pos
+5.0,Awesome product Just go for it ,Flipkart Customer,7days ago,2020-07-28,Awesome product Just go,0.0,0.577,0.423,0.6249,pos,0.0,0.451,0.549,0.6249,pos
+5.0,Super product good gas stove,govardhan naidu,7days ago,2020-07-28,Super product good gas stove,0.0,0.694,0.306,0.7783,pos,0.0,0.694,0.306,0.7783,pos
+4.0,"Product is good ,but burners are tilted and fittings not proper and delivered two day before the delivery date. So, the product is awesome.",Kumaresan Elumalai,7days ago,2020-07-28,Product good burner tilt fitting proper delivered two day delivery date So product awesome,0.0,0.378,0.622,0.8062,pos,0.0,0.257,0.743,0.8225,pos
+5.0,Good,Flipkart Customer,7days ago,2020-07-28,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good,Sathvik M,7days ago,2020-07-28,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good,Flipkart Customer,7days ago,2020-07-28,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Value for money product,Nilesh  Ekkaldevi,7days ago,2020-07-28,Value money product,0.0,0.545,0.455,0.34,pos,0.0,0.444,0.556,0.34,pos
+4.0,quality is very good & working so fine,Suresh Dhakad,7days ago,2020-07-28,quality good work fine,0.0,0.701,0.299,0.5719,pos,0.0,0.481,0.519,0.6767,pos
+5.0,Nice,NARAYANA DAGAM,7days ago,2020-07-28,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Super,gopi kothapalli,7days ago,2020-07-28,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Good product,Srinivasa Rao Peram,7days ago,2020-07-28,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Cool one,Vishnu Prasath,7days ago,2020-07-28,Cool one,0.0,0.697,0.303,0.3182,pos,0.0,0.697,0.303,0.3182,pos
+5.0,Super,Fa,7days ago,2020-07-28,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Nice product.. there is original Brass on it.Very good with this cost .. ,Flipkart Customer,7days ago,2020-07-28,Nice product original Brass Very good cost,0.0,0.675,0.325,0.807,pos,0.0,0.444,0.556,0.7906,pos
+4.0,Nice,Avinash  Kumar,7days ago,2020-07-28,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Very nice and good look also ...thank flipkart ,Flipkart Customer,7days ago,2020-07-28,Very nice good look also thank flipkart,0.0,0.687,0.313,0.8304,pos,0.0,0.637,0.363,0.8297,pos
+5.0,Good product,Flipkart Customer,7days ago,2020-07-28,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Worth its price and quality,Prakash Kumar,7days ago,2020-07-28,Worth price quality,0.0,0.487,0.513,0.2263,pos,0.0,0.322,0.678,0.2263,pos
+5.0,Good purchase,Ranjith  R,7days ago,2020-07-28,Good purchase,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Amazing product by butterfly I really loved it.but I returned it because it is not having jumbo burner.,Syed  Younus,7days ago,2020-07-28,Amazing product butterfly I really love I return jumbo burner,0.0,0.509,0.491,0.8516,pos,0.0,0.333,0.667,0.8399,pos
+4.0,Nice one,Flipkart Customer,7days ago,2020-07-28,Nice one,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Good product in this price ,Flipkart Customer,7days ago,2020-07-28,Good product price,0.0,0.592,0.408,0.4404,pos,0.0,0.42,0.58,0.4404,pos
+4.0,Just satisfied,Ranjith Kumar,7days ago,2020-07-28,Just satisfy,0.0,0.75,0.25,0.4588,pos,0.0,0.737,0.263,0.4215,pos
+5.0,I loved it.. No damage,Mahalakshmi  Prakash,7days ago,2020-07-28,I love No damage,0.0,0.773,0.227,0.78,neu,0.0,0.685,0.315,0.7599,neu
+3.0,Burner issue,Ramu P,8days ago,2020-07-27,Burner issue,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Best materials and best comfort,Flipkart Customer,8days ago,2020-07-27,Best material best comfort,0.0,0.916,0.084,0.8979,pos,0.0,0.845,0.155,0.8979,pos
+3.0,Not bad,Satyam Munigonda,8days ago,2020-07-27,Not bad,0.0,0.74,0.26,0.431,pos,0.0,0.74,0.26,0.431,pos
+4.0,Good valve for money.......good packing.......... working good.........thanks flipkart...........,Mariappan Kutty,8days ago,2020-07-27,Good valve money good packing work good thanks flipkart,0.0,0.699,0.301,0.891,pos,0.0,0.293,0.707,0.4404,pos
+4.0,Worth for money,Flipkart Customer,8days ago,2020-07-27,Worth money,0.0,0.655,0.345,0.2263,pos,0.0,0.487,0.513,0.2263,pos
+4.0,Sexy Gas Stove... ,AJmal Basheer,8days ago,2020-07-27,Sexy Gas Stove,0.0,0.63,0.37,0.5267,pos,0.0,0.63,0.37,0.5267,pos
+5.0,Very nice product thank you butterfly and flipkart.,Ganesh Kuchekar,8days ago,2020-07-27,Very nice product thank butterfly flipkart,0.0,0.594,0.406,0.7056,neg,0.0,0.494,0.506,0.7056,neg
+3.0,Low bursar quality,Flipkart Customer,8days ago,2020-07-27,Low bursar quality,0.512,0.0,0.488,-0.2732,pos,0.512,0.0,0.488,-0.2732,pos
+5.0,Wonderful product.. compact in design,Jeevan Kumar,8days ago,2020-07-27,Wonderful product compact design,0.0,0.552,0.448,0.5719,pos,0.0,0.481,0.519,0.5719,pos
+4.0,Nice,Flipkart Customer,8days ago,2020-07-27,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Excellent product,navneet pandey,8days ago,2020-07-27,Excellent product,0.0,0.787,0.213,0.5719,pos,0.0,0.787,0.213,0.5719,pos
+5.0,Nice Product,Gouranga Behera,8days ago,2020-07-27,Nice Product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Nice to use...,Flipkart Customer,8days ago,2020-07-27,Nice use,0.0,0.737,0.263,0.4215,pos,0.0,0.583,0.417,0.4215,pos
+5.0,Nice stove,Flipkart Customer,8days ago,2020-07-27,Nice stove,0.0,0.737,0.263,0.4215,neu,0.0,0.737,0.263,0.4215,neu
+3.0,Too small,Flipkart Customer,8days ago,2020-07-27,Too small,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Best,Biplab Saha,8days ago,2020-07-27,Best,0.0,1.0,0.0,0.6369,pos,0.0,1.0,0.0,0.6369,pos
+5.0,Good one,Flipkart Customer,8days ago,2020-07-27,Good one,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Very good,Ganesh Pai,8days ago,2020-07-27,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+5.0,Awesome,Flipkart Customer,8days ago,2020-07-27,Awesome,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+3.0,Ok,Flipkart Customer,8days ago,2020-07-27,Ok,0.0,1.0,0.0,0.296,pos,0.0,1.0,0.0,0.296,pos
+4.0,Nice product,Flipkart Customer,8days ago,2020-07-27,Nice product,0.0,0.737,0.263,0.4215,neu,0.0,0.737,0.263,0.4215,neu
+3.0,Too small,Flipkart Customer,8days ago,2020-07-27,Too small,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Best,Biplab Saha,8days ago,2020-07-27,Best,0.0,1.0,0.0,0.6369,pos,0.0,1.0,0.0,0.6369,pos
+5.0,Good one,Flipkart Customer,8days ago,2020-07-27,Good one,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Very good,Ganesh Pai,8days ago,2020-07-27,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+5.0,Awesome,Flipkart Customer,8days ago,2020-07-27,Awesome,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+3.0,Ok,Flipkart Customer,8days ago,2020-07-27,Ok,0.0,1.0,0.0,0.296,pos,0.0,1.0,0.0,0.296,pos
+4.0,Nice product,Flipkart Customer,8days ago,2020-07-27,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Nice,Mahesh Bhoye,8days ago,2020-07-27,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,I am Very happy,Dhananjay kumar  Shukla,8days ago,2020-07-27,I Very happy,0.0,0.666,0.334,0.6115,pos,0.0,0.571,0.429,0.6115,pos
+5.0,Nice,Flipkart Customer,8days ago,2020-07-27,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Very nice product and value for money...,Flipkart Customer,8days ago,2020-07-27,Very nice product value money,0.0,0.657,0.343,0.6962,pos,0.0,0.523,0.477,0.6697,pos
+5.0,Same as expected. Best product in this price range.,Muhammed Nizar P,8days ago,2020-07-27,Same expect Best product price range,0.0,0.457,0.543,0.6369,pos,0.0,0.344,0.656,0.6369,pos
+5.0,Nice product.,Flipkart Customer,8days ago,2020-07-27,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Good,S. Alla bakash Shaik,8days ago,2020-07-27,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good product,ASHARAF KUTTIKODAN ,8days ago,2020-07-27,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Nice products  god quality,bitla prasad,8days ago,2020-07-27,Nice product god quality,0.0,0.71,0.29,0.5994,pos,0.0,0.71,0.29,0.5994,pos
+5.0,Good,Snehashish  Das,8days ago,2020-07-27,Good,0.0,1.0,0.0,0.4404,neu,0.0,1.0,0.0,0.4404,pos
+5.0,"It's been almost a month since we purchased... I have no complaints , good choice go for it",Harsha  Dandi ,9days ago,2020-07-26,It almost month since purchase I complaint good choice go,0.168,0.221,0.611,0.1779,neu,0.0,0.244,0.756,0.6319,neu
+4.0,Average,Flipkart Customer,9days ago,2020-07-26,Average,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Nice,RUPESH  Rajkamal,9days ago,2020-07-26,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Super Extent product,Flipkart Customer,9days ago,2020-07-26,Super Extent product,0.0,0.661,0.339,0.5994,pos,0.0,0.661,0.339,0.5994,pos
+5.0,Nice,Rakhi Kumari,9days ago,2020-07-26,Nice,0.0,1.0,0.0,0.4215,neg,0.0,1.0,0.0,0.4215,neg
+3.0,Product is good. But burner quality little bad.,Anish,9days ago,2020-07-26,Product good But burner quality little bad,0.383,0.173,0.444,-0.5204,pos,0.352,0.159,0.489,-0.5204,pos
+5.0,Good one just go for it ,Karthik V,9days ago,2020-07-26,Good one go,0.0,0.592,0.408,0.4404,pos,0.0,0.367,0.633,0.4404,pos
+5.0,Good,Flipkart Customer,9days ago,2020-07-26,Good,0.0,1.0,0.0,0.4404,neg,0.0,1.0,0.0,0.4404,neg
+3.0,Below the glass material looks weak,Basavaraj Bitm Bellary,9days ago,2020-07-26,Below glass material look weak,0.42,0.0,0.58,-0.4404,pos,0.367,0.0,0.633,-0.4404,neu
+5.0,Very good....save money,Ganesh  Kumar,9days ago,2020-07-26,Very good save money,0.0,0.769,0.231,0.7698,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good,Nishad  K S,9days ago,2020-07-26,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Very nice product,Flipkart Customer,9days ago,2020-07-26,Very nice product,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,pos
+5.0,So happy with the product.. worth for the money.. the size and gap is perfect.. glass top looks good,Flipkart Customer,9days ago,2020-07-26,So happy product worth money size gap perfect glass top look good,0.0,0.675,0.325,0.9268,pos,0.0,0.505,0.495,0.923,pos
+5.0,Super b,vaghela hareshkumar premjibhai,9days ago,2020-07-26,Super b,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+5.0,Very good..... Love it,Flipkart Customer,9days ago,2020-07-26,Very good Love,0.0,0.885,0.115,0.8258,pos,0.0,0.793,0.207,0.8258,pos
+5.0,Awesome,Nivedha N,9days ago,2020-07-26,Awesome,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+5.0,Excellent,Nivedha N,9days ago,2020-07-26,Excellent,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+5.0,Mashallah good,Flipkart Customer,9days ago,2020-07-26,Mashallah good,0.0,0.744,0.256,0.4404,neu,0.0,0.744,0.256,0.4404,neu
+5.0,Led it.... As product...,Naziya  Roushan ,9days ago,2020-07-26,Led As product,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Ok super,Flipkart Customer,9days ago,2020-07-26,Ok super,0.0,1.0,0.0,0.7269,neu,0.0,1.0,0.0,0.7269,neu
+3.0,Quality issues,RANJAN KUMAR MAHATO,9days ago,2020-07-26,Quality issue,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Very very good product,Flipkart Customer,9days ago,2020-07-26,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.536,0.464,0.5379,pos
+5.0,Good value,Flipkart Customer,9days ago,2020-07-26,Good value,0.0,1.0,0.0,0.6486,pos,0.0,1.0,0.0,0.6486,pos
+5.0,Best,Mumtajthakor Thakor,9days ago,2020-07-26,Best,0.0,1.0,0.0,0.6369,pos,0.0,1.0,0.0,0.6369,pos
+5.0,Nice product,suraj  pandey,9days ago,2020-07-26,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Super,Flipkart Customer,9days ago,2020-07-26,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+3.0,Very nice,Flipkart Customer,9days ago,2020-07-26,Very nice,0.0,0.756,0.244,0.4754,pos,0.0,0.756,0.244,0.4754,pos
+4.0,Good,Flipkart Customer,9days ago,2020-07-26,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Thank you Flipkart.... delivery on time.. very nice gas stove..I like it..,Kiran Pagare,9days ago,2020-07-26,Thank Flipkart delivery time nice gas stove I like,0.0,0.565,0.435,0.7783,pos,0.0,0.473,0.527,0.796,pos
+4.0,Very nice product,Flipkart Customer,9days ago,2020-07-26,Very nice product,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,pos
+5.0,Based on 1 week use of stove it s really good product with very less price. Must buy..,Flipkart Customer,9days ago,2020-07-26,Based 1 week use stove really good product less price Must buy,0.0,0.225,0.775,0.4927,pos,0.0,0.158,0.842,0.4927,pos
+3.0,So nice looking,Pavan Kumar,9days ago,2020-07-26,So nice look,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,neu
+5.0,Good one ️always flip kart delivery service ultimate first impression ️ used one month no issues  proud to use make in India  product,mathan,9days ago,2020-07-26,Good one always flip kart delivery service ultimate first impression use one month issue proud use make India product,0.0,0.331,0.669,0.7845,pos,0.166,0.168,0.665,0.0119,pos
+5.0,Nice gas stove at reasonable price ,Flipkart Customer,9days ago,2020-07-26,Nice gas stove reasonable price,0.0,0.412,0.588,0.4215,pos,0.0,0.359,0.641,0.4215,pos
+4.0,Excellent product,Flipkart Customer,10days ago,2020-07-25,Excellent product,0.0,0.787,0.213,0.5719,pos,0.0,0.787,0.213,0.5719,pos
+4.0,Best product,Mohammad  Nouman ,10days ago,2020-07-25,Best product,0.0,0.808,0.192,0.6369,neu,0.0,0.808,0.192,0.6369,neu
+5.0,Ny,Flipkart Customer,10days ago,2020-07-25,Ny,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good,Flipkart Customer,10days ago,2020-07-25,Good,0.0,1.0,0.0,0.4404,neu,0.0,1.0,0.0,0.4404,neu
+5.0,Gud,Mansoor Basha,10days ago,2020-07-25,Gud,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Super product....value for money....Delivery super....,S.Periyasamy,10days ago,2020-07-25,Super product value money Delivery super,0.0,0.773,0.227,0.8807,pos,0.0,0.722,0.278,0.8316,pos
+4.0,Good,Flipkart Customer,10days ago,2020-07-25,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Excellent product,Amritanshu Mishra,10days ago,2020-07-25,Excellent product,0.0,0.787,0.213,0.5719,pos,0.0,0.787,0.213,0.5719,neu
+5.0,Fantastic...Very Fast Delivery...no complaints about the product...all working very well top level Quality Must buy if you are looking for any Sidi...,Ricon,10days ago,2020-07-25,Fantastic Very Fast Delivery complaint product working well top level Quality Must buy look Sidi,0.118,0.358,0.525,0.617,pos,0.103,0.171,0.726,0.1953,pos
+5.0,Wonderful and good product,Vijay Nannaware,10days ago,2020-07-25,Wonderful good product,0.0,0.868,0.132,0.765,pos,0.0,0.767,0.233,0.765,pos
+5.0,very nice,Rizwanul  Haque,10days ago,2020-07-25,nice,0.0,1.0,0.0,0.4215,pos,0.0,0.756,0.244,0.4754,pos
+4.0,Good product,Flipkart Customer,10days ago,2020-07-25,Good product,0.0,0.744,0.256,0.4404,neu,0.0,0.744,0.256,0.4404,neu
+5.0,To,Flipkart Customer,10days ago,2020-07-25,To,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Nice one,Dilip Prajapati,10days ago,2020-07-25,Nice one,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Nice product,Ravi Singh,10days ago,2020-07-25,Nice product,0.0,0.737,0.263,0.4215,neu,0.0,0.737,0.263,0.4215,neu
+5.0,"In the first month, gas used to run out.  Now two months",Vikram  Kumar ,10days ago,2020-07-25,In first month gas use run Now two month,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+3.0,Rate wise product is good but on the product i have not found logo of SI mark so better to purchase other one having SI mark for safety purpose.,deepak  agarwal,10days ago,2020-07-25,Rate wise product good product find logo SI mark well purchase one SI mark safety purpose,0.0,0.476,0.524,0.872,pos,0.0,0.339,0.661,0.9155,pos
+4.0,Nice looking & quality ,Akash  Edake,10days ago,2020-07-25,Nice look quality,0.0,0.583,0.417,0.4215,pos,0.0,0.483,0.517,0.4215,pos
+5.0,"Super quality, fast service... Overall it was, an awesome experience... Tax flirt...",Vishal Vasukuttan,10days ago,2020-07-25,Super quality fast service Overall awesome experience Tax flirt,0.0,0.533,0.467,0.8402,pos,0.0,0.444,0.556,0.8402,pos
+5.0,Very nice,Thinesh  Thiraviyam ,10days ago,2020-07-25,Very nice,0.0,0.756,0.244,0.4754,pos,0.0,0.756,0.244,0.4754,pos
+4.0,Good product,Flipkart Customer,10days ago,2020-07-25,Good product,0.0,0.744,0.256,0.4404,neu,0.0,0.744,0.256,0.4404,neu
+5.0,To,Flipkart Customer,10days ago,2020-07-25,To,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Nice one,Dilip Prajapati,10days ago,2020-07-25,Nice one,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Nice product,Ravi Singh,10days ago,2020-07-25,Nice product,0.0,0.737,0.263,0.4215,neu,0.0,0.737,0.263,0.4215,neu
+5.0,"In the first month, gas used to run out.  Now two months",Vikram  Kumar ,10days ago,2020-07-25,In first month gas use run Now two month,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+3.0,Rate wise product is good but on the product i have not found logo of SI mark so better to purchase other one having SI mark for safety purpose.,deepak  agarwal,10days ago,2020-07-25,Rate wise product good product find logo SI mark well purchase one SI mark safety purpose,0.0,0.476,0.524,0.872,pos,0.0,0.339,0.661,0.9155,pos
+4.0,Nice looking & quality ,Akash  Edake,10days ago,2020-07-25,Nice look quality,0.0,0.583,0.417,0.4215,pos,0.0,0.483,0.517,0.4215,pos
+5.0,"Super quality, fast service... Overall it was, an awesome experience... Tax flirt...",Vishal Vasukuttan,10days ago,2020-07-25,Super quality fast service Overall awesome experience Tax flirt,0.0,0.533,0.467,0.8402,pos,0.0,0.444,0.556,0.8402,pos
+5.0,Very nice,Thinesh  Thiraviyam ,10days ago,2020-07-25,Very nice,0.0,0.756,0.244,0.4754,pos,0.0,0.756,0.244,0.4754,pos
+5.0,Nice,bhima sabbithi,11days ago,2020-07-24,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Super,Flipkart Customer,11days ago,2020-07-24,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,satisfied with butterfly.style and flame is good.value for money.,Jatin  Padalia,11days ago,2020-07-24,satisfy butterfly style flame good value money,0.0,0.675,0.325,0.8074,pos,0.0,0.259,0.741,0.4215,pos
+5.0,Nice finishing and good quality,Flipkart Customer,11days ago,2020-07-24,Nice finishing good quality,0.0,0.74,0.26,0.6908,pos,0.0,0.655,0.345,0.6908,pos
+5.0,Great value for money product,Mohit Kumar,11days ago,2020-07-24,Great value money product,0.0,0.765,0.235,0.7579,pos,0.0,0.684,0.316,0.7579,pos
+5.0,Worth for price,Flipkart Customer,11days ago,2020-07-24,Worth price,0.0,0.655,0.345,0.2263,pos,0.0,0.487,0.513,0.2263,pos
+5.0,Excellent,SibI Jo,11days ago,2020-07-24,Excellent,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+5.0,Love it,Flipkart Customer,11days ago,2020-07-24,Love,0.0,1.0,0.0,0.6369,pos,0.0,0.808,0.192,0.6369,pos
+5.0,Superb ,Flipkart Customer,11days ago,2020-07-24,Superb,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+5.0,Super,Azaru Deen,11days ago,2020-07-24,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Super products am so so happy,Srinu Sri,11days ago,2020-07-24,Super product happy,0.0,0.884,0.116,0.8225,pos,0.0,0.692,0.308,0.8747,pos
+5.0,Stove was so good packing was good..,keerthini Kamaraj,11days ago,2020-07-24,Stove good packing good,0.0,0.744,0.256,0.7003,neu,0.0,0.57,0.43,0.7678,neu
+5.0,Os product,Flipkart Customer,11days ago,2020-07-24,Os product,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good,Flipkart Customer,11days ago,2020-07-24,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Very good product.... value for money,Flipkart Customer,11days ago,2020-07-24,Very good product value money,0.0,0.661,0.339,0.7056,pos,0.0,0.594,0.406,0.7056,pos
+5.0,Super,Flipkart Customer,11days ago,2020-07-24,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Very good product,Flipkart Customer,11days ago,2020-07-24,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+5.0,good product,Flipkart Customer,11days ago,2020-07-24,good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good very nice,Korra  Rajender,11days ago,2020-07-24,Good nice,0.0,1.0,0.0,0.6908,pos,0.0,0.857,0.143,0.7178,pos
+4.0,Nice beautiful  thank you  filbert...,Sivaraman Sivam,11days ago,2020-07-24,Nice beautiful thank filbert,0.0,0.902,0.098,0.8481,pos,0.0,0.821,0.179,0.8481,pos
+4.0,Thank you flipkart to send a worthful and beayoutifyoul gas stove,Flipkart Customer,11days ago,2020-07-24,Thank flipkart send worthful beayoutifyoul gas stove,0.0,0.294,0.706,0.3612,pos,0.0,0.2,0.8,0.3612,neu
+3.0,Burner is okay but middle regulator is not working properly.,Tusarkanta Nayak,11days ago,2020-07-24,Burner okay middle regulator work properly,0.0,0.275,0.725,0.2263,pos,0.0,0.139,0.861,0.1154,pos
+5.0,God product,Yathish  Gowda,11days ago,2020-07-24,God product,0.0,0.677,0.323,0.2732,pos,0.0,0.677,0.323,0.2732,pos
+5.0,Good,SURLA SURESH ,11days ago,2020-07-24,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Super products,Praveena  Chandran,11days ago,2020-07-24,Super product,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,neu
+4.0,Just good .No complain since two months of installation.,Flipkart Customer,11days ago,2020-07-24,Just good No complain since two month installation,0.0,0.455,0.545,0.6136,pos,0.202,0.234,0.565,0.1027,pos
+4.0,okay good,Flipkart Customer,11days ago,2020-07-24,okay good,0.0,1.0,0.0,0.5859,pos,0.0,1.0,0.0,0.5859,pos
+5.0,"Nice product... Worth of money ..,️1 year warranty",Flipkart Customer,11days ago,2020-07-24,Nice product Worth money 1 year warranty,0.0,0.485,0.515,0.5719,pos,0.0,0.439,0.561,0.5719,pos
+3.0,Nice one,Flipkart Customer,11days ago,2020-07-24,Nice one,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Nice beautiful  thank you  filbert...,Sivaraman Sivam,11days ago,2020-07-24,Nice beautiful thank filbert,0.0,0.902,0.098,0.8481,pos,0.0,0.821,0.179,0.8481,pos
+4.0,Thank you flipkart to send a worthful and beayoutifyoul gas stove,Flipkart Customer,11days ago,2020-07-24,Thank flipkart send worthful beayoutifyoul gas stove,0.0,0.294,0.706,0.3612,pos,0.0,0.2,0.8,0.3612,neu
+3.0,Burner is okay but middle regulator is not working properly.,Tusarkanta Nayak,11days ago,2020-07-24,Burner okay middle regulator work properly,0.0,0.275,0.725,0.2263,pos,0.0,0.139,0.861,0.1154,pos
+5.0,God product,Yathish  Gowda,11days ago,2020-07-24,God product,0.0,0.677,0.323,0.2732,pos,0.0,0.677,0.323,0.2732,pos
+5.0,Good,SURLA SURESH ,11days ago,2020-07-24,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Super products,Praveena  Chandran,11days ago,2020-07-24,Super product,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,neu
+4.0,Just good .No complain since two months of installation.,Flipkart Customer,11days ago,2020-07-24,Just good No complain since two month installation,0.0,0.455,0.545,0.6136,pos,0.202,0.234,0.565,0.1027,pos
+4.0,okay good,Flipkart Customer,11days ago,2020-07-24,okay good,0.0,1.0,0.0,0.5859,pos,0.0,1.0,0.0,0.5859,pos
+5.0,"Nice product... Worth of money ..,️1 year warranty",Flipkart Customer,11days ago,2020-07-24,Nice product Worth money 1 year warranty,0.0,0.485,0.515,0.5719,pos,0.0,0.439,0.561,0.5719,pos
+3.0,Nice one,Flipkart Customer,11days ago,2020-07-24,Nice one,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Very good product,Flipkart Customer,11days ago,2020-07-24,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+4.0,Good,Flipkart Customer,11days ago,2020-07-24,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,As this good in this range,Ravi Verma,11days ago,2020-07-24,As good range,0.0,0.592,0.408,0.4404,pos,0.0,0.367,0.633,0.4404,pos
+5.0,Nom gift Nice look,appun  Geniuz,12days ago,2020-07-23,Nom gift Nice look,0.0,0.74,0.26,0.6908,pos,0.0,0.74,0.26,0.6908,pos
+5.0,Value for money!!! I loved it,Flipkart Customer,12days ago,2020-07-23,Value money I love,0.0,0.767,0.233,0.765,pos,0.0,0.642,0.358,0.8007,pos
+5.0,Very good quality,Sajeev Soman,12days ago,2020-07-23,Very good quality,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+5.0,"Quality is  too good, I like it",Flipkart Customer,12days ago,2020-07-23,Quality good I like,0.0,0.73,0.27,0.6597,pos,0.0,0.519,0.481,0.6597,pos
+4.0,Good nice,Flipkart Customer,12days ago,2020-07-23,Good nice,0.0,1.0,0.0,0.6908,neu,0.0,1.0,0.0,0.6908,neu
+5.0,Gud,Flipkart Customer,12days ago,2020-07-23,Gud,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Awesome product.. Good worth..,Flipkart Customer,12days ago,2020-07-23,Awesome product Good worth,0.0,0.899,0.101,0.836,pos,0.0,0.899,0.101,0.836,pos
+5.0,Very good product,Flipkart Customer,11days ago,2020-07-24,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+4.0,Good,Flipkart Customer,11days ago,2020-07-24,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,As this good in this range,Ravi Verma,11days ago,2020-07-24,As good range,0.0,0.592,0.408,0.4404,pos,0.0,0.367,0.633,0.4404,pos
+5.0,Nom gift Nice look,appun  Geniuz,12days ago,2020-07-23,Nom gift Nice look,0.0,0.74,0.26,0.6908,pos,0.0,0.74,0.26,0.6908,pos
+5.0,Value for money!!! I loved it,Flipkart Customer,12days ago,2020-07-23,Value money I love,0.0,0.767,0.233,0.765,pos,0.0,0.642,0.358,0.8007,pos
+5.0,Very good quality,Sajeev Soman,12days ago,2020-07-23,Very good quality,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+5.0,"Quality is  too good, I like it",Flipkart Customer,12days ago,2020-07-23,Quality good I like,0.0,0.73,0.27,0.6597,pos,0.0,0.519,0.481,0.6597,pos
+4.0,Good nice,Flipkart Customer,12days ago,2020-07-23,Good nice,0.0,1.0,0.0,0.6908,neu,0.0,1.0,0.0,0.6908,neu
+5.0,Gud,Flipkart Customer,12days ago,2020-07-23,Gud,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Awesome product.. Good worth..,Flipkart Customer,12days ago,2020-07-23,Awesome product Good worth,0.0,0.899,0.101,0.836,0,0.0,0.899,0.101,0.836,0

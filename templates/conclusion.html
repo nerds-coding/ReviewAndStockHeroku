@@ -1,0 +1,544 @@
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Product Details</title>
+
+
+      <!-- Charlist-->
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+      <script src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+
+      <!-- Bootstraps Java Scipts Links -->
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+      <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+
+      <!-- JQuery links  -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<!-- document.write() -->
+  <script type="text/javascript">
+    // ---------------------------------- Bse Stock Price Graph ---------------------------
+    var bseOpenData = []; var bseCloseData = []; var bseHighData = []; var bseLowData = [];
+    {% for val in range(data['BseData']|length) %}
+    var dt = "{{data['BseData'][val][0]}}"
+
+    bseOpenData.push(
+    {x:new Date(dt),
+     y:{{data['BseData'][val][3]}}}
+   );
+
+    bseCloseData.push(
+    {x:new Date(dt),
+     y:{{data['BseData'][val][4]}}}
+   );
+
+    bseHighData.push(
+    {x:new Date(dt),
+     y:{{data['BseData'][val][1]}}}
+   );
+
+    bseLowData.push(
+    {x:new Date(dt),
+     y:{{data['BseData'][val][2]}}}
+   );
+
+    {% endfor %}
+
+    // ---------------------------------- NSE Stock Price Graph ---------------------------
+    var nseOpenData = []; var nseCloseData = []; var nseHighData = []; var nseLowData = [];
+    {% for val in range(data['NseData']|length) %}
+    var dt = "{{data['BseData'][val][0]}}"
+
+    nseOpenData.push(
+    {x:new Date(dt),
+     y:{{data['NseData'][val][3]}}}
+   );
+
+    nseCloseData.push(
+    {x:new Date(dt),
+     y:{{data['NseData'][val][4]}}}
+   );
+
+    nseHighData.push(
+    {x:new Date(dt),
+     y:{{data['NseData'][val][1]}}}
+   );
+
+    nseLowData.push(
+    {x:new Date(dt),
+     y:{{data['NseData'][val][2]}}}
+   );
+    {% endfor %}
+
+    // ---------------------------------- BSE Stock Price and Polarity Graph ---------------------------
+    var bseClosePrice = []; var bsePolar = [];
+    {% for val in range(data['bseAndReview']|length) %}
+    var dt = "{{data['bseAndReview'][val][0]}}"
+
+    bseClosePrice.push(
+    {x:new Date(dt),
+    y:{{data['bseAndReview'][val][1]}}}
+    )
+
+    bsePolar.push(
+    {
+      x:new Date(dt),
+      y:{{data['bseAndReview'][val][2]}}
+    }
+    )
+
+    {% endfor %}
+
+    // ---------------------------------- NSE Stock Price and Polarity Graph ---------------------------
+    var nseClosePrice = []; var nsePolar = [];
+    {% for val in range(data['nseAndReview']|length) %}
+    var dt = "{{data['bseAndReview'][val][0]}}"
+
+    nseClosePrice.push(
+    {x:new Date(dt),
+    y:{{data['nseAndReview'][val][1]}}}
+    )
+
+    nsePolar.push(
+    {
+      x:new Date(dt),
+      y:{{data['nseAndReview'][val][2]}}
+    }
+    )
+
+    {% endfor %}
+
+    // ----------------------------------  Line Chart Sentiment over time ---------------------------
+    // Data defining
+    var posValues =[];
+    {%for val in range(data['sentiment']['pos']|length)%}
+    var dt = "{{data['sentiment']['pos'][val][1]}}"
+    posValues.push({x:new Date(dt),
+              y:{{data['sentiment']['pos'][val][0]}}});
+    {% endfor %}
+
+    var negValues =[];
+    {%for val in range(data['sentiment']['neg']|length)%}
+
+    var dt = "{{data['sentiment']['neg'][val][1]}}"
+    negValues.push({x:new Date(dt),
+              y:{{data['sentiment']['neg'][val][0]}}});
+    {% endfor %}
+
+    var neuValues =[];
+    {%for val in range(data['sentiment']['neu']|length)%}
+    var dt = "{{data['sentiment']['pos'][val][1]}}"
+    neuValues.push({x:new Date(dt),
+              y:{{data['sentiment']['neu'][val][0]}}});
+    {% endfor %}
+
+    window.onload = function () {
+      // --------------------------  Line Chart For Sentiment over time -----------------------------
+var sentimentOverTime = new CanvasJS.Chart("sentimentOverTime", {
+	title: {
+		text: "Sentiment Over Time"
+	},
+	axisX: {
+    title: "Date of Review",
+		valueFormatString: "MMM YYYY"
+	},
+	axisY2: {
+		title: "Polarity Score",
+	},
+	toolTip: {
+		shared: true
+	},
+	legend: {
+		cursor: "pointer",
+		verticalAlign: "top",
+		horizontalAlign: "center",
+		dockInsidePlotArea: true,
+		itemclick: toogleDataSeries
+	},
+	data: [{
+		type:"line",
+		axisYType: "secondary",
+		name: "Positive",
+		showInLegend: true,
+		markerSize: 5,
+		yValueFormatString: "#,### Pos",
+		dataPoints: posValues
+	},
+	{
+		type: "line",
+		axisYType: "secondary",
+		name: "Negative",
+		showInLegend: true,
+		markerSize: 5,
+		yValueFormatString: "#,### Neg",
+		dataPoints: negValues
+	},
+	{
+		type: "line",
+		axisYType: "secondary",
+		name: "Neutral",
+		showInLegend: true,
+		markerSize: 5,
+		yValueFormatString: "#,### Neu",
+		dataPoints: neuValues
+	}]
+});
+sentimentOverTime.render();
+
+//Donught Chart
+// --------------------------  Polarity Count -----------------------------
+var total = negValues.length+neuValues.length+posValues.length
+var DonughtChart = new CanvasJS.Chart("DonughtChart",
+    {
+      title:{
+        text: "Polarity Count",
+        fontFamily: "Impact",
+        fontWeight: "normal"
+      },
+
+      legend:{
+        verticalAlign: "bottom",
+        horizontalAlign: "center"
+      },
+      data: [
+      {
+        startAngle: 45,
+       indexLabelFontSize: 20,
+       indexLabelFontFamily: "Garamond",
+       indexLabelFontColor: "darkgrey",
+       indexLabelLineColor: "darkgrey",
+       indexLabelPlacement: "outside",
+       type: "doughnut",
+       showInLegend: true,
+       dataPoints: [
+       {  y: posValues.length, legendText:"Positive Values "+(posValues.length/total*100).toFixed(2)+"%", indexLabel:"Positive Values "+(posValues.length/total*100).toFixed(2)+"%"},
+       {  y: negValues.length, legendText:"Negative Values "+(negValues.length/total*100).toFixed(2)+"%", indexLabel: "Negative Values "+(negValues.length/total*100).toFixed(2)+"%" },
+       {  y: neuValues.length, legendText:"Neutral Values "+(neuValues.length/total*100).toFixed(2)+"%", indexLabel: "Neutral Values "+(neuValues.length/total*100).toFixed(2)+"%" }
+       ]
+     }
+     ]
+   });
+    DonughtChart.render();
+
+
+    //Spline Chart
+    // --------------------------  Line Chart for BSE stock price -----------------------------
+    var bseStockChart = new CanvasJS.Chart("bseStockChart", {
+    	title: {
+    		text: "BSE"
+    	},
+      animationEnabled: true,
+
+    	axisX: {
+        title: "Date ",
+    		valueFormatString: "MMM YYYY"
+    	},
+    	axisY2: {
+    		title: "Rupees",
+    	},
+    	toolTip: {
+    		shared: true
+    	},
+    	legend: {
+    		cursor: "pointer",
+    		verticalAlign: "top",
+    		horizontalAlign: "center",
+    		dockInsidePlotArea: true,
+    		itemclick: toogleDataSeries
+    	},
+    	data: [{
+    		type:"line",
+    		axisYType: "secondary",
+    		name: "Open",
+    		showInLegend: true,
+    		markerSize: 0,
+    		yValueFormatString: "#,### ₹",
+    		dataPoints: bseOpenData
+    	},
+    	{
+    		type: "line",
+    		axisYType: "secondary",
+    		name: "Close",
+    		showInLegend: true,
+    		markerSize: 0,
+    		yValueFormatString: "#,### ₹",
+    		dataPoints: bseCloseData
+    	},
+      {
+    		type: "line",
+    		axisYType: "secondary",
+    		name: "High",
+    		showInLegend: true,
+    		markerSize: 0,
+    		yValueFormatString: "#,### ₹",
+    		dataPoints: bseHighData
+    	},
+    	{
+    		type: "area",
+    		axisYType: "secondary",
+    		name: "Low",
+    		showInLegend: true,
+    		markerSize: 0,
+    		yValueFormatString: "#,### ₹",
+    		dataPoints: bseLowData
+    	}],
+    });
+  bseStockChart.render();
+
+  //Spline Chart
+  // --------------------------  Line Chart for NSE stock price -----------------------------
+  var nseStockChart = new CanvasJS.Chart("nseStockChart", {
+    title: {
+      text: "NSE"
+    },
+    animationEnabled: true,
+    axisX: {
+      title: "Date ",
+      valueFormatString: "MMM YYYY"
+    },
+    axisY2: {
+      title: "Rupees",
+    },
+    toolTip: {
+      shared: true
+    },
+    legend: {
+      cursor: "pointer",
+      verticalAlign: "top",
+      horizontalAlign: "center",
+      dockInsidePlotArea: true,
+      itemclick: toogleDataSeries
+    },
+    data: [{
+      type:"line",
+      axisYType: "secondary",
+      name: "Open",
+      showInLegend: true,
+      markerSize: 0,
+      yValueFormatString: "#,### ₹",
+      dataPoints: nseOpenData
+    },
+    {
+      type: "line",
+      axisYType: "secondary",
+      name: "Close",
+      showInLegend: true,
+      markerSize: 0,
+      yValueFormatString: "#,### ₹",
+      dataPoints: nseCloseData
+    },
+    {
+      type: "line",
+      axisYType: "secondary",
+      name: "High",
+      showInLegend: true,
+      markerSize: 0,
+      yValueFormatString: "#,### ₹",
+      dataPoints: nseHighData
+    },
+    {
+      type: "area",
+      axisYType: "secondary",
+      name: "Low",
+      showInLegend: true,
+      markerSize: 0,
+      yValueFormatString: "#,### ₹",
+      dataPoints: nseLowData
+    }],
+  });
+nseStockChart.render();
+
+//Spline Chart
+// --------------------------  Line Chart for NSE stock price -----------------------------
+var bseAndReview = new CanvasJS.Chart("bseAndReview", {
+  title: {
+    text: "BSE and Polarity"
+  },
+  animationEnabled: true,
+  axisX: {
+    title: "Date ",
+    valueFormatString: "MMM YYYY"
+  },
+  axisY2: {
+    title: "Rupees",
+  },
+  toolTip: {
+    shared: true
+  },
+  legend: {
+    cursor: "pointer",
+    verticalAlign: "top",
+    horizontalAlign: "center",
+    dockInsidePlotArea: true,
+    itemclick: toogleDataSeries
+  },
+  data: [{
+    type:"line",
+    axisYType: "secondary",
+    name: "Close Price",
+    showInLegend: true,
+    markerSize: 0,
+    yValueFormatString: "#,### ₹",
+    dataPoints: bseClosePrice
+  },
+  {
+    type: "line",
+    axisYType: "secondary",
+    name: "Polarity",
+    showInLegend: true,
+    markerSize: 0,
+    yValueFormatString: "#,###",
+    dataPoints: bsePolar
+  }],
+});
+bseAndReview.render();
+
+
+//Spline Chart
+// --------------------------  Line Chart for NSE stock price -----------------------------
+var nseAndReview = new CanvasJS.Chart("nseAndReview", {
+  title: {
+    text: "NSE and Polarity"
+  },
+  animationEnabled: true,
+  axisX: {
+    title: "Date ",
+    valueFormatString: "MMM YYYY"
+  },
+  axisY2: {
+    title: "Rupees",
+  },
+  toolTip: {
+    shared: true
+  },
+  legend: {
+    cursor: "pointer",
+    verticalAlign: "top",
+    horizontalAlign: "center",
+    dockInsidePlotArea: true,
+    itemclick: toogleDataSeries
+  },
+  data: [{
+    type:"line",
+    axisYType: "secondary",
+    name: "Close Price",
+    showInLegend: true,
+    markerSize: 0,
+    yValueFormatString: "#,### ₹",
+    dataPoints: nseClosePrice
+  },
+  {
+    type: "line",
+    axisYType: "secondary",
+    name: "Polarity",
+    showInLegend: true,
+    markerSize: 0,
+    yValueFormatString: "#,###",
+    dataPoints: nsePolar
+  }],
+});
+nseAndReview.render();
+
+function toogleDataSeries(e){
+	if (typeof(e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+		e.dataSeries.visible = false;
+	} else{
+		e.dataSeries.visible = true;
+	}
+	sentimentOverTime.render();
+}
+
+}
+  </script>
+</head>
+
+<body>
+  <br>
+  <div>
+    <a href="{{url_for('homePage')}}">
+      <img src="{{productPics[8]}}" class="rounded float-left"  style="width: 50px; height:30px;">
+    </a>
+  </div>
+  <br>
+  <br>
+
+<div class="container" style="max-width: 940px;">
+  <center>
+    <div class="text-center">
+          <img src="{{productPics[imgVal]}}" class="rounded" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h1 class="card-title">{{productName}}</h1>
+      </div>
+    </div>
+
+    <div class="table">
+
+      <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Specifications</th>
+      <th scope="col">General</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+  </tbody>
+</table>
+
+    </div>
+  </center>
+</div>
+
+  <br>
+  <br>
+  <div id="sentimentOverTime" style="height: 500px; width: 100%;"></div>
+  <br>
+  <br>
+  <div id="DonughtChart" style="height: 700px; width: 100%;"></div>
+  <br>
+  <br>
+  <div id="bseStockChart" style="height: 500px; width: 100%;"></div>
+  <br>
+  <br>
+  <div id="nseStockChart" style="height: 500px; width: 100%;"></div>
+  <br>
+  <br>
+  <div id="bseAndReview" style="height: 700px; width: 100%;"></div>
+  <br>
+  <br>
+  <div id="nseAndReview" style="height: 700px; width: 100%;"></div>
+  <br>
+  <br>
+
+
+  <div class="container" style="max-width: 940px;">
+    <center>
+      <h1>Conclusion<h1>
+        <div>
+        <p>We can see from <b>BSE</b> and <b>NSE</b> graph with respect to Polarity,that products are not making any Big/Significant impact on Share Price of Company</p>
+        </div>
+    </center>
+  </div>
+
+  <br>
+  <br>
+</body>
+
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Stock Sentiment</title>
+
+	<!--------CDN for bootstrap link-------->
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+	<style>
+		a {
+			text-decoration: none;
+			color: black;
+		}
+
+		a:hover {
+			text-decoration: none;
+			color: black;
+		}
+	</style>
+
+
+</head>
+
+<body>
+
+	<br><br>
+
+	<!--------------------Body-------------------->
+	<div class="container">
+
+		<!-------------Cards-------------->
+		<div class="card-deck row row-cols-1 row-cols-md-3">
+
+			<a href="{{url_for('conclusion', type='0')}}">
+				<div class="col mb-3" id="card">
+					<div class="card shadow p-3 mb-5 bg-white rounded">
+						<img src="{{productPics[0]}}" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Butterfly Cooker</h5>
+						</div>
+					</div>
+				</div>
+			</a>
+
+			<a href="{{url_for('conclusion', type='1')}}">
+				<div class="col mb-3">
+					<div class="card shadow p-3 mb-5 bg-white rounded">
+						<img src="{{productPics[1]}}" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Butterfly Kettle</h5>
+						</div>
+					</div>
+				</div>
+			</a>
+
+			<a href="{{url_for('conclusion', type='2')}}">
+				<div class="col mb-3">
+					<div class="card shadow p-3 mb-5 bg-white rounded">
+						<img src="{{productPics[2]}}" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">ButterFly Mixer</h5>
+						</div>
+					</div>
+				</div>
+			</a>
+
+			<a href="{{url_for('conclusion', type='3')}}">
+				<div class="col mb-3">
+					<div class="card shadow p-3 mb-5 bg-white rounded">
+						<img src="{{productPics[3]}}" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Butterfly Stove</h5>
+						</div>
+					</div>
+				</div>
+			</a>
+
+			<a href="{{url_for('conclusion', type='4')}}">
+				<div class="col mb-3">
+					<div class="card shadow p-3 mb-5 bg-white rounded">
+						<img src="{{productPics[4]}}" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Butterfly Juicer</h5>
+						</div>
+					</div>
+				</div>
+			</a>
+
+			<a href="{{url_for('conclusion', type='5')}}">
+				<div class="col mb-3">
+					<div class="card shadow p-3 mb-5 bg-white rounded">
+						<img src="{{productPics[5]}}" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">Butterfly Tawa</h5>
+						</div>
+					</div>
+				</div>
+			</a>
+		</div>
+
+
+		<center>
+			<a href="{{url_for('conclusion', type='6')}}">
+				<div class="card mb-3 shadow p-3 mb-5 bg-white rounded" style="max-width: 540px;">
+					<div class="row no-gutters">
+						<div class="col-md-4">
+							<img src="{{productPics[6]}}" class="card-img" alt="...">
+						</div>
+						<div class="col-md-8">
+							<div class="card-body">
+								<h5 class="card-title">Combine Products</h5>
+								<p class="card-text">This page will display the overall impact on Stock Price.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</a>
+		</center>
+
+		<center>
+			<a href="https://github.com/nerds-coding/ProductReviewAndRelationWithStockPrice">
+				<div class="card mb-3 shadow p-3 mb-5 bg-white rounded" style="max-width: 540px;">
+					<div class="row no-gutters">
+						<div class="col-md-4">
+							<img src="{{productPics[7]}}" class="card-img" alt="...">
+						</div>
+						<div class="col-md-8">
+							<center>
+							<div class="card-body">
+								<h5 class="card-title">Source Code</h5>
+							</div>
+							</center>
+						</div>
+					</div>
+				</div>
+			</a>
+		</center>
+	</div>
+	<br><br>
+
+</body>
+
+</html>

@@ -1,0 +1,386 @@
+User Rating,User Review,User Name,Review Date,DateOfReview,FinalText,FinalTextSentimentNegative,FinalTextSentimentPositive,FinalTextSentimentNeutral,FinalTextSentimentCompound,FinalTextSentiment,UserReviewSentimentNegative,UserReviewSentimentPositive,UserReviewSentimentNeutral,UserReviewSentimentCompound,UserReviewSentiment
+5.0,Superb,Shaik Allahvali,7days ago,2020-07-27,Superb,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+4.0,Good one,B. Sheshidhar Reddy,22days ago,2020-07-12,Good one,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good Oolites,Suman karan,25days ago,2020-07-09,Good Oolites,0.0,0.744,0.256,0.4404,neg,0.0,0.744,0.256,0.4404,neg
+3.0,Bad product do not buy,Aswin Adarsh,1month ago,2020-07-03,Bad product buy,0.636,0.0,0.364,-0.5423,pos,0.467,0.0,0.533,-0.5423,pos
+5.0,Nice product and good quality,Flipkart Customer,1month ago,2020-07-03,Nice product good quality,0.0,0.74,0.26,0.6908,neg,0.0,0.655,0.345,0.6908,neg
+3.0,It's slightly defect,Flipkart Customer,1month ago,2020-07-03,It slightly defect,0.513,0.0,0.487,-0.2748,pos,0.513,0.0,0.487,-0.2748,pos
+3.0,Good tawa,Sk sujat Sujat,1month ago,2020-07-03,Good tawa,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Worth price,Flipkart Customer,5months ago,2020-03-03,Worth price,0.0,0.655,0.345,0.2263,pos,0.0,0.655,0.345,0.2263,pos
+5.0,Very good product,MOHAN BABU,5months ago,2020-03-03,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+3.0,good,Anjali Ray,5months ago,2020-03-03,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,good,Udaya Kumar,6months ago,2020-02-03,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good Product..,Yugandhar Kumar Mavuri,2months ago,2020-06-03,Good Product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+3.0,Nice good quality,Praveen  Sharma,Today,2020-08-03,Nice good quality,0.0,0.851,0.149,0.6908,pos,0.0,0.851,0.149,0.6908,pos
+4.0,Okay nice,Flipkart Customer,Today,2020-08-03,Okay nice,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+4.0,Good product ,Sikandra Kumar,Today,2020-08-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,"Amazing product with this prise range, built-in material, colour, quality and design looks eligent! Very application to purchase in my favorite application flipkart- clipart ",Flipkart Customer,1day ago,2020-08-02,Amazing product prise range build material colour quality design look eligent Very application purchase favorite application flipkart clipart,0.0,0.306,0.694,0.7943,pos,0.0,0.244,0.756,0.7959,pos
+4.0,good product,Flipkart Customer,1day ago,2020-08-02,good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+3.0,Good,Venkatesh Obadina,1day ago,2020-08-02,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Thanks Up,Patiram Yadav,1day ago,2020-08-02,Thanks Up,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Good,Flipkart Customer,1day ago,2020-08-02,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good product with low budget,Flipkart Customer,1day ago,2020-08-02,Good product low budget,0.3,0.414,0.286,0.2023,pos,0.263,0.362,0.375,0.2023,pos
+5.0,Good,Venkata Miriyala,1day ago,2020-08-02,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Nice,Flipkart Customer,2days ago,2020-08-01,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Nice product ,vinay kumar,3days ago,2020-07-31,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Very good one,Tanima Das,3days ago,2020-07-31,Very good one,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+4.0,super quality and good non stick coating...,Krishna Rockey,3days ago,2020-07-31,super quality good non stick coating,0.0,0.63,0.37,0.7783,pos,0.0,0.576,0.424,0.7783,pos
+3.0,Ok good,Dileepeb Eb,3days ago,2020-07-31,Ok good,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+5.0,Nice,Kannan Ganesan,3days ago,2020-07-31,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Good worthy to buy.....,Mohammed Shaik Razaque,3days ago,2020-07-31,Good worthy buy,0.0,0.853,0.147,0.7003,pos,0.0,0.744,0.256,0.7003,pos
+4.0,Good  but peri,Flipkart Customer,3days ago,2020-07-31,Good peri,0.0,0.744,0.256,0.4404,neu,0.0,0.494,0.506,0.2382,neu
+4.0,"Handle is not angular, it touches induction cooker.",Sujit Karmakar,3days ago,2020-07-31,Handle angular touch induction cooker,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good product with good price,Syed Amrin taj,3days ago,2020-07-31,Good product good price,0.0,0.744,0.256,0.7003,neu,0.0,0.659,0.341,0.7003,pos
+3.0,It's average...not good and not bad,Rahul Agrawal,3days ago,2020-07-31,It average good bad,0.417,0.345,0.238,-0.1531,pos,0.0,0.59,0.41,0.6956,pos
+5.0,Best products,THAKUR DHIRENDRA KUMAR,3days ago,2020-07-31,Best product,0.0,0.808,0.192,0.6369,pos,0.0,0.808,0.192,0.6369,pos
+5.0,Wow ! It's Worth of money,Flipkart Customer,3days ago,2020-07-31,Wow It Worth money,0.0,0.74,0.26,0.6908,pos,0.0,0.6,0.4,0.7177,pos
+5.0,Super,rama krishna,4days ago,2020-07-30,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Good product,Vishnu pamireddy Vishnu vardhan,4days ago,2020-07-30,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Very good,Siraj  Siraj basha,4days ago,2020-07-30,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+4.0,Good,Rajesh Kumar,4days ago,2020-07-30,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good,Hemanth kumar BL,4days ago,2020-07-30,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Very nice... worth :),Harsha R,4days ago,2020-07-30,Very nice worth,0.0,0.841,0.159,0.6453,pos,0.0,0.895,0.105,0.8193,pos
+4.0,Good one in this price.,YAKOB KRISTOPHAR  KRISTOPHAR ,4days ago,2020-07-30,Good one price,0.0,0.592,0.408,0.4404,pos,0.0,0.42,0.58,0.4404,pos
+5.0,Stoper quality really instant message happy love you flipkart,Poornima Iyer,5days ago,2020-07-29,Stoper quality really instant message happy love flipkart,0.0,0.576,0.424,0.8467,pos,0.0,0.538,0.462,0.8467,pos
+5.0,"Nice chennagide tholi... Good best yoyo can byoyoy for this rate, non stick and yoyo can also yoyose to cyoyorrent stove",Flipkart Customer,5days ago,2020-07-29,Nice chennagide tholi Good best yoyo byoyoy rate non stick yoyo also yoyose cyoyorrent stave,0.0,0.559,0.441,0.8934,pos,0.0,0.443,0.557,0.8934,pos
+5.0,It's awesome product i like it,Gangadhar ganga,5days ago,2020-07-29,It awesome product like,0.0,0.767,0.233,0.765,pos,0.0,0.623,0.377,0.765,pos
+4.0,Good,Uma,5days ago,2020-07-29,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Nice,Flipkart Customer,5days ago,2020-07-29,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,This product is good,Chandru Jiiva,6days ago,2020-07-28,This product good,0.0,0.592,0.408,0.4404,pos,0.0,0.492,0.508,0.4404,pos
+5.0,Nice quality,Flipkart Customer,6days ago,2020-07-28,Nice quality,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,nice product,Himangsho Kalita,6days ago,2020-07-28,nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Value for money,Gaurav  Trikarwar,6days ago,2020-07-28,Value money,0.0,0.706,0.294,0.34,pos,0.0,0.545,0.455,0.34,pos
+4.0,Good,Srinivasa rao  Kavuru,6days ago,2020-07-28,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Strong product also beautiful highly recommended,Santhosh Lal,6days ago,2020-07-28,Strong product also beautiful highly recommend,0.0,0.769,0.231,0.8748,pos,0.0,0.756,0.244,0.8516,pos
+5.0,Nice product,Flipkart Customer,6days ago,2020-07-28,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Good purchase hold on for it used it from past 2 days....use it gently for long life,Yasmin Sayyed,7days ago,2020-07-27,Good purchase hold use past 2 day use gently long life,0.0,0.396,0.604,0.7096,pos,0.0,0.282,0.718,0.7096,pos
+5.0,Very nice,Flipkart Customer,7days ago,2020-07-27,Very nice,0.0,0.756,0.244,0.4754,pos,0.0,0.756,0.244,0.4754,pos
+5.0,Good product but small size,khaja shaik,7days ago,2020-07-27,Good product small size,0.0,0.492,0.508,0.4404,pos,0.0,0.328,0.672,0.2382,pos
+5.0,Good protect,Vikul Kumar,8days ago,2020-07-26,Good protect,0.0,1.0,0.0,0.6705,pos,0.0,1.0,0.0,0.6705,pos
+5.0,Issue tawa.. smooth and clean those.. worth every penny,Flipkart Customer,8days ago,2020-07-26,Issue tawa smooth clean worth every penny,0.0,0.479,0.521,0.5574,pos,0.0,0.397,0.603,0.5574,pos
+3.0,It's okay,palaka n g a  hemendra,8days ago,2020-07-26,It okay,0.0,0.655,0.345,0.2263,neg,0.0,0.655,0.345,0.2263,neu
+4.0,Good at 409 rs for 28 call me tawa from a branded company . But there is a small bend at one of the edges and 3 minute indentations in the coating. Might be due to mishandling. I am still giving it 4 star because the above faults are so small and do not affect performance.,Eswar Kumar Reddy  Munnangi ,8days ago,2020-07-26,Good 409 r 28 call tawa brand company But small bend one edge 3 minute indentation coating Might due mishandle I still give 4 star fault small affect performance,0.109,0.06,0.831,-0.3818,pos,0.067,0.081,0.852,-0.0258,pos
+5.0,Nice product,Raju,8days ago,2020-07-26,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Nice product,Chethan M R,8days ago,2020-07-26,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Nice super product   speed hiding,Flipkart Customer,8days ago,2020-07-26,Nice super product speed hiding,0.202,0.615,0.183,0.6705,neu,0.202,0.615,0.183,0.6705,neu
+4.0,Solid item.,Samir Roy,8days ago,2020-07-26,Solid item,0.0,0.615,0.385,0.1531,pos,0.0,0.615,0.385,0.1531,pos
+4.0,"Good quality but small size ,",Avinash Mekala,9days ago,2020-07-25,Good quality small size,0.0,0.492,0.508,0.4404,pos,0.0,0.281,0.719,0.2382,pos
+4.0,Good product ,Abr Reddy,9days ago,2020-07-25,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good,G mahesh Mahesh,9days ago,2020-07-25,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Very good product thanks Flipkart,Rahul Kumar,9days ago,2020-07-25,Very good product thanks Flipkart,0.0,0.679,0.321,0.7474,pos,0.0,0.679,0.321,0.7474,pos
+5.0,Nice product,APPARAO KALLAM,9days ago,2020-07-25,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Amazing. ...Value for money. ..Highly recommended to all..Best product..Best quality..,Rajeshwaran  Baskaran ,9days ago,2020-07-25,Amazing Value money Highly recommend Best product Best quality,0.0,0.815,0.185,0.9563,pos,0.0,0.542,0.458,0.807,pos
+5.0,Worth for money,Silvester  Nova,9days ago,2020-07-25,Worth money,0.0,0.655,0.345,0.2263,pos,0.0,0.487,0.513,0.2263,pos
+5.0,Super quality,ADAPAKA KRISHNA MOHAN,9days ago,2020-07-25,Super quality,0.0,0.796,0.204,0.5994,pos,0.0,0.796,0.204,0.5994,pos
+5.0,Superb product.,Flipkart Customer,9days ago,2020-07-25,Superb product,0.0,0.804,0.196,0.6249,pos,0.0,0.804,0.196,0.6249,pos
+5.0,Very nice,Flipkart Customer,10days ago,2020-07-24,Very nice,0.0,0.756,0.244,0.4754,neu,0.0,0.756,0.244,0.4754,neu
+4.0,Average product,Prabir Mahato,10days ago,2020-07-24,Average product,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Very good product,Flipkart Customer,10days ago,2020-07-24,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+4.0,Good quality,Flipkart Customer,10days ago,2020-07-24,Good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Wonderful product big size and good quality,Flipkart Customer,10days ago,2020-07-24,Wonderful product big size good quality,0.0,0.623,0.377,0.765,pos,0.0,0.569,0.431,0.765,pos
+5.0,its good go for it,Rajesh babu  choragudi,10days ago,2020-07-24,good go,0.0,0.744,0.256,0.4404,pos,0.0,0.42,0.58,0.4404,pos
+5.0,good quality..... reasonable,Nisha  Bashera,10days ago,2020-07-24,good quality reasonable,0.0,0.592,0.408,0.4404,pos,0.0,0.592,0.408,0.4404,pos
+5.0,I just loved this .,Flipkart Customer,10days ago,2020-07-24,I love,0.0,0.808,0.192,0.6369,pos,0.0,0.494,0.506,0.5994,pos
+5.0,Go for it guys.....it is best in this price,Flipkart Customer,10days ago,2020-07-24,Go guy best price,0.0,0.583,0.417,0.6369,pos,0.0,0.344,0.656,0.6369,pos
+5.0,Nice product,Flipkart Customer,11days ago,2020-07-23,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Very nice TAWA,Ajay Kumar soni Soni,11days ago,2020-07-23,Very nice TAWA,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,pos
+5.0,Very good product,Flipkart Customer,11days ago,2020-07-23,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+5.0,Super,T.S. Mohan,11days ago,2020-07-23,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,good,Flipkart Customer,11days ago,2020-07-23,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,Not bad,TarakaRajesh Kolli,11days ago,2020-07-23,Not bad,0.0,0.74,0.26,0.431,pos,0.0,0.74,0.26,0.431,pos
+5.0,Super,Sasikumar Sasikumar,11days ago,2020-07-23,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,"Budget pan, love it",Jagannath Reddy Chanda,12days ago,2020-07-22,Budget pan love,0.0,0.677,0.323,0.6369,pos,0.0,0.583,0.417,0.6369,pos
+5.0,Good product,Flipkart Customer,12days ago,2020-07-22,Good product,0.0,0.744,0.256,0.4404,neu,0.0,0.744,0.256,0.4404,neu
+4.0,Just got this product,Kishore Kumar,12days ago,2020-07-22,Just get product,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,I really like it ️ I love you filpcrat,Flipkart Customer,12days ago,2020-07-22,I really like I love filpcrat,0.0,0.645,0.355,0.8051,pos,0.0,0.5,0.5,0.7902,pos
+5.0,Nice,Flipkart Customer,12days ago,2020-07-22,Nice,0.0,1.0,0.0,0.4215,neu,0.0,1.0,0.0,0.4215,neu
+5.0,"Os product ,price is reasonable",Mithu Mondal,12days ago,2020-07-22,Os product price reasonable,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Very nice,CHIRANNEEVI SAMBATH THAKKA,12days ago,2020-07-22,Very nice,0.0,0.756,0.244,0.4754,pos,0.0,0.756,0.244,0.4754,pos
+5.0,Cheap and best,Flipkart Customer,12days ago,2020-07-22,Cheap best,0.0,0.808,0.192,0.6369,pos,0.0,0.677,0.323,0.6369,pos
+5.0,Good product...,R. Gowtham,12days ago,2020-07-22,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Nice,Pritanjli Sharma,12days ago,2020-07-22,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Good product,Flipkart Customer,12days ago,2020-07-22,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+3.0,Good product but size is little small.... Very happy to receive that on time.....,Flipkart Customer,12days ago,2020-07-22,Good product size little small Very happy receive time,0.0,0.486,0.514,0.767,neu,0.0,0.37,0.63,0.7932,neu
+5.0,Gud flipkart,Siddesh Gavandalkar,12days ago,2020-07-22,Gud flipkart,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Good product.... At this prize 379rs,Flipkart Customer,12days ago,2020-07-22,Good product At prize 379rs,0.0,0.674,0.326,0.7351,pos,0.0,0.629,0.371,0.7766,pos
+5.0,Nice product!,SURESH SELVAMANI,12days ago,2020-07-22,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.756,0.244,0.4753,pos
+4.0,Better,Flipkart Customer,13days ago,2020-07-21,Better,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good product fully satisfied,Flipkart Customer,13days ago,2020-07-21,Good product fully satisfy,0.0,0.756,0.244,0.7346,pos,0.0,0.75,0.25,0.7178,pos
+5.0,Awesome,Haripriya S Nair,13days ago,2020-07-21,Awesome,0.0,1.0,0.0,0.6249,pos,0.0,1.0,0.0,0.6249,pos
+4.0,"Offcome product is original,it deserves 5 star but I got it with some scratches on it so with those minor scratches I cannot give it for the replacement, good product at this price...",Sagar Panara,13days ago,2020-07-21,Offcome product original deserve 5 star I get scratch minor scratch I give replacement good product price,0.0,0.257,0.743,0.6369,pos,0.0,0.107,0.893,0.5927,pos
+5.0,Good product,Kiran kumar  Reddy,13days ago,2020-07-21,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,its amazing,DHANVIR  SINGH,13days ago,2020-07-21,amazing,0.0,1.0,0.0,0.5859,pos,0.0,0.792,0.208,0.5859,pos
+5.0,Nice good,Ravivarma Nomula,13days ago,2020-07-21,Nice good,0.0,1.0,0.0,0.6908,pos,0.0,1.0,0.0,0.6908,pos
+4.0,Very super tawa. I like it.,Afra  Benazir ,14days ago,2020-07-20,Very super tawa I like,0.0,0.69,0.31,0.7713,pos,0.0,0.626,0.374,0.7713,pos
+4.0,Very nice  tawa,Mohammad Danish Shaikh sadique,14days ago,2020-07-20,Very nice tawa,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,pos
+5.0,I am happy,UPENDRA SINGH,14days ago,2020-07-20,I happy,0.0,0.787,0.213,0.5719,pos,0.0,0.649,0.351,0.5719,pos
+5.0,Nice company manufacturing and good delivery by flipkart,Bhargav Raghavendra,14days ago,2020-07-20,Nice company manufacturing good delivery flipkart,0.0,0.588,0.412,0.6908,pos,0.0,0.487,0.513,0.6908,pos
+5.0,Best quality superb.... Superb.. Super,suresh ryali,14days ago,2020-07-20,Best quality superb Superb Super,0.0,0.942,0.058,0.9538,pos,0.0,0.942,0.058,0.9538,pos
+5.0,Nice product,Flipkart Customer,14days ago,2020-07-20,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Thanks for faster delivery,Tushar Shahare,14days ago,2020-07-20,Thanks fast delivery,0.0,0.592,0.408,0.4404,pos,0.0,0.492,0.508,0.4404,pos
+4.0,Nice product,EBIN PM,15days ago,2020-07-19,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,"Product is best, Value for money.",Ankit Khandelwal,15days ago,2020-07-19,Product best Value money,0.0,0.767,0.233,0.765,pos,0.0,0.623,0.377,0.765,pos
+4.0,Good,Flipkart Customer,15days ago,2020-07-19,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,Products and delivery boy good,Flipkart Customer,15days ago,2020-07-19,Products delivery boy good,0.0,0.492,0.508,0.4404,pos,0.0,0.42,0.58,0.4404,pos
+5.0,I am happy,Flipkart Customer,15days ago,2020-07-19,I happy,0.0,0.787,0.213,0.5719,pos,0.0,0.649,0.351,0.5719,pos
+5.0,Super,vignesh kumar,15days ago,2020-07-19,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Good,Shaik  Ziaul haq,15days ago,2020-07-19,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good product In this price,Ravi Prakash Yadav,16days ago,2020-07-18,Good product In price,0.0,0.492,0.508,0.4404,neu,0.0,0.42,0.58,0.4404,neu
+5.0,Supper,Chinnu Abraham ,16days ago,2020-07-18,Supper,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Best,Laxmidhar purty,16days ago,2020-07-18,Best,0.0,1.0,0.0,0.6369,pos,0.0,1.0,0.0,0.6369,pos
+5.0,So awesome,Flipkart Customer,16days ago,2020-07-18,So awesome,0.0,0.815,0.185,0.659,pos,0.0,0.815,0.185,0.659,pos
+5.0,This is a good product in this price.,Divyesh Sharma,16days ago,2020-07-18,This good product price,0.0,0.492,0.508,0.4404,pos,0.0,0.293,0.707,0.4404,pos
+4.0,Good,Alla Basha,17days ago,2020-07-17,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good quality,Prithviraj Prithviraj,17days ago,2020-07-17,Good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Very good,rmanoj mano,17days ago,2020-07-17,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+5.0,Nice,DINESH DINESH ,17days ago,2020-07-17,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Good.... Really like it!!!!,Flipkart Customer,17days ago,2020-07-17,Good Really like,0.0,0.851,0.149,0.6901,pos,0.0,0.774,0.226,0.7821,pos
+5.0,Nice,RAMESH EASWARAN,17days ago,2020-07-17,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Good,PINTU KUMAR SINGH,18days ago,2020-07-16,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Nice,Satya prakash pathak,19days ago,2020-07-15,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Awesome product,Sunanda  Das,19days ago,2020-07-15,Awesome product,0.0,0.804,0.196,0.6249,pos,0.0,0.804,0.196,0.6249,pos
+4.0,Not bad,Sreeragh  Vijayakumar,19days ago,2020-07-15,Not bad,0.0,0.74,0.26,0.431,pos,0.0,0.74,0.26,0.431,pos
+4.0,Good,Naga Krisnaiah,19days ago,2020-07-15,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,same to see this picture....... super product,Flipkart Customer,19days ago,2020-07-15,see picture super product,0.0,0.565,0.435,0.5994,pos,0.0,0.394,0.606,0.5994,pos
+4.0,good,Rajesh  R,19days ago,2020-07-15,good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Very nice product it is also budget friendly and I love it thank you Flipkart,Vicky  Kumar,20days ago,2020-07-14,Very nice product also budget friendly I love thank Flipkart,0.0,0.684,0.316,0.9184,pos,0.0,0.542,0.458,0.9184,pos
+5.0,Super,Flipkart Customer,20days ago,2020-07-14,Super,0.0,1.0,0.0,0.5994,neu,0.0,1.0,0.0,0.5994,neu
+4.0,Size is a bit small,Yeswanth Reddy,20days ago,2020-07-14,Size bit small,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,This is good product and very useful,Flipkart Customer,20days ago,2020-07-14,This good product useful,0.0,0.744,0.256,0.7003,pos,0.0,0.549,0.451,0.7264,pos
+5.0,Super,Flipkart Customer,20days ago,2020-07-14,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Good,Nethra Jeeva,20days ago,2020-07-14,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,The product quality is good and has good value for money as well. But the product which I have received has a dent on one side,Flipkart Customer,20days ago,2020-07-14,The product quality good good value money well But product I receive dent one side,0.0,0.394,0.606,0.631,pos,0.0,0.245,0.755,0.631,pos
+5.0,Good quality product,Flipkart Customer,20days ago,2020-07-14,Good quality product,0.0,0.592,0.408,0.4404,pos,0.0,0.592,0.408,0.4404,pos
+5.0,So.. good ,Flipkart Customer,21days ago,2020-07-13,So good,0.0,0.762,0.238,0.4927,pos,0.0,0.744,0.256,0.4404,pos
+4.0,been using for 1 week so far so good,ravi teja,21days ago,2020-07-13,use 1 week far good,0.0,0.42,0.58,0.4404,pos,0.0,0.337,0.663,0.6213,pos
+5.0,Good Deal,GADI DHANA RAJU,21days ago,2020-07-13,Good Deal,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+3.0,Ok,Geetha Anjeline,21days ago,2020-07-13,Ok,0.0,1.0,0.0,0.296,neu,0.0,1.0,0.0,0.296,neu
+5.0,Ranks flipkart,Priya singh Singh,21days ago,2020-07-13,Ranks flipkart,0.0,0.0,1.0,0.0,neu,0.0,0.0,1.0,0.0,neu
+3.0,One nut was miss,Arpana Singh,21days ago,2020-07-13,One nut miss,0.444,0.0,0.556,-0.1531,pos,0.348,0.0,0.652,-0.1531,pos
+5.0,Useful product,Flipkart Customer,22days ago,2020-07-12,Useful product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Excellent product,Veera Babu,22days ago,2020-07-12,Excellent product,0.0,0.787,0.213,0.5719,pos,0.0,0.787,0.213,0.5719,pos
+5.0,Very nice product,Ruchi Shukla,22days ago,2020-07-12,Very nice product,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,pos
+3.0,"The product looks good . I have not used yet. but i got the product without the screws, unorder to fit the handle to tawa. Make sure during the package time that the product having all the things.",Ashna Tissy,22days ago,2020-07-12,The product look good I use yet get product without screw unorder fit handle tawa Make sure package time product thing,0.082,0.254,0.664,0.5245,pos,0.0,0.232,0.768,0.8504,pos
+5.0,Good,Flipkart Customer,22days ago,2020-07-12,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good,Dundigala  sateesh,22days ago,2020-07-12,Good,0.0,1.0,0.0,0.4404,neu,0.0,1.0,0.0,0.4404,neu
+4.0,Scratches found after using,suvendu kumar sahoo,22days ago,2020-07-12,Scratches find use,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Super,serma durai,22days ago,2020-07-12,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Super it is working too good,pullarao Kottapalli,22days ago,2020-07-12,Super work good,0.0,0.872,0.128,0.7783,pos,0.0,0.63,0.37,0.7783,pos
+4.0,nice,Flipkart Customer,22days ago,2020-07-12,nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Nice product,Shameer A,23days ago,2020-07-11,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Very good product,Surendran nair Jayasankar,23days ago,2020-07-11,Very good product,0.0,0.615,0.385,0.4927,neu,0.0,0.615,0.385,0.4927,neu
+4.0,it,jyoti maurya,23days ago,2020-07-11,,0.0,0.0,0.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,really good for it,Flipkart Customer,23days ago,2020-07-11,really good,0.0,0.762,0.238,0.4927,pos,0.0,0.516,0.484,0.4927,pos
+4.0,Not bad,Flipkart Customer,23days ago,2020-07-11,Not bad,0.0,0.74,0.26,0.431,neu,0.0,0.74,0.26,0.431,neu
+5.0,To,Flipkart Customer,24days ago,2020-07-10,To,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Nice Project,Abhijith Pattazhy,24days ago,2020-07-10,Nice Project,0.0,0.737,0.263,0.4215,neu,0.0,0.737,0.263,0.4215,neu
+4.0,Small size,suresh Kumar,24days ago,2020-07-10,Small size,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Good product,Bijitha  Regy ,25days ago,2020-07-09,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Best in class for it,Naveen N,25days ago,2020-07-09,Best class,0.0,0.808,0.192,0.6369,pos,0.0,0.512,0.488,0.6369,pos
+3.0,nice,Flipkart Customer,25days ago,2020-07-09,nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Good,Shishva Mahi,25days ago,2020-07-09,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Very good performance of this product,Furqan Adil,25days ago,2020-07-09,Very good performance product,0.0,0.516,0.484,0.4927,pos,0.0,0.39,0.61,0.4927,pos
+5.0,Nice products,Flipkart Customer,25days ago,2020-07-09,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Good product as per price.Size is perfect for north indian Dosa.,Nitesh  Sisodia ,25days ago,2020-07-09,Good product per price Size perfect north indian Dosa,0.0,0.485,0.515,0.765,pos,0.0,0.423,0.577,0.765,neu
+4.0,I like this product.. but late delivery,Flipkart Customer,25days ago,2020-07-09,I like product late delivery,0.0,0.385,0.615,0.3612,pos,0.0,0.226,0.774,0.1901,pos
+5.0,Nice product,Biradar  Sangeetha ,25days ago,2020-07-09,Nice product,0.0,0.737,0.263,0.4215,neu,0.0,0.737,0.263,0.4215,neu
+5.0,Ny product,Krishna shukla,25days ago,2020-07-09,Ny product,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good quality product and nice delivery,Flipkart Customer,25days ago,2020-07-09,Good quality product nice delivery,0.0,0.655,0.345,0.6908,pos,0.0,0.588,0.412,0.6908,pos
+5.0,"Good quality product at a great offer price....you will not get this in open market at snouch a price. Bout never byous from ""Retained"" seller. I got damaged product 2 times from that seller and i had to return the product. I changed seller to ""TLB online"" and got a good new product at a good delivery speed. So go for it.",RAHUL B,26days ago,2020-07-08,Good quality product great offer price get open market snouch price Bout never byous Retained seller I get damage product 2 time seller return product I change seller TLB online get good new product good delivery speed So go,0.085,0.256,0.659,0.86,pos,0.055,0.176,0.77,0.8698,pos
+5.0,Good quality,Raghu Ram Raghu,26days ago,2020-07-08,Good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Nice and very useful,Flipkart Customer,26days ago,2020-07-08,Nice useful,0.0,1.0,0.0,0.6908,pos,0.0,0.75,0.25,0.7178,pos
+5.0,Very Nice Product,mayank rajput,26days ago,2020-07-08,Very Nice Product,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,pos
+5.0,Nice,Ajay M,26days ago,2020-07-08,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Excellent quality.....,Nannapaneni Venkatesh chowdary,26days ago,2020-07-08,Excellent quality,0.0,0.787,0.213,0.5719,pos,0.0,0.787,0.213,0.5719,pos
+5.0,Nice,JJainpaul john,26days ago,2020-07-08,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Very good  product ,Flipkart Customer,26days ago,2020-07-08,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+4.0,Nice product,Flipkart Customer,27days ago,2020-07-07,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Bosom very nice product,Flipkart Customer,27days ago,2020-07-07,Bosom nice product,0.0,0.583,0.417,0.4215,pos,0.0,0.508,0.492,0.4754,pos
+5.0,Good,Flipkart Customer,27days ago,2020-07-07,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Its Good quality product form butterfly . I got this one 409 rs,Santosh kumar Yarlagatti,27days ago,2020-07-07,Its Good quality product form butterfly I get one 409 r,0.0,0.225,0.775,0.4404,pos,0.0,0.195,0.805,0.4404,pos
+4.0,Nice,Flipkart Customer,28days ago,2020-07-06,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Nice product,Rohan Agarwal,28days ago,2020-07-06,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Very good quality,Roshan kumar mehta,28days ago,2020-07-06,Very good quality,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+5.0,Nice product,Flipkart Customer,28days ago,2020-07-06,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Good good,Flipkart Customer,28days ago,2020-07-06,Good good,0.0,1.0,0.0,0.7003,neg,0.0,1.0,0.0,0.7003,neg
+3.0,Handle made of poor quality plastic otherwise it is okay type product with nonstick surface and induction base. Though the metal is very thin. Got brunt smell of backside colour of the product 1st 4 uses. After that no smell comes.,Flip kart  Customer ,28days ago,2020-07-06,Handle make poor quality plastic otherwise okay type product nonstick surface induction base Though metal thin Got brunt smell backside colour product 1st 4 us After smell come,0.1,0.061,0.839,-0.296,pos,0.117,0.042,0.841,-0.5267,pos
+5.0,Good quality,Chethankumar yd,28days ago,2020-07-06,Good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Nice products very fast delivery,Rajesh Kannan,28days ago,2020-07-06,Nice product fast delivery,0.0,0.483,0.517,0.4215,pos,0.0,0.412,0.588,0.4215,neg
+3.0,Wilts one side or the other on induction... Balance not good... Ok on gas burner...,Manisha Singh,28days ago,2020-07-06,Wilts one side induction Balance good Ok gas burner,0.0,0.421,0.579,0.6249,neu,0.248,0.0,0.752,-0.5096,neu
+4.0,product,Flipkart Customer,29days ago,2020-07-05,product,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,nice product..,Flipkart Customer,29days ago,2020-07-05,nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Good product,Manmohan Manu,29days ago,2020-07-05,Good product,0.0,0.744,0.256,0.4404,neu,0.0,0.744,0.256,0.4404,neu
+3.0,Gud,Flipkart Customer,29days ago,2020-07-05,Gud,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good. Size also good.,SunithaDevi,29days ago,2020-07-05,Good Size also good,0.0,0.744,0.256,0.7003,pos,0.0,0.744,0.256,0.7003,pos
+5.0,Very good butterfly rapid good,Flipkart Customer,1month ago,2020-07-03,Very good butterfly rapid good,0.0,0.67,0.33,0.7264,pos,0.0,0.67,0.33,0.7264,pos
+5.0,Fast Delivery good product,Flipkart Customer,1month ago,2020-07-03,Fast Delivery good product,0.0,0.492,0.508,0.4404,neg,0.0,0.492,0.508,0.4404,neg
+3.0,received slightly damaged product,Manish P,1month ago,2020-07-03,receive slightly damage product,0.492,0.0,0.508,-0.4417,pos,0.465,0.0,0.535,-0.3832,pos
+4.0,Good. But size is but small. Ok go for it.,Chakravarthi  Nandarapu ,1month ago,2020-07-03,Good But size small Ok go,0.0,0.543,0.457,0.5789,pos,0.0,0.373,0.627,0.5789,pos
+5.0,Good product,Flipkart Customer,1month ago,2020-07-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good,Bhukya KIRAN,1month ago,2020-07-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,"So for good, will update further after regular usage",sukumar satya,1month ago,2020-07-03,So good update regular usage,0.0,0.444,0.556,0.4927,pos,0.0,0.284,0.716,0.4902,pos
+5.0,Tawa was Great..but the size is li'l Small.. Thank You Flipkart...,Amar.Ratkal,1month ago,2020-07-03,Tawa Great size li l Small Thank You Flipkart,0.0,0.615,0.385,0.8625,pos,0.0,0.2,0.8,0.3612,pos
+5.0,Very good product,Anand A,1month ago,2020-07-03,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+4.0,Nice product value of the product at this price,Satwik T,1month ago,2020-07-03,Nice product value product price,0.0,0.634,0.366,0.6369,pos,0.0,0.426,0.574,0.6369,pos
+5.0,Good product,Flipkart Customer,1month ago,2020-07-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good tawa . Speed delivery from flipkart,Vighnesh Bhat,1month ago,2020-07-03,Good tawa Speed delivery flipkart,0.0,0.42,0.58,0.4404,neg,0.0,0.326,0.674,0.4404,neg
+5.0,High quality product with low price,Yogesh Prajapati,1month ago,2020-07-03,High quality product low price,0.344,0.0,0.656,-0.2732,pos,0.296,0.0,0.704,-0.2732,pos
+5.0,Awesome product delivery is fast very good,Mohd  GUFRAN ,1month ago,2020-07-03,Awesome product delivery fast good,0.0,0.7,0.3,0.7906,pos,0.0,0.593,0.407,0.807,pos
+4.0,Light weight and nice product at this price range.,Manali K,1month ago,2020-07-03,Light weight nice product price range,0.0,0.359,0.641,0.4215,pos,0.0,0.259,0.741,0.4215,pos
+5.0,This product was awesome... Nice quality am satisfied on this product,Ashir Ashir,1month ago,2020-07-03,This product awesome Nice quality satisfy product,0.0,0.712,0.288,0.872,pos,0.0,0.548,0.452,0.8658,pos
+4.0,Good,V v v  Nagendrakumar ,1month ago,2020-07-03,Good,0.0,1.0,0.0,0.4404,neu,0.0,1.0,0.0,0.4404,neu
+5.0,Coating of the tawa is removing.,Sidhesh Mishra,1month ago,2020-07-03,Coating tawa remove,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Super quality with reasonable  price,Ambika Nair,1month ago,2020-07-03,Super quality reasonable price,0.0,0.565,0.435,0.5994,pos,0.0,0.494,0.506,0.5994,pos
+4.0,Product is good but heat not spread around,Sana Paramesh,1month ago,2020-07-03,Product good heat spread around,0.0,0.42,0.58,0.4404,neu,0.0,0.218,0.782,0.2382,neu
+3.0,After 3 months got a middle dent,Dinesh  THANTEPPADY ,1month ago,2020-07-03,After 3 month get middle dent,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Good,Lucky kumari,1month ago,2020-07-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,Super,Flipkart Customer,1month ago,2020-07-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Good,Babu Tungala,1month ago,2020-07-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,Nice,Flipkart Customer,1month ago,2020-07-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Good product,Vikas  Jha,1month ago,2020-07-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Very Good product. Quality & Packing,Ankita Italiya,1month ago,2020-07-03,Very Good product Quality Packing,0.0,0.444,0.556,0.4927,pos,0.0,0.39,0.61,0.4927,pos
+5.0,"The product is very good quality. No complain about that. And the date of delivery is exactly the same as it was expected. So, overall it was a very good experience.",Flipkart Customer,1month ago,2020-07-03,The product good quality No complain And date delivery exactly expect So overall good experience,0.0,0.406,0.594,0.8014,pos,0.0,0.265,0.735,0.8298,pos
+4.0,good,lokesh boda,1month ago,2020-07-03,good,0.0,1.0,0.0,0.4404,neu,0.0,1.0,0.0,0.4404,neu
+5.0,Ultimate product...go for it️,Harsha K,1month ago,2020-07-03,Ultimate product go,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+3.0,Well over all average product. On induction cooker it sometimes don't work. But in this price range okay.,Aveshkhan Baloch,1month ago,2020-07-03,Well average product On induction cooker sometimes work But price range okay,0.0,0.281,0.719,0.4404,pos,0.0,0.196,0.804,0.4404,pos
+5.0,Value for money,Flipkart Customer,1month ago,2020-07-03,Value money,0.0,0.706,0.294,0.34,pos,0.0,0.545,0.455,0.34,pos
+5.0,Superb  ..,Nasreen Fathima,1month ago,2020-07-03,Superb,0.0,1.0,0.0,0.6249,pos,0.0,0.804,0.196,0.6249,pos
+5.0,Good working I recommend,Flipkart Customer,1month ago,2020-07-03,Good work I recommend,0.0,0.73,0.27,0.6597,pos,0.0,0.73,0.27,0.6597,pos
+4.0,Good Product Guilty Is good Great Value For money,Rajesh  Kulal ,1month ago,2020-07-03,Good Product Guilty Is good Great Value For money,0.147,0.644,0.209,0.8591,pos,0.147,0.644,0.209,0.8591,pos
+5.0,Small size but Of nice,srinivas Gaddam,1month ago,2020-07-03,Small size Of nice,0.0,0.483,0.517,0.4215,pos,0.0,0.481,0.519,0.5719,pos
+4.0,Good product. Thanks Tipcart.,Soundarya Mamidala,1month ago,2020-07-03,Good product Thanks Tipcart,0.0,0.744,0.256,0.7003,pos,0.0,0.744,0.256,0.7003,pos
+5.0,Love thes product. Thanks flipkart size is very good in the price,Gulshan Kushwaha,1month ago,2020-07-03,Love thes product Thanks flipkart size good price,0.0,0.667,0.333,0.875,pos,0.0,0.534,0.466,0.8832,pos
+5.0,Size only small overall performance superb,Sathish Kumar,1month ago,2020-07-03,Size small overall performance superb,0.0,0.506,0.494,0.6249,pos,0.0,0.451,0.549,0.6249,pos
+4.0,Fine,Flipkart Customer,1month ago,2020-07-03,Fine,0.0,1.0,0.0,0.2023,pos,0.0,1.0,0.0,0.2023,pos
+5.0,Good quality,Heera Newme,1month ago,2020-07-03,Good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good product,Flipkart Customer,1month ago,2020-07-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Wonderful,ramya,1month ago,2020-07-03,Wonderful,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,pos
+5.0,Gifted it to mom..For 300rs price range ! She just loved it..as a week before we asked for the same model in shop and they said 900+rs... So we just loved it !,Abinaya Chandrasekaran,1month ago,2020-07-03,Gifted mom For 300rs price range She love week ask model shop say 900 r So love,0.0,0.389,0.611,0.8902,pos,0.0,0.218,0.782,0.8641,pos
+5.0,Good product,vinod dhaka,1month ago,2020-07-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good product,Sreeraj A,1month ago,2020-07-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good quality tawa compare to other its good price is also less,Flipkart Customer,1month ago,2020-07-03,Good quality tawa compare good price also less,0.0,0.492,0.508,0.7003,pos,0.0,0.367,0.633,0.7003,pos
+5.0,Very good quality,Flipkart Customer,1month ago,2020-07-03,Very good quality,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+5.0,Very good ,Flipkart Customer,1month ago,2020-07-03,Very good,0.0,0.762,0.238,0.4927,neu,0.0,0.762,0.238,0.4927,neu
+4.0,Gud product but when received a slight dent was there,Sushant Mahajan,1month ago,2020-07-03,Gud product receive slight dent,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Nice product  by  super,vinod bhat,1month ago,2020-07-03,Nice product super,0.0,0.87,0.13,0.7717,pos,0.0,0.77,0.23,0.7717,pos
+4.0,It's okay to this price.. Interested candidates Go for Better one..,CH V V SATYANARAYANA DALU,1month ago,2020-07-03,It okay price Interested candidate Go Better one,0.0,0.6,0.4,0.7579,pos,0.0,0.484,0.516,0.7579,neu
+4.0,So nice.value for money,Manoj kumar Patra,1month ago,2020-07-03,So nice value money,0.0,0.743,0.257,0.6976,pos,0.0,0.0,1.0,0.0,pos
+5.0,Super very nice,Sankar,1month ago,2020-07-03,Super nice,0.0,1.0,0.0,0.7717,pos,0.0,0.875,0.125,0.7902,pos
+3.0,Not bad its soso,Awdhesh Kumar,1month ago,2020-07-03,Not bad soso,0.0,0.588,0.412,0.431,pos,0.0,0.487,0.513,0.431,pos
+5.0,Good product,M.r Aftab khan,1month ago,2020-07-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good brand,Flipkart Customer,1month ago,2020-07-03,Good brand,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Worth Purchasing,Kb Banerjee,1month ago,2020-07-03,Worth Purchasing,0.0,0.655,0.345,0.2263,pos,0.0,0.655,0.345,0.2263,pos
+4.0,Nice,Flipkart Customer,1month ago,2020-07-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,I have make something on this tawas it is a good experience . Nice product  thanks flipkart,AVINASH shinde,1month ago,2020-07-03,I make something tawas good experience Nice product thanks flipkart,0.0,0.551,0.449,0.8225,pos,0.0,0.381,0.619,0.8225,pos
+5.0,very good product,Flipkart Customer,1month ago,2020-07-03,good product,0.0,0.744,0.256,0.4404,pos,0.0,0.615,0.385,0.4927,pos
+4.0,Nice product,Bharath kumar,1month ago,2020-07-03,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,This is a best product i love product,Flipkart Customer,1month ago,2020-07-03,This best product love product,0.0,0.737,0.263,0.8555,pos,0.0,0.583,0.417,0.8555,pos
+4.0,Good,B.. Satheesh ,1month ago,2020-07-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Satisfied.,Flipkart Customer,1month ago,2020-07-03,Satisfied,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,V good product v happy,Flipkart Customer,1month ago,2020-07-03,V good product v happy,0.0,0.688,0.312,0.765,pos,0.0,0.688,0.312,0.765,pos
+3.0,Good,Flipkart Customer,1month ago,2020-07-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Super,sujata kumari,1month ago,2020-07-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,very nice product,Ramesh Bala,1month ago,2020-07-03,nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.607,0.393,0.4754,pos
+5.0,Product is nice  and heavy.. overall 4points .. if you have budget over this you can go for prestige. Not heavy than prestige.,Subham Saha,1month ago,2020-07-03,Product nice heavy overall 4points budget go prestige Not heavy prestige,0.0,0.219,0.781,0.4215,pos,0.0,0.113,0.887,0.4215,pos
+3.0,Good tawa,Muhammed shahal,1month ago,2020-07-03,Good tawa,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Very good product.,Sreenivas,1month ago,2020-07-03,Very good product,0.0,0.615,0.385,0.4927,pos,0.0,0.615,0.385,0.4927,pos
+5.0,Nice product... It is koand stick and  I am usiandg it.. it is really awesome..  size is also standard and big.. Go for it,Flipkart Customer,1month ago,2020-07-03,Nice product It koand stick I usiandg really awesome size also standard big Go,0.0,0.375,0.625,0.8016,pos,0.0,0.246,0.754,0.8016,pos
+4.0,Super,Mathi Yalagan,1month ago,2020-07-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Super,Manoj Manoj,1month ago,2020-07-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+3.0,Value for money,Umesh  Umesh,1month ago,2020-07-03,Value money,0.0,0.706,0.294,0.34,pos,0.0,0.545,0.455,0.34,pos
+5.0,Good,saravanan R,1month ago,2020-07-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Happy,Anupam Das,1month ago,2020-07-03,Happy,0.0,1.0,0.0,0.5719,pos,0.0,1.0,0.0,0.5719,neg
+4.0,The tawa is heavy and good quality but the handle is not good,Shalini Kumari,1month ago,2020-07-03,The tawa heavy good quality handle good,0.0,0.537,0.463,0.7003,neg,0.194,0.121,0.685,-0.2867,neg
+3.0,Bad quality,ashish singh,1month ago,2020-07-03,Bad quality,0.778,0.0,0.222,-0.5423,pos,0.778,0.0,0.222,-0.5423,pos
+5.0,Nice and durable... It's good at this price.. I recommend it...,Kumar Satyam,1month ago,2020-07-03,Nice durable It good price I recommend,0.0,0.672,0.328,0.802,pos,0.0,0.506,0.494,0.802,pos
+5.0,Very good product kam dam me thank you Flipkart,Ravi Ranjan Kumar,1month ago,2020-07-03,Very good product kam dam thank Flipkart,0.0,0.532,0.468,0.6901,pos,0.0,0.449,0.551,0.6901,pos
+4.0,Quality is very nice and packing is also good i happy with flipkart,Flipkart Customer,1month ago,2020-07-03,Quality nice packing also good happy flipkart,0.0,0.701,0.299,0.8555,pos,0.0,0.492,0.508,0.8655,pos
+4.0,Very nice product.,Deepanshu  Gupta,1month ago,2020-07-03,Very nice product,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,pos
+5.0,wonderful product,Deepak Singh,1month ago,2020-07-03,wonderful product,0.0,0.787,0.213,0.5719,pos,0.0,0.787,0.213,0.5719,pos
+5.0,Very good,Anurag Verma,1month ago,2020-07-03,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+4.0,Nice product,K P KIRAN ,1month ago,2020-07-03,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Nice product,kunal  singh,1month ago,2020-07-03,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Awesome product no complaints.. just go for it..,CHIRANJAY MISTRY,1month ago,2020-07-03,Awesome product complaint go,0.265,0.494,0.241,0.4404,neu,0.0,0.514,0.486,0.7475,neu
+3.0,Go for it ,Sanjay  K,1month ago,2020-07-03,Go,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Good product,Flipkart Customer,1month ago,2020-07-03,Good product,0.0,0.744,0.256,0.4404,neu,0.0,0.744,0.256,0.4404,neu
+4.0,Average quality,SHIJO JOY,1month ago,2020-07-03,Average quality,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+4.0,Very Good Products for This Price pointed thank you for Butterfly,Shyam  Dhotre ,1month ago,2020-07-03,Very Good Products This Price point thank Butterfly,0.0,0.487,0.513,0.6901,pos,0.0,0.387,0.613,0.6901,pos
+5.0,Very very nice products,Nikita  Singh,1month ago,2020-07-03,Very nice product,0.0,0.607,0.393,0.4754,pos,0.0,0.529,0.471,0.5222,pos
+5.0,Quick delivery.received and good coandditioand and good quality.....,Shanthi Priya,1month ago,2020-07-03,Quick delivery receive good coandditioand good quality,0.0,0.537,0.463,0.7003,pos,0.0,0.492,0.508,0.7003,pos
+5.0,Nice,Murari Satya kranthi,1month ago,2020-07-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Good,Bhanu prakash,1month ago,2020-07-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+3.0,Ok,Menaka  S,1month ago,2020-07-03,Ok,0.0,1.0,0.0,0.296,pos,0.0,1.0,0.0,0.296,pos
+4.0,Good deal.,Flipkart Customer,1month ago,2020-07-03,Good deal,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,neu
+5.0,The quality and the thickness of the tawa is good..But the holder quality is substandard.,Oshin M,1month ago,2020-07-03,The quality thickness tawa good But holder quality substandard,0.0,0.196,0.804,0.2382,pos,0.0,0.0,1.0,0.0,pos
+4.0,Worth for money,Flipkart Customer,1month ago,2020-07-03,Worth money,0.0,0.655,0.345,0.2263,pos,0.0,0.487,0.513,0.2263,pos
+4.0,Well it does it is job nicely I guess! Easy to assemble. Got nothing much to say.,Ujwal  Nambiar,1month ago,2020-07-03,Well job nicely I guess Easy assemble Got nothing much say,0.0,0.497,0.503,0.7845,pos,0.0,0.369,0.631,0.8016,pos
+5.0,Excellent ..and fast delivery tank you so mouch,Flipkart Customer,2months ago,2020-06-03,Excellent fast delivery tank mouch,0.0,0.481,0.519,0.5719,pos,0.0,0.346,0.654,0.5719,pos
+5.0,Very smart,palnisamy v,2months ago,2020-06-03,Very smart,0.0,0.75,0.25,0.4576,pos,0.0,0.75,0.25,0.4576,pos
+5.0,Delivery was perfect and the delivery guy deserves and applause,TRIVEEN,2months ago,2020-06-03,Delivery perfect delivery guy deserves applause,0.0,0.619,0.381,0.7579,pos,0.0,0.448,0.552,0.7579,pos
+5.0,wow...,CHHOTELAL SAHU,2months ago,2020-06-03,wow,0.0,1.0,0.0,0.5859,pos,0.0,1.0,0.0,0.5859,pos
+5.0,I am totally satisfied,Flipkart Customer,2months ago,2020-06-03,I totally satisfied,0.0,0.607,0.393,0.4754,pos,0.0,0.508,0.492,0.4754,pos
+5.0,Thanks tipcart,SATYAJIT  DAS,2months ago,2020-06-03,Thanks tipcart,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Good in this price,Flipkart Customer,2months ago,2020-06-03,Good price,0.0,0.744,0.256,0.4404,pos,0.0,0.492,0.508,0.4404,pos
+5.0,Nice one..liked it,Ranjita saha,2months ago,2020-06-03,Nice one like,0.0,0.841,0.159,0.6486,neg,0.0,0.583,0.417,0.4215,neg
+3.0,Product is average but I return the product because the product was damaged,Rajinikanth Mariyala,2months ago,2020-06-03,Product average I return product product damage,0.348,0.0,0.652,-0.4939,pos,0.243,0.0,0.757,-0.5927,pos
+4.0,Good Quality product,Abhishek Kushwaha,2months ago,2020-06-03,Good Quality product,0.0,0.592,0.408,0.4404,pos,0.0,0.592,0.408,0.4404,pos
+4.0,Looking good and it is light weight. Size is quite big.,Flipkart Customer,2months ago,2020-06-03,Looking good light weight Size quite big,0.0,0.326,0.674,0.4404,neu,0.0,0.225,0.775,0.4404,neu
+3.0,Small,Flipkart Customer,2months ago,2020-06-03,Small,0.0,0.0,1.0,0.0,pos,0.0,0.0,1.0,0.0,pos
+5.0,Good product,Eachhdeep  Kaur,2months ago,2020-06-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Nice,Sudhanshu  Mishra,2months ago,2020-06-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,"Quality is very good, useful product",Shahana,2months ago,2020-06-03,Quality good useful product,0.0,0.744,0.256,0.7003,pos,0.0,0.614,0.386,0.7485,pos
+4.0,Nice,Muthukumar  Muthu,2months ago,2020-06-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+4.0,Good,Flipkart Customer,3months ago,2020-05-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,good product,Richa  Sharma,3months ago,2020-05-03,good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Best for dosa,Pavan Hosalli,4months ago,2020-04-03,Best dosa,0.0,0.808,0.192,0.6369,pos,0.0,0.677,0.323,0.6369,pos
+5.0,Super,Ippili Hari Santosh Kumar ,4months ago,2020-04-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Best QualityThanks Flipkart,S.T.P.Hussaini S.T.P.Hussaini,4months ago,2020-04-03,Best QualityThanks Flipkart,0.0,0.677,0.323,0.6369,pos,0.0,0.677,0.323,0.6369,pos
+4.0,"Nice tawa ,even heating of the surface",Madhu Pal,4months ago,2020-04-03,Nice tawa even heat surface,0.0,0.412,0.588,0.4215,pos,0.0,0.318,0.682,0.4215,pos
+5.0,Good,Riaz Neetu,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+4.0,Good product,Kundan Kumar Sinku,4months ago,2020-04-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Good product,Gopesh Halder,4months ago,2020-04-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Good till now,Flipkart Customer,4months ago,2020-04-03,Good till,0.0,0.744,0.256,0.4404,pos,0.0,0.592,0.408,0.4404,pos
+4.0,Good work,Flipkart Customer,4months ago,2020-04-03,Good work,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,since super product...,Flipkart Customer,4months ago,2020-04-03,since super product,0.0,0.661,0.339,0.5994,pos,0.0,0.661,0.339,0.5994,pos
+5.0,Nice,Markkandeyan N,4months ago,2020-04-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Nice and quality pan foŕ dosa and chapatti,Sivamani S,4months ago,2020-04-03,Nice quality pan fo dosa chapatti,0.0,0.359,0.641,0.4215,pos,0.0,0.286,0.714,0.4215,pos
+5.0,Good product,Flipkart Customer,4months ago,2020-04-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,"very nice and perfect  size tawa, I like it.",Flipkart Customer,4months ago,2020-04-03,nice perfect size tawa I like,0.0,0.75,0.25,0.8402,pos,0.0,0.614,0.386,0.861,pos
+5.0,Very good,Flipkart Customer,4months ago,2020-04-03,Very good,0.0,0.762,0.238,0.4927,pos,0.0,0.762,0.238,0.4927,pos
+5.0,Good quality,naga durga allada,4months ago,2020-04-03,Good quality,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Best,S.K. Moorthy,4months ago,2020-04-03,Best,0.0,1.0,0.0,0.6369,pos,0.0,1.0,0.0,0.6369,pos
+4.0,Good product,Dhiyasika G,4months ago,2020-04-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,Ok,Abdul Jabbar,4months ago,2020-04-03,Ok,0.0,1.0,0.0,0.296,pos,0.0,1.0,0.0,0.296,pos
+4.0,Good product.,Flipkart Customer,4months ago,2020-04-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Value for money good Product 5* Rating,Flipkart Customer,4months ago,2020-04-03,Value money good Product 5 Rating,0.0,0.57,0.43,0.6486,pos,0.0,0.515,0.485,0.6486,pos
+5.0,Nice product,Saranya,4months ago,2020-04-03,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Nice tawa value for money..,Ranjeet Kumar,4months ago,2020-04-03,Nice tawa value money,0.0,0.722,0.278,0.6369,pos,0.0,0.634,0.366,0.6369,pos
+3.0,Nice product,Rajan  das,4months ago,2020-04-03,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Nice,Raghul Maari,4months ago,2020-04-03,Nice,0.0,1.0,0.0,0.4215,pos,0.0,1.0,0.0,0.4215,pos
+5.0,Super,Mercy Mercy,4months ago,2020-04-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+3.0,Good,Sunkari  Swathi ,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,good product,Pushpendra singh Dangi,4months ago,2020-04-03,good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Super,Flipkart Customer,4months ago,2020-04-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+4.0,Nice product,Ranjith  Rk,4months ago,2020-04-03,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+4.0,Good,Lijo Paul,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good,Ziaul Haque,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good,Flipkart Customer,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good,Sudheer kumar,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good product,Chinna Durai,4months ago,2020-04-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+5.0,Super,Flipkart Customer,4months ago,2020-04-03,Super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,pos
+5.0,Excellent product..,Mukul Raj,4months ago,2020-04-03,Excellent product,0.0,0.787,0.213,0.5719,pos,0.0,0.787,0.213,0.5719,pos
+4.0,Nice quality! value for money!,Abhishek Suman,4months ago,2020-04-03,Nice quality value money,0.0,0.722,0.278,0.6369,pos,0.0,0.658,0.342,0.6988,pos
+5.0,super,Flipkart Customer,4months ago,2020-04-03,super,0.0,1.0,0.0,0.5994,pos,0.0,1.0,0.0,0.5994,neg
+3.0,Oak product not very good,Saurav kumar Yadav,4months ago,2020-04-03,Oak product good,0.0,0.592,0.408,0.4404,pos,0.396,0.0,0.604,-0.3865,pos
+5.0,super good product,Flipkart Customer,4months ago,2020-04-03,super good product,0.0,0.872,0.128,0.7783,pos,0.0,0.872,0.128,0.7783,pos
+5.0,Good,Anil Pruseth,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Good,Flipkart CustomerS,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Nice products,Sweety Mahanta,4months ago,2020-04-03,Nice product,0.0,0.737,0.263,0.4215,pos,0.0,0.737,0.263,0.4215,pos
+5.0,Very nice product.,Anusha Harsha,4months ago,2020-04-03,Very nice product,0.0,0.607,0.393,0.4754,pos,0.0,0.607,0.393,0.4754,pos
+5.0,"Super, Recommended product",ANEESH M A,4months ago,2020-04-03,Super Recommended product,0.0,0.851,0.149,0.6908,pos,0.0,0.851,0.149,0.6908,pos
+5.0,Good,Flipkart Customer,4months ago,2020-04-03,Good,0.0,1.0,0.0,0.4404,pos,0.0,1.0,0.0,0.4404,pos
+5.0,Very smart .... Worth money.... Original brand.... And delivery very nice.....,Thinesh kumar,4months ago,2020-04-03,Very smart Worth money Original brand And delivery nice,0.0,0.673,0.327,0.8508,pos,0.0,0.601,0.399,0.8608,pos
+4.0,Good product in this price.,Pravat Parida,4months ago,2020-04-03,Good product price,0.0,0.592,0.408,0.4404,pos,0.0,0.42,0.58,0.4404,pos
+5.0,Best product,SHASHI Yadav,4months ago,2020-04-03,Best product,0.0,0.808,0.192,0.6369,pos,0.0,0.808,0.192,0.6369,pos
+5.0,Good product,Flipkart Customer,4months ago,2020-04-03,Good product,0.0,0.744,0.256,0.4404,pos,0.0,0.744,0.256,0.4404,pos
+4.0,God,jyoti mishra,4months ago,2020-04-03,God,0.0,1.0,0.0,0.2732,0,0.0,1.0,0.0,0.2732,0
